@@ -101,4 +101,11 @@ En Lima, los administradores y operadores de estacionamientos enfrentan procesos
 - _Creemos que los administradores que utilicen EasyPark podrán incrementar sus ingresos al optimizar la ocupación de los espacios disponibles._
    - Sabremos que nuestra hipótesis es correcta cuando los estacionamientos que usen la plataforma reporten un aumento de al menos 20% en ingresos mensuales en comparación con su operación manual previa.
 
+#### Lean UX Canvas
+
+## Segmentos objetivos
+**1. Administradores de estacionamientos formales:** Son los responsables de maximizar los ingresos y la ocupación de los estacionamientos, asegurando un servicio eficiente y seguro para los usuarios.
+
+**2. Operadores de estacionamientos:** Son quienes trabajan en el día a día controlando ingresos y salidas, asignando espacios, cobrando y atendiendo a los clientes. Necesitan herramientas simples y rápidas que les faciliten su labor, reduzcan errores y eviten conflictos con los usuarios.
+
 
