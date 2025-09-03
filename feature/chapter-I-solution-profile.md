@@ -59,11 +59,13 @@ En Lima, los administradores y operadores de estacionamientos enfrentan procesos
 + Se asume que los administradores estarán dispuestos a invertir en una plataforma digital que les permita optimizar la ocupación de espacios
 + Se asume que los operadores utilizarán la aplicación como herramienta principal para registrar ingresos/salidas, gestionar pagos y reportar incidentes
 + Se asume que, dado el aumento del tráfico y el déficit de estacionamientos formales en Lima, existe una necesidad urgente de soluciones digitales de smart parking
++ Se asume que, frente a la creciente presión por regular la informalidad en estacionamientos, los municipios y concesionarios estarán interesados en adoptar herramientas que les den mayor control
 
 **Business Outcomes**
 + Una vez validada la solución en estacionamientos de Lima, se busca escalar a otras ciudades del Perú y, posteriormente, a mercados internacionales con problemas similares de gestión
 + En el caso de los administradores, la aplicación permitirá generar ingresos recurrentes mediante licencias o suscripciones
 + La integración de la aplicación en los estacionamientos reducirá la dependencia de procesos manuales, lo que disminuirá los costos operativos y aumentará la transparencia frente a los usuarios finales
++ La aplicación contribuirá a reducir la percepción de inseguridad en estacionamientos, aumentando la confianza de los clientes
 
 **User Assumptions**
 + Se asume que los administradores valoran contar con reportes claros y en tiempo real sobre ingresos, ocupación y comportamiento de los usuarios
@@ -74,6 +76,7 @@ En Lima, los administradores y operadores de estacionamientos enfrentan procesos
 + Los administradores podrán optimizar el uso de los espacios disponibles, aumentando la ocupación y maximizando los ingresos
 + Los administradores tendrán acceso a reportes y analíticas confiables que facilitarán la toma de decisiones estratégicas como ajustar tarifas
 + Tanto administradores como operadores experimentarán mayor transparencia y control en los cobros, lo que reduce riesgos de pérdidas económicas y conflictos con clientes
++ Los operadores podrán reducir errores humanos y ahorrar tiempo en procesos manuales, lo que les permitirá enfocarse en brindar una mejor atención al usuario
 
 **Features**
 + **Dashboard en tiempo real:** Panel central para administradores que muestra la tasa de ocupación, ingresos totales e incidencias
