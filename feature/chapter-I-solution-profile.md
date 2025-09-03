@@ -92,8 +92,8 @@ En Lima, los administradores y operadores de estacionamientos enfrentan procesos
 - _Creemos que la implementación de dashboards y reportes en tiempo real ayudará a los administradores a tomar mejores decisiones sobre tarifas y promociones._
    - Sabremos que nuestra hipótesis es correcta cuando veamos que los administradores realizan ajustes en tarifas basados en los reportes y logran aumentar sus ingresos en al menos un 15%.
 
-- _Creemos que los conductores percibirán mayor seguridad y confianza al estacionar en lugares gestionados con EasyPark frente a aquellos controlados por parqueadores informales._
-   - Sabremos que nuestra hipótesis es correcta cuando recojamos encuestas positivas de los usuarios finales, indicando que prefieren estacionamientos con EasyPark.
+- _Creemos que los administradores que implementen EasyPark lograrán atraer más conductores al ofrecer un servicio formal y seguro._
+   - Sabremos que nuestra hipótesis es correcta cuando los administradores reporten un aumento en la frecuencia de clientes recurrentes y mayor ocupación de espacios frente a periodos sin EasyPark.
 
 - _Creemos que los operadores estarán motivados a usar EasyPark porque simplifica tareas rutinarias como registrar ingresos/salidas, gestionar pagos y reportar incidencias._
    - Sabremos que nuestra hipótesis es correcta cuando los operadores reduzcan en al menos un 30% el tiempo dedicado a procesos manuales.
