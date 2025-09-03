@@ -85,3 +85,20 @@ En Lima, los administradores y operadores de estacionamientos enfrentan procesos
 + **Gestión de reservas:** Sistema que permite a los operadores registrar y controlar reservas de espacios
 + **Registro y control de incidencias:** Funcionalidad para que los operadores reporten problemas con opción de adjuntar notas o fotos
 
+#### Lean UX Hypothesis Statements
+- _Creemos que los administradores de estacionamientos están dispuestos a pagar por una suscripción mensual para acceder a una plataforma que les permita gestionar ocupación, cobros y reportes en tiempo real._
+   - Sabremos que nuestra hipótesis es correcta cuando observemos un incremento en el número de estacionamientos que se suscriben y renuevan su plan después del primer mes de uso.
+
+- _Creemos que la implementación de dashboards y reportes en tiempo real ayudará a los administradores a tomar mejores decisiones sobre tarifas y promociones._
+   - Sabremos que nuestra hipótesis es correcta cuando veamos que los administradores realizan ajustes en tarifas basados en los reportes y logran aumentar sus ingresos en al menos un 15%.
+
+- _Creemos que los conductores percibirán mayor seguridad y confianza al estacionar en lugares gestionados con EasyPark frente a aquellos controlados por parqueadores informales._
+   - Sabremos que nuestra hipótesis es correcta cuando recojamos encuestas positivas de los usuarios finales, indicando que prefieren estacionamientos con EasyPark.
+
+- _Creemos que los operadores estarán motivados a usar EasyPark porque simplifica tareas rutinarias como registrar ingresos/salidas, gestionar pagos y reportar incidencias._
+   - Sabremos que nuestra hipótesis es correcta cuando los operadores reduzcan en al menos un 30% el tiempo dedicado a procesos manuales.
+
+- _Creemos que los administradores que utilicen EasyPark podrán incrementar sus ingresos al optimizar la ocupación de los espacios disponibles._
+   - Sabremos que nuestra hipótesis es correcta cuando los estacionamientos que usen la plataforma reporten un aumento de al menos 20% en ingresos mensuales en comparación con su operación manual previa.
+
+
