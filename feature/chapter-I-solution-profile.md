@@ -76,4 +76,9 @@ En Lima, los administradores y operadores de estacionamientos enfrentan procesos
 + Tanto administradores como operadores experimentarán mayor transparencia y control en los cobros, lo que reduce riesgos de pérdidas económicas y conflictos con clientes
 
 **Features**
++ **Dashboard en tiempo real:** Panel central para administradores que muestra la tasa de ocupación, ingresos totales e incidencias
++ **Gestión de espacios de estacionamiento:** Herramienta que permite a los operadores asignar, liberar o bloquear espacios de forma digital
++ **Procesamiento de pagos multicanal:** Integración de métodos de pago en efectivo, tarjeta o pasarelas digitales, con emisión automática de comprobantes y control de entradas/salidas
++ **Gestión de reservas:** Sistema que permite a los operadores registrar y controlar reservas de espacios
++ **Registro y control de incidencias:** Funcionalidad para que los operadores reporten problemas con opción de adjuntar notas o fotos
 
