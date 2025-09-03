@@ -49,9 +49,9 @@ La poca disponibilidad de espacios para estacionar, en contraste con la gran dem
 
 ### Lean UX Process
 #### Lean UX Problem Statements
-Varios conductores en Lima tienen problemas para estacionar sus vehículos debido a la falta de espacios formales, a la existencia de parqueadores informales y a la ausencia de sistemas digitales de gestión. Esto genera pérdida de tiempo, cobros abusivos, inseguridad y mayor congestión vehicular. A pesar de que hay ordenanzas municipales que regulan las tarifas, la falta de fiscalización y de herramientas tecnológicas accesibles mantiene el problema sin resolver. Frente a esta circunstancia, se plantea nuestra pregunta de negocio: 
+En Lima, los administradores y operadores de estacionamientos enfrentan procesos manuales poco eficientes, con registros en papel o sistemas limitados que dificultan el control de accesos, la transparencia en los cobros y la organización de los espacios. Esta falta de digitalización no solo afecta la eficiencia operativa, sino que también repercute en los conductores, quienes enfrentan pérdida de tiempo, inseguridad y cobros abusivos. A pesar de la existencia de ordenanzas municipales, la falta de fiscalización y herramientas tecnológicas accesibles mantiene el problema sin resolver. Frente a esta circunstancia, se plantea nuestra pregunta de negocio:
 
-***¿De qué manera podemos ayudar a los conductores y administradores de estacionamientos a optimizar la gestión de los espacios disponibles mediante una solución digital accesible, que reduzca el tiempo de búsqueda, elimine la informalidad y brinde una experiencia de estacionamiento más segura y eficiente?***
+***¿De qué manera podemos ayudar a los administradores y operadores de estacionamientos a optimizar la gestión de los espacios disponibles mediante una solución digital accesible, que mejore la eficiencia operativa, elimine la informalidad y brinde una experiencia más segura y confiable para los usuarios finales?***
 
 #### Lean UX Assumptions
 
