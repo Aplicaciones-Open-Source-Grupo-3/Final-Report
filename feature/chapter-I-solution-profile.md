@@ -66,7 +66,9 @@ En Lima, los administradores y operadores de estacionamientos enfrentan procesos
 + La integración de la aplicación en los estacionamientos reducirá la dependencia de procesos manuales, lo que disminuirá los costos operativos y aumentará la transparencia frente a los usuarios finales
 
 **User Assumptions**
-+
++ Se asume que los administradores valoran contar con reportes claros y en tiempo real sobre ingresos, ocupación y comportamiento de los usuarios
++ Se asume que los operadores estarán motivados a usar la plataforma porque simplifica tareas rutinarias como check-in/check-out, cobros y control de espacio
++ Se asume que los administradores y operadores están dispuestos a aprender a usar una interfaz digital siempre que sea intuitiva, rápida y no requiera conocimientos técnicos avanzados
 
 **User Outcomes**
 +
