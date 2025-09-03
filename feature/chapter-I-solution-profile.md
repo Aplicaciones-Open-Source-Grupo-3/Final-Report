@@ -59,10 +59,11 @@ En Lima, los administradores y operadores de estacionamientos enfrentan procesos
 + Se asume que los administradores estarán dispuestos a invertir en una plataforma digital que les permita optimizar la ocupación de espacios
 + Se asume que los operadores utilizarán la aplicación como herramienta principal para registrar ingresos/salidas, gestionar pagos y reportar incidentes
 + Se asume que, dado el aumento del tráfico y el déficit de estacionamientos formales en Lima, existe una necesidad urgente de soluciones digitales de smart parking
-+ 
 
 **Business Outcomes**
-+
++ Una vez validada la solución en estacionamientos de Lima, se busca escalar a otras ciudades del Perú y, posteriormente, a mercados internacionales con problemas similares de gestión
++ En el caso de los administradores, la aplicación permitirá generar ingresos recurrentes mediante licencias o suscripciones
++ La integración de la aplicación en los estacionamientos reducirá la dependencia de procesos manuales, lo que disminuirá los costos operativos y aumentará la transparencia frente a los usuarios finales
 
 **User Assumptions**
 +
