@@ -71,6 +71,9 @@ En Lima, los administradores y operadores de estacionamientos enfrentan procesos
 + Se asume que los administradores y operadores están dispuestos a aprender a usar una interfaz digital siempre que sea intuitiva, rápida y no requiera conocimientos técnicos avanzados
 
 **User Outcomes**
-+
++ Los administradores podrán optimizar el uso de los espacios disponibles, aumentando la ocupación y maximizando los ingresos
++ Los administradores tendrán acceso a reportes y analíticas confiables que facilitarán la toma de decisiones estratégicas como ajustar tarifas
++ Tanto administradores como operadores experimentarán mayor transparencia y control en los cobros, lo que reduce riesgos de pérdidas económicas y conflictos con clientes
+
 **Features**
 
