@@ -55,3 +55,19 @@ En Lima, los administradores y operadores de estacionamientos enfrentan procesos
 
 #### Lean UX Assumptions
 
+**Business Assumptions**
++ Se asume que los administradores estarán dispuestos a invertir en una plataforma digital que les permita optimizar la ocupación de espacios
++ Se asume que los operadores utilizarán la aplicación como herramienta principal para registrar ingresos/salidas, gestionar pagos y reportar incidentes
++ Se asume que, dado el aumento del tráfico y el déficit de estacionamientos formales en Lima, existe una necesidad urgente de soluciones digitales de smart parking
++ 
+
+**Business Outcomes**
++
+
+**User Assumptions**
++
+
+**User Outcomes**
++
+**Features**
+
