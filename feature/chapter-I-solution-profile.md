@@ -23,3 +23,27 @@ EasyPark es una innovadora aplicacion web diseñada para optimizar la gestión d
 En Lima, la congestión vehicular ha llegado a niveles críticos en los últimos años, consolidándola como la ciudad más lenta de América Latina, con velocidades promedio de solo 14.5 km/h durante horas pico (El Comercio, 2024). Este problema afecta no solo a la movilidad, sino también a la economía: según la Asociación para el Fomento de la Infraestructura Nacional (AFIN), las pérdidas anuales por congestión en Lima y Callao son superiores a S/ 27,691 millones, además de 198 horas que cada ciudadano pierde en promedio al año atrapado en el tráfico (Infobae, 2025). Esta situación evidencia una crisis estructural de movilidad urbana que, más allá del transporte público, tiene una estrecha relación con la gestión ineficaz de los estacionamientos. 
 
 A la congestión vehicular se suma la problemática del estacionamiento, ya que la ausencia de regulación y gestión oficial ha permitido que los 'parqueadores informales' ocupen espacios públicos para cobrar de forma no regulada, a menudo mediante intimidaciones (Infobae, 2024). Esto genera desorden, riesgos de seguridad y costos extra para los conductores, lo que pone en evidencia la falta de sistemas eficaces para gestionar aparcamientos. En este contexto, es imprescindible implementar soluciones digitales de smart parking que permitan un control transparente, disponibilidad en tiempo real y los pagos automatizados, mejorando tanto la labor de los administradores como la experiencia de los usuarios.
+
+Para la elaboración de la descripción de los antecedentes y problemática, hemos aplicado la técnica de The 5´W´s y 2´H´s - Who, What, Where, When, Why, How & How Much: 
+
+### 1. What / ¿Qué?
+El problema central radica en la falta de gestión eficiente de estacionamientos en Lima. La expansión de parqueadores informales ha transformado los espacios públicos en un negocio ilícito, donde los conductores deben pagar tarifas arbitrarias bajo amenazas (Infobae, 2024). En 2016, ya se estimaba un déficit de al menos 45 mil espacios formales (RPP, 2016), situación que ha empeorado en años recientes a causa del aumento ininterrumpido de vehículos.
+
+### 2. When / ¿Cuándo?
+En Lima, el problema de los estacionamientos se intensifica principalmente en las horas punta, de 6 a 9 de la mañana y de 5 a 8 de la noche, donde la congestión de vehículos es extrema (Infobae, 2023). Asimismo, la situación se complica aún más con el aumento del tráfico vehicular, que subió a nivel nacional un 6,1% en abril de 2024 (Gob.pe, 2024), pues esto provoca un incremento en la demanda de lugares para estacionar.
+
+### 3. Where / ¿Dónde?
+El problema de los estacionamientos se evidencia en zonas de alta concurrencia, como las playas de Barranco, Ancón, Pucusana y Punta Hermosa, donde la demanda durante el verano supera ampliamente la oferta disponible. Por ejemplo, Barranco tiene únicamente 230 espacios y Pucusana, 107. Esto provoca desorden y congestión (Gestión, 2025). La gestión se lleva a cabo a través de ordenanzas municipales particulares, lo que refleja la ausencia de un sistema integral de administración de estacionamientos.
+
+###  4. Who / ¿Quién?
+Los conductores son los que más sufren las consecuencias del problema de los estacionamientos, ya que deben lidiar con amenazas y cobros ilegales por parte de parqueadores informales que se apropian de la vía pública (Infobae, 2024). Estas personas trabajan en áreas con alta concurrencia, fijan tarifas arbitrarias y crean inseguridad. Además, la falta de control efectivo por parte de las autoridades locales y las municipalidades contribuye al problema, ya que permite que esta práctica irregular se expanda.
+
+### 5. Why / ¿Por qué?
+La falta de control y regulación municipal es la razón principal por la que se produce el problema de los estacionamientos, lo que ha posibilitado que los parqueadores informales tomen posesión de espacios públicos y fijen tarifas arbitrarias (Infobae, 2024). A esto se suma el crecimiento constante del parque automotor y la falta de infraestructura formal, que generan una demanda superior a la oferta.
+
+### 6. How / ¿Cómo?
+A pesar de que las ordenanzas municipales establecen tarifas de S/0.50 a S/1.00 por media hora de estacionamiento, en realidad ya eran comunes los cobros indebidos en playas como Arica y San Pedro en 2020, donde se cobraban tarifas fijas de hasta S/5 (El Comercio, 2020). 
+
+### 7. How Much / ¿Cuánto?
+La poca disponibilidad de espacios para estacionar, en contraste con la gran demanda de conductores, refleja el déficit de estacionamientos en Lima. Como ejemplo, Barranco tiene únicamente 230 espacios en el verano de 2025; Pucusana, 107; y Punta Hermosa, 322. Las tarifas van de S/0.50 a S/1.00 por media hora (Gestión, 2025). 
+
