@@ -116,7 +116,15 @@ En Lima, los administradores y operadores de estacionamientos enfrentan procesos
    - Mayor transparencia en los cobros y reducción de la informalidad en estacionamientos
    - Disminución de los costos operativos al reducir procesos manuales
   
-+ **Users & Customers:** Panel
++ **Users & Customers:**
+  
+  **USERS**
+   - **Administradores de estacionamientos:** Responsables de maximizar ingresos, ocupación y seguridad
+   - **Operadores de estacionamientos:** Encargados del control diario de ingresos, salidas, cobros y atención a los clientes
+
+  **CUSTOMERS**
+   - Municipalidades que buscan digitalizar sus sistemas de gestión de estacionamientos
+   - Empresas privadas que operan playas de estacionamiento y desean soluciones tecnológicas para mejorar su rentabilidad
   
 + **User Benefits:**
    - Los administradores tendrán acceso a reportes en tiempo real que faciliten la toma de decisiones estratégicas
