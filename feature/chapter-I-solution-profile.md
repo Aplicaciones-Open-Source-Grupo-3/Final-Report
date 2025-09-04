@@ -11,7 +11,7 @@ EasyPark es una innovadora aplicacion web diseñada para optimizar la gestión d
 ### Perfiles de integrantes del equipo
 |  |   Descripción   |
 |------------|------------|
-|[Foto] |Mi nombre es |
+|[Foto] |Mi nombre es Fátima Belén Florez Shimabukuro, mi código de estudiante es U202320610, estudio la carrera de Ingeniería de Software y actualmente curso el quinto ciclo. Entre mis principales habilidades destaco el trabajo en equipo y la capacidad de cumplir con los plazos establecidos. Además, cuento constartupmientos en C++, Python, SQL, HTML y CSS, lo que me permitirá contribuir de manera efectiva al desarrollo de la startup. |
 |[Foto] |Mi nombre es |
 |[Foto] |Mi nombre es |
 |[Foto] |Mi nombre es |
@@ -102,19 +102,19 @@ En Lima, los administradores y operadores de estacionamientos enfrentan procesos
    - Sabremos que nuestra hipótesis es correcta cuando los estacionamientos que usen la plataforma reporten un aumento de al menos 20% en ingresos mensuales en comparación con su operación manual previa.
 
 #### Lean UX Canvas
-+ **Business problem:** En Lima, la falta de gestión eficiente de estacionamientos formales ha permitido el crecimiento de los parqueadores informales, así como la inseguridad y congestión vehicular. Los operadores aún dependen de métodos manuales poco confiables, mientras que los administradores carecen de herramientas digitales para optimizar la ocupación y la transparencia de los cobros.
++ **Business problem:** En Lima, la falta de gestión eficiente de estacionamientos formales ha permitido el crecimiento de los parqueadores informales, así como la inseguridad y congestión vehicular. Los operadores aún dependen de métodos manuales poco confiables, mientras que los administradores carecen de herramientas digitales para optimizar la ocupación y la transparencia en los cobros.
   
 + **Solutions Ideas:**
-   - Crear una plataforma web que permita a los administradores visualizar en tiempo real los ingresos al estacionamiento
+   - Crear una plataforma web que permita a los administradores visualizar en tiempo real los ingresos y la ocupación de los estacionamientos
    - Implementar un sistema digital de registro de entradas y salidas
    - Integrar métodos de pago multicanal para mayor comodidad y control
    - Incorporar un módulo de reportes y analíticas que apoye la toma de decisiones sobre tarifas, promociones y eficiencia operativa
    - Desarrollar una herramienta para operadores que simplifique las tareas de check-in, check-out y reporte de incidencias
      
 + **Business Outcomes:**
-   - Aumento de ingresos de los administradores al optimizar la ocupación de estacionamientos
+   - Incremento de ingresos para los administradores al optimizar la ocupación de los espacios
    - Mayor transparencia en los cobros y reducción de la informalidad en estacionamientos
-   - Disminución de los costos operativos al reducir procesos manuales
+   - Disminución de los costos operativos al digitalizar procesos manuales
   
 + **Users & Customers:**
   
