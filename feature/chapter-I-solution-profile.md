@@ -102,6 +102,33 @@ En Lima, los administradores y operadores de estacionamientos enfrentan procesos
    - Sabremos que nuestra hipótesis es correcta cuando los estacionamientos que usen la plataforma reporten un aumento de al menos 20% en ingresos mensuales en comparación con su operación manual previa.
 
 #### Lean UX Canvas
++ **Business problem:** En Lima, la falta de gestión eficiente de estacionamientos formales ha permitido el crecimiento de los parqueadores informales, así como la inseguridad y congestión vehicular. Los operadores aún dependen de métodos manuales poco confiables, mientras que los administradores carecen de herramientas digitales para optimizar la ocupación y la transparencia de los cobros.
+  
++ **Solutions Ideas:**
+   - Crear una plataforma web que permita a los administradores visualizar en tiempo real los ingresos al estacionamiento
+   - Implementar un sistema digital de registro de entradas y salidas
+   - Integrar métodos de pago multicanal para mayor comodidad y control
+   - Incorporar un módulo de reportes y analíticas que apoye la toma de decisiones sobre tarifas, promociones y eficiencia operativa
+   - Desarrollar una herramienta para operadores que simplifique las tareas de check-in, check-out y reporte de incidencias
+     
++ **Business Outcomes:**
+   - Aumento de ingresos de los administradores al optimizar la ocupación de estacionamientos
+   - Mayor transparencia en los cobros y reducción de la informalidad en estacionamientos
+   - Disminución de los costos operativos al reducir procesos manuales
+  
++ **Users & Customers:** Panel
+  
++ **User Benefits:**
+   - Los administradores tendrán acceso a reportes en tiempo real que faciliten la toma de decisiones estratégicas
+   - Los operadores podrán reducir errores manuales y ahorrar tiempo en procesos repetitivos
+   - Mayor transparencia en los cobros, reduciendo riesgos de pérdidas económicas y conflictos con los conductores
+   - Mejora de la seguridad y confianza en los estacionamientos formales frente a los informales
+
++ **Hypothesis:** Creemos que los administradores que utilicen EasyPark podrán incrementar sus ingresos al optimizar la ocupación de los espacios disponibles. Sabremos que nuestra hipótesis es correcta cuando los estacionamientos que usen la plataforma reporten un aumento de al menos 20% en ingresos mensuales en comparación con su operación manual previa.
+  
++ **What’s the most important thing we need to learn first?:** Necesitamos confirmar si os administradores y operadores están dispuestos a adoptar una solución digital en lugar de procesos manuales.
+  
++ **What’s the least amount of work we need to do to learn the next most important thing?:** Desarrollar una interfaz web con funciones básicas de control de ingreso y salida, así como también reportes de ocupación para probar en un estacionamiento piloto, recolectando retroalimentación de administradores y operadores sobre su utilidad.
 
 ## Segmentos objetivos
 **1. Administradores de estacionamientos formales:** Son los responsables de maximizar los ingresos y la ocupación de los estacionamientos, asegurando un servicio eficiente y seguro para los usuarios.
