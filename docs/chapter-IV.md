@@ -99,6 +99,26 @@ Para la elaboración de los wireframes de la landing page, hemos utilizado la he
 ### 4.3.2. Landing Page Mock-up
 Para la elaboración de los mock-ups de la landing page, hemos utilizado la herramienta de Figma para el proceso de diseño.
 
+**Main section**: Es la sección principal de la landing page.
+
+![main img](/assets/images/chapter-IV/LandingPage-mockup-Main.png)
+
+**About section**: Es la seccion donde se presenta el producto
+
+![about img](/assets/images/chapter-IV/LandingPage-mockup-About.png)
+
+**How it works section**: Es la seccion donde se presentan las caracteristicas del producto
+
+![about img](/assets/images/chapter-IV/LandingPage-mockup-Howitworks.png)
+
+**Pricing section**: Es la seccion donde se muestra los planes de suscripcion a los usuarios
+
+![about img](/assets/images/chapter-IV/LandingPage-mockup-Pricing.png)
+
+**Contact section**: Es la seccion donde es usuario puede contactarse con el equipo
+
+![about img](/assets/images/chapter-IV/LandingPage-mockup-Contact.png)
+
 ## 4.4. Web Applications UX/UI Design
 En esta sección se incluyen secciones internas en el cual se presentará y explicará la propuesta visual y de interacción para las aplicaciones que conforman la interacción del usuario con los productos digitales.
 
