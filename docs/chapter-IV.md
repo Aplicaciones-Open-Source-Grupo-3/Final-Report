@@ -3,42 +3,104 @@
 En esta sección, presentamos nuestra propuesta de diseño para el landing page y la aplicación web. 
 
 ### 4.1.1. General Style Guidelines
-Aquí se muestran las normas básicas que nos permiten mantener una presentación clara y coherente de nuestros productos.
+**Tono de Comunicación** <br>
+EasyPark comunica eficiencia, modernidad y confianza. Su tono es profesional, directo y claro, pensado para administradores y operadores de estacionamientos que necesitan rapidez en la gestión. La experiencia busca transmitir seguridad y control, con un lenguaje sencillo y accesible.
 
-#### **Colores**
+**Tipografía:** <br>
+- **Inter Bold** → Títulos y subtítulos (claridad y jerarquía).
+- **Inter Medium** → Textos descriptivos y secundarios (legibilidad y neutralidad).
 
- 
+**Colores de la Marca:**<br>
 
-#### Tipografía
+- **Primarios:**
+  
+    - **Azul Casi Negro (#121A21):** fondo principal de la aplicación.
+    - **Azul Profundo (#1A2633):** fondos de cuadros interactivos.
+    - **Azul Brillante (#1273D4):** botones primarios y acciones principales.
+    - **Blanco (#FFFFFF):** títulos, subtítulos y textos principales.
 
+- **Secudarios:**
 
+    - **Celeste Claro (#91ADC9):** textos secundarios.
+    - **Azul Marino (#243647):** cuadros de texto.
+    - **Azul Oscuro (#334D66):** bordes.
+    - **Gris Claro (#E5E8EB):** líneas separadoras.
+    - **Gris Medio (#757575):** descripciones, textos secundarios.
+    - **Verde (#0AD95C):** estados disponibles, éxito.
+    - **Naranja (#FA6138):** alertas y notificaciones.
 
-#### **Spacing**
+**Paleta de Colores:**<br>
 
+| Color           | Código Hex | Uso Principal                             |
+| --------------- | ---------- | ----------------------------------------- |
+| Blanco          | #FFFFFF    | Títulos, subtitulos, textos                       |
+| Celeste Claro   | #91ADC9    | Textos secundarios           |
+| Azul Marino     | #243647    | Cuadros de texto          |
+| Gris Claro      | #E5E8EB    | Lineas separadoras              |
+| Azul Oscuro     | #334D66    | Bordes                 |
+| Azul Profundo   | #1A2633    | Fondos de cuadros interactivos            |
+| Azul Casi Negro | #121A21    | Fondo de la aplicación                |
+| Azul Brillante  | #1273D4    | Botones primarios, acciones principales   |
+| Gris Medio      | #757575    | Textos secundarios, descripciones         |
+| Verde           | #0AD95C    | Estados disponibles, éxito en operaciones |
+| Naranja         | #FA6138    | Alertas y notificaciones                  |
 
-
-
-#### **Branding**
-
- #### **Logo**
-
- 
-
-#### Tono de Comunicación
-
+**Spacing y Layout:**<br>
+- **Espaciado amplio:** se prioriza la lectura y el orden visual.
+- **Margen mínimo:** 16px en mobile, 24px en desktop.
+- **Grid layout:** 12 columnas en desktop, 4–6 en mobile.
+- **Botones:** rectangulares con esquinas levemente redondeadas (border-radius 8–12px), padding interno (12px 24px).
+- **Consistencia:** todas las pantallas mantienen el mismo patrón de navegación lateral y secciones de contenido centralizadas.
 
 
 ### 4.1.2. Web Style Guidelines
 
 Se utilizó el patrón de lectura Z para guiar la atención del usuario desde el logo y menú superior, hacia el mensaje principal y finalmente a la imagen del producto. Este recorrido visual permite una lectura fluida y rápida, ideal para captar el mensaje en pocos segundos.
 
+**Responsive Design**
+El diseño se adapta a desktop, tablet y mobile. Se mantiene un look & feel oscuro con acentos de color para guiar la atención.
 
+**Componentes Implementados:**
+- **Login/Register/Remember:** formularios simples con contraste claro.
+- **Dashboard (Admin/Operator):** panel lateral con accesos rápidos + mapa central con estado en tiempo real.
+- **Gestión de Plazas:** tabla + mapa visual con colores según disponibilidad.
+- **Reportes y Analítica:** gráficas, métricas de ingresos, ocupación y actividad.
+- **Pantalla de Operador:** flujos rápidos de entrada/salida y procesamiento de pagos.
+
+**Interacciones:**
+- **Hover sobre botones:** cambio de tonalidad (azul → celeste).
+- **Indicadores dinámicos:** verde para disponible, rojo para ocupado, naranja para incidencia.
+- **Animaciones ligeras:** transiciones suaves al cambiar de vistas.
 
 ## 4.2. Information Architecture
+Orden lógico de las secciones
 
+1. **Login/Register/Remember**
+2. **Administrador**
+   
+   - Dashboard general (mapa + métricas).
+   - Configuración de estacionamiento.
+   - Gestión de plazas (mapa/tabla).
+   - Tarifas y abonos.
+   - Gestión de operadores.
+   - Reportes y analítica.
+
+3. **Operador**
+
+    - Registro de entradas (ticket QR o impreso).
+    - Procesar salidas (cobro + liberación de plaza).
+    - Control en tiempo real.
+    - Reporte de incidencias.
+    - Reservas y clientes abonados.
 
 ### 4.2.1. Organization Systems
 
+- **Jerárquico:** primero la visión general (ocupación), luego la gestión detallada (plazas, tarifas, usuarios).
+- **Secuencial:** flujo de entrada → pago → salida.
+- **Por audiencia:**
+  
+  - Administradores → configuración, métricas, control total.
+  - Operadores → flujos rápidos de entradas/salidas y resolución de incidencias.
 
 ### 4.2.2. Labeling Systems
 
