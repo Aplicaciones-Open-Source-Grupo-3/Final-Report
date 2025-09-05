@@ -76,6 +76,18 @@ En esta sección se presenta el diseño de la Landing Page de EasyPark, enfocado
 ### 4.3.1. Landing Page Wireframe
 Para la elaboración de los wireframes de la landing page, hemos utilizado la herramienta de Figma para el proceso de diseño.
 
+**Main section**: Es la sección principal de la landing page.
+
+![main img](/assets/images/chapter-IV/LandingPage-wireframe-Main.png)
+
+**About section**: Es la seccion donde se presenta el producto
+
+![about img](/assets/images/chapter-IV/LandingPage-wireframe-About.png)
+
+**How it works section**: Es la seccion donde se presentan las caracteristicas del producto
+
+![about img](/assets/images/chapter-IV/LandingPage-wireframe-Howitworks_.png)
+
 ### 4.3.2. Landing Page Mock-up
 Para la elaboración de los mock-ups de la landing page, hemos utilizado la herramienta de Figma para el proceso de diseño.
 
