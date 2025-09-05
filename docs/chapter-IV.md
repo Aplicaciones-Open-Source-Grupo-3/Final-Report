@@ -86,7 +86,15 @@ Para la elaboración de los wireframes de la landing page, hemos utilizado la he
 
 **How it works section**: Es la seccion donde se presentan las caracteristicas del producto
 
-![about img](/assets/images/chapter-IV/LandingPage-wireframe-Howitworks_.png)
+![about img](/assets/images/chapter-IV/LandingPage-wireframe-Howitworks.png)
+
+**Pricing section**: Es la seccion donde se muestra los planes de suscripcion a los usuarios
+
+![about img](/assets/images/chapter-IV/LandingPage-wireframe-Pricing.png)
+
+**Contact section**: Es la seccion donde es usuario puede contactarse con el equipo
+
+![about img](/assets/images/chapter-IV/LandingPage-wireframe-Contact.png)
 
 ### 4.3.2. Landing Page Mock-up
 Para la elaboración de los mock-ups de la landing page, hemos utilizado la herramienta de Figma para el proceso de diseño.
