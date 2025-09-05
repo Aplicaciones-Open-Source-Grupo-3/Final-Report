@@ -123,23 +123,21 @@ Para la elaboración de los mock-ups de la landing page, hemos utilizado la herr
 En esta sección se incluyen secciones internas en el cual se presentará y explicará la propuesta visual y de interacción para las aplicaciones que conforman la interacción del usuario con los productos digitales.
 
 ### 4.4.1. Web Applications Wireframes
-
+![wireframes_web](/assets/images/chapter-IV/wireframes_web.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-
-
-
 ### 4.4.3. Web Applications Mock-ups
 
-
-
+![mockups_web](/assets/images/chapter-IV/mockups_web.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+![user_flow_diagram](/assets/images/chapter-IV/user_flow_diagram.png)
 
 ## 4.5. Web Applications Prototyping
 
+![user_flow_diagram](/assets/images/chapter-IV/user_flow_diagram.png)
 
 ## 4.6. Domain-Driven Software Architecture
 
