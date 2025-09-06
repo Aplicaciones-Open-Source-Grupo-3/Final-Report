@@ -12,7 +12,7 @@ EasyPark es una innovadora aplicacion web diseñada para optimizar la gestión d
 |  |   Descripción   |
 |------------|------------|
 |[Foto] |Mi nombre es Fátima Belén Florez Shimabukuro, mi código de estudiante es U202320610, estudio la carrera de Ingeniería de Software y actualmente curso el quinto ciclo. Entre mis principales habilidades destaco el trabajo en equipo y la capacidad de cumplir con los plazos establecidos. Además, cuento constartupmientos en C++, Python, SQL, HTML y CSS, lo que me permitirá contribuir de manera efectiva al desarrollo de la startup. |
-|[Foto] |Mi nombre es |
+|[Foto] |Mi nombre es Piero Hugo Elescano Leon, mi código de estudiante es U202313354, estudio la carrera de Ingeniería de Software y actualmente estoy en el sexto ciclo. Mis principales habilidades son el desarrollo de software, especialmente las aplicaciones web, haciendo uso de los lenguajes c# y java, estas habilidades serán muy importantes para el desarrollo del proyecto. |
 |[Foto] |Mi nombre es |
 |[Foto] |Mi nombre es |
 |[Foto] |Mi nombre es |
