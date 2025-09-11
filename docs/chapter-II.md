@@ -248,7 +248,32 @@ El objetivo de esta sección es comparar a EasyPark con las principales alternat
 
 
 ### 2.2.1. Diseño de entrevistas
+A continuación, se presenta un diseño de entrevistas para EasyPark, que facilitará la comprensión de las necesidades, los retos y las oportunidades de nuestra startup. Planteamos modelos de entrevistas con preguntas para los siguientes segmentos objetivo: administradores y operadores de estacionamientos.
 
+#### Presentación
+Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] en [Tu universidad]. Junto a mi equipo, estamos desarrollando una plataforma llamada EasyPark, diseñada para optimizar la gestión de estacionamientos. La aplicación permitirá visualizar en tiempo real la ocupación de los espacios, automatizar cobros y entradas, y obtener reportes confiables para mejorar la eficiencia del servicio.
+
+- #### Para administradores de estacionamientos:
+  * ¿Cuál es tu nombre completo, edad y el rol que cumples actualmente en el estacionamiento?
+  * ¿Qué métodos utilizas hoy en día para controlar ingresos, salidas y cobros en el estacionamiento?
+  * ¿Qué tan fácil o difícil es obtener reportes claros de ingresos y ocupación?
+  * ¿Has tenido problemas con pérdidas económicas, errores en cobros o conflictos con clientes? ¿Con qué frecuencia?
+  * ¿Qué herramientas digitales has utilizado hasta ahora para administrar el estacionamiento?
+  * ¿Qué aspectos consideras más importantes para mejorar la gestión de un estacionamiento?
+  * ¿Qué tanto valor le darías a una herramienta que te muestre dashboards en tiempo real sobre ocupación e ingresos?
+  * ¿Estarías dispuesto a pagar una suscripción mensual por una plataforma que te permita centralizar toda la gestión de tu estacionamiento?
+  * ¿Qué características consideras esenciales para confiar en una solución digital frente a los procesos manuales actuales?
+
+- #### Para operadores de estacionamientos:
+  * ¿Cuál es tu nombre completo, edad y el rol que cumples en el estacionamiento?
+  * ¿Qué tareas realizas diariamente relacionadas con ingresos, salidas y cobros de los vehículos?
+  * ¿Qué problemas enfrentas al registrar manualmente las entradas y salidas?
+  * ¿Con qué frecuencia ocurren errores en los cobros o conflictos con los conductores?
+  * ¿Qué tan cómodo te sentirías usando una aplicación que registre en tiempo real las entradas, salidas y pagos?
+  * ¿Qué tipo de alertas o reportes crees que serían más útiles para tu trabajo diario?
+  * ¿Crees que una plataforma como EasyPark te ayudaría a ahorrar tiempo y reducir errores? ¿Cómo?
+  * ¿Qué funcionalidades específicas te gustaría que tuviera EasyPark para facilitar tu trabajo?
+  * ¿Qué tan dispuesto estarías a aprender y usar un sistema digital si este hace tu trabajo más rápido y sencillo?
 
 
 
