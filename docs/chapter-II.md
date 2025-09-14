@@ -288,6 +288,19 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
 
 
 ## 2.3. Needfinding
+Para identificar las necesidades de los administradores y operadores de estacionamientos, utilizamos varias herramientas y métodos.
+
+**The 5W y 2H:** Nos permitió entender en profundidad los retos que afrontan los operadores y administradores, determinando cuándo y dónde suceden, por qué son persistentes y de qué manera se presentan en la práctica. Esta herramienta nos proporcionó una visión clara sobre la falta de soluciones digitales y la informalidad en los estacionamientos.
+
+**Lean UX Canvas:** Fue esencial para organizar el problema de negocio, los resultados deseados, los segmentos objetivos, los beneficios esperados y las posibles soluciones. Nos ayudó a alinear nuestra visión y dirigir nuestras decisiones de diseño desde las fases iniciales, garantizando que el producto esté enfocado en las necesidades reales del usuario.
+
+**Problem Statement:** Nos permitió definir el problema principal que nuestra solución busca resolver, evitando desviarnos con elementos secundarios. Así, conseguimos centrar los esfuerzos del equipo en un objetivo compartido y asegurarnos de que cada decisión de diseño esté directamente relacionada con la problemática principal.
+
+**Assumptions:** En esta etapa asumimos escenarios sobre el negocio de estacionamientos y el comportamiento de los usuarios. Estas suposiciones nos fueron útiles como punto de partida para establecer escenarios, prever riesgos y definir un marco de validación que nos orientara en la creación del producto.
+
+**Hypothesis Statements:** Desarrollamos hipótesis con el objetivo de comprobar la propuesta de solución al problema identificado. Este paso nos permitió convertir nuestras suposiciones en afirmaciones concretas, para probarlas con usuarios reales y obtener evidencia sobre la viabilidad de nuestro producto.
+
+**Entrevistas:** Diseñamos entrevistas para administradores y operadores de estacionamientos, con el fin de conocer sus experiencias, expectativas y frustraciones frente a la problemática. Con esta información, logramos identificar oportunidades de mejora y obtener insumos valiosos para perfeccionar nuestra propuesta.
 
 
 ### 2.3.1. User Personas
