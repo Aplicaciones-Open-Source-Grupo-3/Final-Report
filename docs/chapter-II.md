@@ -304,7 +304,9 @@ Para identificar las necesidades de los administradores y operadores de estacion
 
 
 ### 2.3.1. User Personas
+**Administrador de estacionamiento**
 
+<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/feature/chapter-II-requirements-elicitation-%26-analysis/assets/images/chapter-II/User%20Persona%201.jpg" alt="Administrador de estacionamiento" style="width: 700px; margin-right: 700px;"/>
 
 
 
