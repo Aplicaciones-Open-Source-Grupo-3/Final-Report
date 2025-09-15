@@ -150,22 +150,28 @@ El objetivo de esta sección es comparar a EasyPark con las principales alternat
                       <td>Fortalezas</td>
                       <td> 
                           <div>
-                              <ul><li> 1 </li></ul>
+                              <ul><li> Analíticas en tiempo real</li></ul>
+                              <ul><li> Gestión de abonos</li></ul>
+                              <ul><li> Control operativo.</li></ul>
                           </div>
                       </td>
                       <td>
                           <div>
-                              <ul><li> 2 </li></ul>
+                              <ul><li> Amplia infraestructura física en Lima y provincias.</li></ul>
+                              <ul><li> Convenios corporativos</li></ul>
+                              <ul><li> Reconocimiento de marca,</li></ul>
                           </div>
                       </td>
                       <td>
                           <div>
-                              <ul><li> 3</li></ul>
+                              <ul><li> Base de datos extensa y constantemente actualizada</li></ul>
+                              <ul><li> Integración con aplicaciones automotrices y de navegación.</li></ul>
                           </div>
                       </td>
                       <td>
                           <div>
-                              <ul><li> 4</li></ul>
+                              <ul><li> Precios muy competitivos</li></ul>
+                              <ul><li> Modelo de economía colaborativa innovador</li></ul>
                           </div>
                       </td>
                   </tr>
@@ -173,22 +179,26 @@ El objetivo de esta sección es comparar a EasyPark con las principales alternat
                       <td>Debilidades</td>
                       <td>
                           <div>
-                              <ul><li> 1 </li></ul>
+                              <ul><li> Requiere un esfuerzo importante en generar confianza </li></ul>
+                                  <ul><li> Limitada visibilidad de marca frente a competidores </li></ul>
                           </div>
                       </td>
                       <td>
                           <div> 
-                                 <ul><li> 2 </li></ul>
+                                 <ul><li> Su modelo depende de su propia red de estacionamientos </li></ul>
+                                  <ul><li> Su propuesta es reciente y aún en desarrollo </li></ul>
                           </div>
                       </td>
                       <td>
                           <div>
-                                 <ul><li> 3 </li></ul>
+                                 <ul><li> No ofrece gestión interna de estacionamientos ni control operativo. </li></ul>
+                                  <ul><li> Dependencia del aporte comunitario </li></ul>
                           </div>
                       </td>
                       <td>
                           <div>
-                                 <ul><li> 4 </li></ul>
+                                 <ul><li> No atiende a estacionamientos formales ni a administradores. </li></ul>
+                                  <ul><li> Vulnerable a problemas de seguridad y confianza en espacios privados.</li></ul>
                           </div>
                       </td>
                   </tr>
@@ -196,22 +206,26 @@ El objetivo de esta sección es comparar a EasyPark con las principales alternat
                       <td>Oportunidades</td>
                       <td>
                           <div>
-                                 <ul><li> 1 </li></ul>
+                                 <ul><li> Posibilidad de alianzas estratégicas con startups de movilidad </li></ul>
+                                    <ul><li>Interés de municipalidades y centros comerciales en soluciones tecnológicas</li></ul>
                           </div>
                       </td>
                       <td>
                           <div>
-                                 <ul><li> 2 </li></ul>
+                                 <ul><li> Expansión internacional en mercados latinoamericanos </li></ul>
+                                    <ul><li>Integración de nuevas tecnologías como IoT </li></ul>
                           </div>
                       </td>
                       <td>
                           <div>
-                                 <ul><li> 3 </li></ul>
+                                 <ul><li> Integrarse con apps de pago y reserva digital en Perú y LATAM.</li></ul>
+                                   <ul><li> Integrarse con apps de pago y reserva digital en Perú y LATAM.</li></ul>
                           </div>
                       </td>
                       <td>
                           <div>
-                              <ul><li> 4</li></ul>
+                              <ul><li> Expansion hacia nuevas ciudades con alta demanda</li></ul>
+                              <ul><li> Posibles alianzas con municipalidades</li></ul>
                           </div>
                       </td>
                   </tr>
@@ -219,22 +233,26 @@ El objetivo de esta sección es comparar a EasyPark con las principales alternat
                       <td>Amenazas</td>
                       <td>
                           <div>
-                              <ul><li> 1</li></ul>
+                              <ul><li> Competidores locales ya posicionados</li></ul>
+                                  <ul><li> Entrada de competidores internacionales con más capital</li></ul>
                           </div>
                       </td>
                       <td>
                           <div>
-                                 <ul><li> 2 </li></ul>
+                                 <ul><li> Competencia de apps globales con amplia base de usuarios </li></ul>
+                                  <ul><li>Cambios regulatorios municipales que afecten tarifas</li></ul>
                           </div>
                       </td>
                       <td>
                           <div>
-                                 <ul><li> 3 </li></ul>
+                                 <ul><li> Pérdida de relevancia frente a servicios con precios más transparentes. </li></ul>
+                                  <ul><li> Apps que ofrezcan datos mas actualizados al contexto peruano </li></ul>
                           </div>
                       </td>
                       <td>
                           <div>
-                              <ul><li> 4</li></ul>
+                              <ul><li> Desconfianza de usuarios por riesgos de seguridad o fraudes</li></ul>
+                                    <ul><li> Regulaciones municipales que restrinjan la renta de estacionamientos privados</li></ul>
                           </div>
                       </td>
                   </tr>
@@ -242,6 +260,32 @@ El objetivo de esta sección es comparar a EasyPark con las principales alternat
       </table>
        
 ### 2.1.2. Estrategias y tácticas frente a competidores
+En la siguiente sección se revisarán las estrategias y tácticas que utilizaremos para posicionarnos de maneta efectiva en el mercado y destacarnos frente a nuestros competidores, afrontando sus fortalezas y aprovechando sus debilidades. De la misma forma con sus amenazas y las oportunidades.
+
+#### Frente a Apparka 
+Apparka posee la ventaja de su amplia infraestructura física y reconocimiento de marca en Perú. Debido a esto tiene fortalezas difíciles de igualar en el corto plazo; sin embargo, su principal debilidad es que su propuesta digital se limita a su propia red de estacionamientos y no prioriza soluciones para terceros.
+
++ **Estrategia:** diferenciarse como socio tecnológico B2B para estacionamientos medianos y pequeños que no tienen acceso a soluciones como Apparka.
++ **Tácticas:**
+  + Ofrecer planes SaaS escalables y flexibles, adaptados al tamaño del estacionamiento, con costos más bajos que las soluciones basadas en infraestructura.
+  + Desarrollar reportes avanzados y analíticas predictivas que Apparka no ofrece, posicionando a EasyPark como la opción más inteligente y estratégica.
+
+
+#### Frente a Parkopedia 
+Parkopedia se distingue por su escala global y su base de datos informativa, pero carece de gestión operativa y de un enfoque local adaptado al mercado peruano.
+
++ **Estrategia:**posicionar a EasyPark como la solución local operativa, que no solo informa sobre estacionamientos, sino que los gestiona de manera integral.
++ **Tácticas:**
+  + Ofrecer a los administradores la posibilidad de mostrar disponibilidad en tiempo real, diferenciándose de la información estática de Parkopedia.
+  + Obtener convenios con municipalidades o directorios digitales para aumentar la visibilidad, aprovechando la oportunidad de integrarse con plataformas existentes.
+
+  
+#### Frente a WeSmartPark 
++ **Estrategia:** posicionar a EasyPark como la alternativa confiable y formal, destinada a operadores establecidos que buscan estabilidad y seguridad.
++ **Tácticas:**
+  + Enfatizar en la formalidad de los procesos: tickets digitales, control de accesos y cumplimiento normativo, frente a los riesgos de estacionamientos improvisados.
+  + Ofrecer un servicio de soporte y capacitación local para asegurar a los administradores un acompañamiento técnico y operativo constante.
+  + Diferenciarse con la gestión de abonos y clientes recurrentes.
 
 
 ## 2.2. Entrevistas
