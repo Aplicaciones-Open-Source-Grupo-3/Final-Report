@@ -104,33 +104,86 @@ Orden lógico de las secciones
 
 ### 4.2.2. Labeling Systems
 
+Un sistema de etiquetado claro y consistente es esencial para facilitar la navegación y comprensión del producto, tanto en la landing page como en la aplicación web.
 
 #### Landing Page
+- **Menú Principal:** Inicio, Características, Precios, Contacto, Ingresar.
+- **Secciones:** Títulos y subtítulos descriptivos como “¿Cómo funciona?”, “Planes y Precios”, “Contáctanos”.
+- **Botones:** Etiquetas directas y orientadas a la acción, por ejemplo “Comenzar”, “Solicitar Demo”, “Ver planes”.
+- **Mensajes y alertas:** Textos breves y claros, como “Enviado con éxito” o “Error de autenticación”.
 
+#### Aplicación Web
+- **Menú Lateral:** Dashboard, Plazas, Tarifas, Operadores, Reportes, Configuración, Salir.
+- **Acciones rápidas:** “Agregar”, “Editar”, “Eliminar”, “Ver Detalles”, “Descargar Reporte”.
+- **Indicadores:** Etiquetas de estado como “Disponible”, “Ocupado”, “Incidencia”, “Abonado”.
+- **Formularios:** Campos con etiquetas como “Nombre”, “Correo”, “Contraseña”, “Placa del vehículo”, “Tarifa”.
 
-
-##### Principios aplicados:
-
-
-
-
-
+**Principios aplicados:**
+- Claridad y brevedad en los nombres.
+- Consistencia en el uso de términos a lo largo de todo el sistema.
+- Utilización de iconografía complementaria en menús y botones para mejorar el reconocimiento rápido.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+La optimización SEO es clave para mejorar la visibilidad del producto en motores de búsqueda y asegurar el alcance a usuarios potenciales.
+
 #### Landing Page
 
+**Meta Tags:**
+- `<title>EasyPark - Gestión eficiente de estacionamientos</title>`
+- `<meta name="description" content="EasyPark es una plataforma avanzada para la administración y operación de estacionamientos, optimizando la gestión y el control en tiempo real." />`
+- `<meta name="keywords" content="estacionamiento, gestión, administración, parking, reservas, operadores, control, analítica, automatización" />`
+- `<meta name="viewport" content="width=device-width, initial-scale=1.0" />`
+- `<meta property="og:title" content="EasyPark - Gestión eficiente de estacionamientos" />`
+- `<meta property="og:description" content="Optimiza y digitaliza la administración de tu estacionamiento con EasyPark." />`
+- `<meta property="og:image" content="URL_de_imagen_destacada" />`
+- `<meta property="og:type" content="website" />`
+
+**Otras recomendaciones:**
+- Uso de etiquetas `alt` descriptivas en todas las imágenes.
+- URLs legibles y amigables (ejemplo: `/precios`, `/caracteristicas`).
+- Estructuración semántica del HTML con encabezados jerárquicos (`<h1>`, `<h2>`, etc.).
 
 
 ### 4.2.4. Searching Systems
 
-#### **Landing Page**
+La búsqueda eficiente es indispensable para que los usuarios encuentren información relevante de manera rápida.
 
+#### Landing Page
+- No se requiere un sistema de búsqueda avanzado, ya que la información es estática y accesible mediante el menú principal y los enlaces de las secciones.
 
+#### Aplicación Web
+- **Barra de búsqueda global:** Presente en el dashboard para encontrar rápidamente plazas, usuarios, o reportes.
+- **Filtros y búsqueda contextual:** Dentro de módulos específicos (gestión de plazas, reportes, operadores), permitiendo filtrar por nombre, estado, fecha, etc.
+- **Sugerencias automáticas:** Autocompletado de campos en formularios (por ejemplo, búsqueda de placas de vehículos o nombres de clientes).
 
-#### **Web Application**
+**Principios aplicados:**
+- Resultados relevantes y ordenados por prioridad.
+- Tiempos de respuesta rápidos.
+- Diseño accesible y visible en todas las pantallas principales.
+
 
 ### 4.2.5. Navigation Systems
+
+Un sistema de navegación intuitivo y consistente es esencial para una experiencia de usuario óptima.
+
+#### Landing Page
+- **Menú superior fijo:** Acceso rápido a las secciones principales.
+- **Botones de acción:** “Comenzar”, “Solicitar Demo”, siempre visibles en la cabecera y secciones clave.
+- **Desplazamiento anclado (“scroll to”):** Los enlaces del menú desplazan suavemente a la sección correspondiente.
+- **Footer:** Enlaces adicionales a redes sociales, términos y condiciones, políticas de privacidad, contacto.
+
+#### Aplicación Web
+- **Menú lateral:** Navegación principal para acceder a Dashboard, Plazas, Tarifas, Operadores, Reportes y Configuración. Permanece visible en todo momento.
+- **Breadcrumbs:** Indican la ubicación actual dentro de módulos complejos.
+- **Navegación contextual:** Botones de “volver” o “ir a inicio” en sub-módulos y formularios.
+- **Accesos rápidos:** Íconos y atajos para tareas recurrentes.
+- **Indicadores de estado:** Se resaltan las secciones activas y las notificaciones importantes.
+
+**Principios aplicados:**
+- Consistencia visual y funcional en todos los entornos.
+- Acceso directo a funciones críticas en uno o dos clics.
+- Adaptabilidad para todo tipo de dispositivos (diseño responsive).
 
 ## 4.3. Landing Page UI Design
 En esta sección se presenta el diseño de la Landing Page de EasyPark, enfocado en captar la atención de los usuarios objetivo desde el primer contacto. El diseño busca comunicar claramente el valor del producto, generar confianza e incentivar la acción mediante una interfaz moderna, intuitiva y alineada a los principios de usabilidad.
