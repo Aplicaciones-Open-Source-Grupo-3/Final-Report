@@ -224,9 +224,6 @@ En la sección de Software Object-Oriented Design se presentarán dos aspectos f
 
 
 
-### 4.7.2. Class Dictionary
-
-
 ## 4.8. Database Design
 En la parte dedicada al Diseño de la Base de Datos, se mostrará un diagrama que ilustra cómo están organizadas las entidades y sus vínculos, facilitando un manejo eficiente de los datos tanto para almacenarlos como para consultarlos.
 
