@@ -41,10 +41,9 @@
 ### [2.4. Ubiquitous Language](/docs/chapter-II.md/#24-ubiquitous-language)
 
 ## [Capítulo III: Requirements Specification](/docs/chapter-III.md)
-### [3.1. To-Be Scenario Mapping](/docs/chapter-III.md/#31-to-be-scenario-mapping)
-### [3.2. User Stories](/docs/chapter-III.md/#32-user-stories)
-### [3.3. Impact Mapping](/docs/chapter-III.md/#33-impact-mapping)
-### [3.4. Product Backlog](/docs/chapter-III.md/#34-product-backlog)
+### [3.1. User Stories](/docs/chapter-III.md/#31-user-stories)
+### [3.2. Impact Mapping](/docs/chapter-III.md/#32-impact-mapping)
+### [3.3. Product Backlog](/docs/chapter-III.md/#33-product-backlog)
   
 ## [Capítulo IV: Product Design](/docs/chapter-IV.md)
 ### [4.1. Style Guidelines](/docs/chapter-IV.md/#41-style-guidelines)
