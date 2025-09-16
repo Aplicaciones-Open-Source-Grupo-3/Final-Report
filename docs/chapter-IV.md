@@ -218,7 +218,7 @@ En esta sección se incluyen secciones internas en el cual se presentará y expl
 
 
 ## 4.7. Software Object-Oriented Design
-En la sección de Software Object-Oriented Design se presentarán dos aspectos fundamentales: los diagramas de clase y el diccionario de clases.
+En la sección de Software Object-Oriented Design se presentarán del diagrama de clases de la aplicaion.
 
 ### 4.7.1. Class Diagrams
 
@@ -229,8 +229,5 @@ En la parte dedicada al Diseño de la Base de Datos, se mostrará un diagrama qu
 
 ### 4.8.1. Database Diagram
 Los diagramas de base de datos muestran la organización interna y las conexiones entre las entidades, facilitando la comprensión de cómo se guardan y vinculan los datos dentro del sistema de forma óptima.
-
-
-## 4.9. DDD Estratégico
 
 
