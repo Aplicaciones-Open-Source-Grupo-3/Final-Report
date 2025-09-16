@@ -71,7 +71,6 @@
   #### [4.6.3. Software Architecture Components Diagrams](/docs/chapter-IV.md/#463-software-architecture-components-diagrams)
 ### [4.7. Software Object-Oriented Design](/docs/chapter-IV.md/#47-software-object-oriented-design)
   #### [4.7.1. Class Diagrams](/docs/chapter-IV.md/#471-class-diagrams)
-  #### [4.7.2. Class Dictionary](/docs/chapter-IV.md/#472-class-dictionary)
 ### [4.8. Database Design](/docs/chapter-IV.md/#48-database-design)
   #### [4.8.1. Database Diagram](/docs/chapter-IV.md/#481-database-diagram)
   
