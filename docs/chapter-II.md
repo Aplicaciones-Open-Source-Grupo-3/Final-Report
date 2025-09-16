@@ -359,13 +359,12 @@ Para identificar las necesidades de los administradores y operadores de estacion
 
 
 
-
-
 ### 2.3.3. User Journey Mapping
 
 
 ### 2.3.4. Empathy Mapping
 
 
-## 2.4. Ubiquitous Language
+## 2.4. Big Picture Event Storming
+## 2.5. Ubiquitous Language
 
