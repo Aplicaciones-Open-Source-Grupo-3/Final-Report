@@ -352,6 +352,8 @@ Para identificar las necesidades de los administradores y operadores de estacion
 
 <img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/feature/chapter-II-requirements-elicitation-%26-analysis/assets/images/chapter-II/User%20Persona%201.jpg" alt="Administrador de estacionamiento" style="width: 700px; margin-right: 700px;"/>
 
+<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/feature/chapter-II-requirements-elicitation-%26-analysis/assets/images/chapter-II/User%20Persona%202.jpg" alt="Operador de estacionamiento" style="width: 700px; margin-right: 700px;"/>
+
 
 
 ### 2.3.2. User Task Matrix
