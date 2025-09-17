@@ -421,3 +421,8 @@ Para el Sprint 1, se presenta la evidencia de desarrollo de la landing page de E
 | joseadro09/Landing-Page            | feature/structure-landing | feat: collect and add testimonials             | 13/09/2025   |
 | joseadro09/Landing-Page            | feature/structure-landing | feat: add social media links section           | 14/09/2025   |
 | joseadro09/Landing-Page            | feature/structure-landing | fix: improve testimonials style and markup     | 16/09/2025   |
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+El equipo de desarrolladores logró concluir con el sprint 1, el cual involucra la implementación y despliegue de la landing page de EasyPark. A continuación se presentan las evidencias.
+
