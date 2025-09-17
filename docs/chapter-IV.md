@@ -256,22 +256,23 @@ En esta sección se incluyen secciones internas en el cual se presentará y expl
 
 ## 4.6. Domain-Driven Software Architecture
 
-
+El modelo C4 permite visualizar un sistema de software en distintos niveles de detalle, desde lo más general hasta lo más específico. Para EasyPark, se construyeron tres vistas: Contexto, Contenedores y Componentes, que facilitan entender cómo interactúan los usuarios con la plataforma, cómo está organizada su arquitectura interna y cómo se distribuyen las responsabilidades dentro del backend.
 
 ### 4.6.1. Software Architecture Context Diagram
-
+En este diagrama muestra a EasyPark como un sistema en su ecosistema. Representa a los usuarios principales (administrador y operador) y a los sistemas externos (pasarelas de pago, notificaciones, mapas, etc.) con los que la plataforma se integra. Su objetivo es dar una visión clara de quién usa EasyPark y qué servicios externos lo rodean.
+![c4](/assets/images/chapter-IV/structurizr-Context.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
-
-
+En este diagrama se abren los detalles de EasyPark y se representan sus contenedores principales: la WebApp, el Backend API, los servicios de dominio (espacios, reservas, pagos, reportes, incidencias, usuarios), la base de datos, el cache Redis y el worker de notificaciones. Este diagrama permite entender cómo se organizan las piezas internas del sistema y cómo se comunican entre sí y con los servicios externos.
+![c4](/assets/images/chapter-IV/structurizr-Container.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
-
-
+En este diagrama se descompone el contenedor Backend API en sus componentes internos (controladores de autenticación, espacios, reservas, pagos, reportes, incidencias, validaciones y adaptadores de integración). El objetivo de este nivel es mostrar la distribución de responsabilidades dentro del backend, destacando qué hace cada componente y cómo se relaciona con los servicios de dominio, la base de datos y los sistemas externos.
+![c4](/assets/images/chapter-IV/structurizr-Component.png)
 
 
 ## 4.7. Software Object-Oriented Design
-En la sección de Software Object-Oriented Design se presentarán del diagrama de clases de la aplicaion.
+En la sección de Software Object-Oriented Design se presentarán del diagrama de clases de la aplicacion.
 
 ### 4.7.1. Class Diagrams
 
