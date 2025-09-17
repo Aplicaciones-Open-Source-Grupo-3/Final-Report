@@ -508,4 +508,17 @@ En la imagen se presenta el Big Picture Event Storming de las tareas principales
 Link del miro: https://miro.com/app/board/uXjVLRX3C6o=/
 
 ## 2.5. Ubiquitous Language
+Este será el lenguaje que se empleará en varios componentes de la aplicación, los cuales encapsulan diferentes funciones o posibilitan un reconocimiento más eficiente.
+de la interpretación. 
+
+- User: Conductor que utiliza el estacionamiento y paga por el servicio
+- Operator: Persona encargada de registrar entradas y salidas de vehículos, asignar espacios y procesar pagos en el estacionamiento
+- Administrator: Responsable de supervisar la operación del estacionamiento, revisar reportes y ajustar tarifas
+- Parking Space: Unidad disponible para ser ocupada por un vehículo dentro del estacionamiento
+- Entry: Acción de registrar la llegada de un vehículo al estacionamiento
+- Transaction: Registro de un pago realizado por un usuario por el uso del estacionamiento
+- Report: Documento digital que resume la ocupación, ingresos y estadísticas del estacionamiento
+- Tariff: Precio establecido por el administrador para el uso del estacionamiento
+- Incident: Evento reportado en la operación del estacionamiento, como fallos de pago, reclamos o problemas con usuarios
+- Management: Proceso integral de administración del estacionamiento
 
