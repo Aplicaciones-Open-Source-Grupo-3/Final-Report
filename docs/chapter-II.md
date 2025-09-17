@@ -469,7 +469,14 @@ Para identificar las necesidades de los administradores y operadores de estacion
 | **Resolución del problema** | Logra mantener el estacionamiento operativo, pero con pérdidas de tiempo, poca transparencia y conflictos frecuentes |
 
 
-**Administrador de Estacionamiento: Carlos Rodríguez**
+**Operador de estacionamientos: Juan Rojas**
+| Etapa                | Experiencia actual |
+|-----------------------|--------------------|
+| **Descubrimiento**    | Recibe indicaciones del administrador para manejar ingresos y cobros con tickets y cuadernos |
+| **Gestión inicial**   | Organiza los tickets y el cuaderno de registros |
+| **Primer uso**        | Atiende a los conductores, asigna espacios y entrega tickets de entrada |
+| **Interacción continua** | Cobra con POS (Yape,Plin,EasyPay) o en efectivo, anota montos en cuaderno y responde reclamos de clientes|
+| **Resolución del problema** | Se encarga de registrar ingresos y cobros, pero el proceso es repetitivo, genera errores y le produce estrés |
 
 ### 2.3.4. Empathy Mapping
 
