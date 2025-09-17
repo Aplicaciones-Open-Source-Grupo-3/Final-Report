@@ -340,6 +340,8 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
  - Residencia: Lima
  - Enlace de entrevista: https://drive.google.com/file/d/17NHnsQ4T1Du7G9GpeS7d45qLDx6n4Xr-
 
+**_Informe de resumen:_**  
+Juan utiliza tickets, cuadernos y ocasionalmente Excel, lo que dificulta obtener reportes claros. Ha tenido reclamos frecuentes por cobros, por lo que considera clave la transparencia y reportes confiables. Valora mucho los dashboards en tiempo real y estaría dispuesto a pagar una suscripción si la herramienta es segura, fácil de usar y estable.
 
 **Entrevista N°2**
 
@@ -351,7 +353,7 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
  - Enlace de entrevista: https://drive.google.com/file/d/13RPVBQpBmqsQWVZD0t3meHPWkvA-OQ7y
 
 **_Informe de resumen:_**  
-El administrador actualmente gestiona cobros con POS y registra pagos en cuadernos sin un sistema digital. Él reconoce el valor de incorporar informes automatizados en Excel y tableros de control en tiempo real para el propietario. No ha enfrentado pérdidas ni conflictos recurrentes, pero aprecia la seguridad, la facilidad de uso y la fiabilidad de una plataforma. Está dispuesto a pagar una suscripción si el precio es razonable.
+Martín gestiona actualmente los cobros mediante POS y registra los pagos en cuadernos, sin contar con un sistema digital centralizado. Reconoce la utilidad de incorporar reportes automatizados en Excel y dashboards en tiempo real para el propietario. No ha tenido pérdidas ni conflictos recurrentes, pero valora la seguridad, la facilidad de uso y la confiabilidad de una plataforma. Está dispuesto a pagar una suscripción siempre que el precio sea razonable.
 
 
 
