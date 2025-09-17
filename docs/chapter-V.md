@@ -442,10 +442,13 @@ En este sprint no se cuenta la documentacion a razón que el primer sprint esta 
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 En el desarrollo del Sprint 1 para EasyPark, se utilizó GitHub Pages para el despliegue de la página de aterrizaje. Esta herramienta se integró de manera fluida al flujo de trabajo, permitiendo el despliegue directo desde el repositorio. Además, se llevaron a cabo actividades específicas para preparar el entorno de despliegue.
+#### Despliegue realizado en GitHub pages
+![landing img](/assets/images/chapter-V/landing-page-deploy-evidence.jpg)
 
 Enlace de la Landing Page: https://aplicaciones-open-source-grupo-3.github.io/Landing-Page/
 
 ![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-1.png)
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 En esta seccion se evidencia el trabajo colaborativo del equipo de desarrollo en la elaboracion de la landing page.
 
