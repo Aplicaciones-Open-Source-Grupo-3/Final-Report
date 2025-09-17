@@ -490,7 +490,11 @@ Para identificar las necesidades de los administradores y operadores de estacion
 ## 2.4. Big Picture Event Storming
 <img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Big%20Picture%20Event%20Storming.png" alt="Big Picture Event Storming" style="width: 900px; margin-right: 900px;"/>
 
-En la imagen se presenta el Big Picture Event Storming del procedimiento de administración de un estacionamiento, que abarca desde el ingreso del vehículo hasta la elaboración de los reportes diarios. Este diagrama permite identificar los actores involucrados, las acciones ejecutadas, los eventos resultantes y las reglas de negocio que influyen en el proceso.
+En la imagen se presenta el Big Picture Event Storming del procedimiento de administración de un estacionamiento, que abarca desde el ingreso del vehículo hasta la elaboración de los reportes diarios. 
+
+<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Big%20Picture%20Event%20Storming%202.png" alt="Big Picture Event Storming 2" style="width: 900px; margin-right: 900px;"/>
+
+En la imagen se presenta el Big Picture Event Storming de las tareas principales del Administrador de Estacionamiento, que abarcan desde la revisión de reportes e historial de transacciones hasta la generación de informes diarios. Se destacan las validaciones críticas y la automatización de reportes.
 
 **Leyenda de colores:**
 - Verde: Objetivo principal
