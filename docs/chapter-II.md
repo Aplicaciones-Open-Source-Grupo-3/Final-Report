@@ -488,5 +488,16 @@ Para identificar las necesidades de los administradores y operadores de estacion
 <img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Empathy%20Mapping%202.png" alt="Empathy Mapping 1" style="width: 700px; margin-right: 700px;"/>
 
 ## 2.4. Big Picture Event Storming
+<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Big%20Picture%20Event%20Storming.png" alt="Big Picture Event Storming" style="width: 900px; margin-right: 900px;"/>
+
+En la imagen se presenta el Big Picture Event Storming del procedimiento de administración de un estacionamiento, que abarca desde el ingreso del vehículo hasta la elaboración de los reportes diarios. Este diagrama permite identificar los actores involucrados, las acciones ejecutadas, los eventos resultantes y las reglas de negocio que influyen en el proceso.
+
+**Leyenda de colores:**
+- Verde: Objetivo principal
+- Azul: Acciones realizadas por los actores del sistema
+- Naranja: Resultados de las acciones
+- Amarillo: Actores involucrados
+- Morado: Policies 
+
 ## 2.5. Ubiquitous Language
 
