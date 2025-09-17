@@ -132,4 +132,323 @@ Se documenta el trabajo colaborativo y las fases clave del Sprint 1, desde el sp
 #### 5.2.1.1. Sprint Planning 1.
 Aquí se especifican los objetivos, historias de usuario priorizadas y entregables mínimos viables definidos para la primera iteración de EasyPark.
 
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Sprint #</strong></td>
+			<td>Sprint 1</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>Spring Planing Background</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Date</strong></td>
+			<td>2025-09-3</td>
+		</tr>
+		<tr>
+			<td><strong>Time</strong></td>
+			<td>10:30 PM</td>
+		</tr>
+		<tr>
+			<td><strong>Location</strong></td>
+			<td>Remote mode through the GitHub platform</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>Prepared by</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Attends (to planinning meeting)</strong></td>
+			<td>All members of EasyPark</td>
+		</tr>
+		<tr>
+			<td><strong>Sprint 0 Review Summary</strong></td>
+			<td>Since this is our initial development sprint, a sprint summary has not yet been completed.</td>
+		</tr>
+		<tr>
+			<td><strong>Sprint 0 Retrospective Summary</strong></td>
+			<td>Since this is our initial development sprint, a sprint summary has not yet been completed.</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Spritn 1 Goal</strong></td>
+			<td>We are focused on building the EasyPark landing page, as we believe this is critical for the long-term sustainability of the product within the organization. We will confirm its success when we see a significant increase in user engagement.</td>
+		</tr>
+		<tr>
+			<td><strong>Sprint 1 Velocity</strong></td>
+			<td>10</td>
+		</tr>
+		<tr>
+			<td><strong>Sum of Story points</strong></td>
+			<td>18</td>
+		</tr>
+	</tbody>
+</table>
+
+#### 5.2.1.2. Aspect Leaders and Collaborators.
+En esta sección se presenta la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual se presenta al líder y los colaboradores de este Sprint 1.
+
+| Team Member (Last Name, First Name) | GitHub Username | Landing page |
+| ------------------------------------|-----------------|-------------------------------------------|
+| Elescano Leon, Piero Hugo | PieroHugo | L |
+| Espinoza Chavez, Moises Filemon |MoisesECh| C | 
+| Florez Shimabukuro, Fátima Belén |PengwinKingdom| C |
+| Nakasone Gomes, Marco Antonio  | marquinho04 | C | 
+| Paredes Davila, Jose Adrian  | joseadro09 | C | 
+
+
+#### 5.2.1.3. Sprint Backlog 1
+El principal objetivo del primer sprint es desarrollar las funciones esenciales que permitan a los usuarios interesados en EasyPark informarse sobre su propósito, conocer sus características destacadas y entender las acciones que podrán realizar dentro de la aplicacion web.
+
+<table>
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td colspan="7">Sprint 1</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-item / Task</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Id</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Id</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Estimation (Hours)</strong></td>
+    <td><strong>Assigned To</strong></td>
+    <td><strong>Status (To-do / In-Process / To-review / Done)</strong></td>
+  </tr>
+
+  <!-- EP05-US01 Información general EasyPark -->
+  <tr>
+    <td rowspan="2">EP05-US01</td>
+    <td rowspan="2">Información general EasyPark</td>
+    <td>T1</td>
+    <td>Redactar descripción de EasyPark</td>
+    <td>Redactar una descripción clara y concisa sobre EasyPark para la landing page.</td>
+    <td>1</td>
+    <td>Piero Elescano</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T2</td>
+    <td>Agregar sección de información general</td>
+    <td>Implementar la sección en el HTML y aplicar estilos.</td>
+    <td>1</td>
+    <td>Moises Espinoza</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- EP05-US02 Características destacadas -->
+  <tr>
+    <td rowspan="2">EP05-US02</td>
+    <td rowspan="2">Características destacadas</td>
+    <td>T3</td>
+    <td>Listar beneficios y características</td>
+    <td>Definir y listar los beneficios y características clave del sistema.</td>
+    <td>0.5</td>
+    <td>Fátima Florez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T4</td>
+    <td>Diseño sección de beneficios</td>
+    <td>Agregar y estilizar la sección de características en la landing.</td>
+    <td>1</td>
+    <td>Moises Espinoza</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- EP05-US03 Planes y precios -->
+  <tr>
+    <td rowspan="2">EP05-US03</td>
+    <td rowspan="2">Planes y precios</td>
+    <td>T5</td>
+    <td>Definir estructura de planes</td>
+    <td>Redactar planes y precios ofrecidos por EasyPark.</td>
+    <td>0.5</td>
+    <td>Fátima Florez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T6</td>
+    <td>Implementar sección de planes y precios</td>
+    <td>Maquetar e implementar la sección en la landing page.</td>
+    <td>1</td>
+    <td>Marco Nakasone</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- EP05-US04 Formulario de contacto -->
+  <tr>
+    <td rowspan="2">EP05-US04</td>
+    <td rowspan="2">Formulario de contacto</td>
+    <td>T7</td>
+    <td>Diseñar formulario de contacto</td>
+    <td>Diseñar y prototipar el formulario de contacto.</td>
+    <td>0.5</td>
+    <td>Fátima Florez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T8</td>
+    <td>Implementar funcionalidad del formulario</td>
+    <td>Hacer funcional el formulario, validación y almacenamiento.</td>
+    <td>1</td>
+    <td>Piero Elescano</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- EP05-US05 Testimonios de clientes -->
+  <tr>
+    <td rowspan="2">EP05-US05</td>
+    <td rowspan="2">Testimonios de clientes</td>
+    <td>T9</td>
+    <td>Recolectar testimonios/entrevistas</td>
+    <td>Solicitar y redactar testimonios de clientes reales.</td>
+    <td>0.5</td>
+    <td>Jose Paredes</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T10</td>
+    <td>Analizar las entrevistas</td>
+    <td>Analisis de la informacion recolectada.</td>
+    <td>1</td>
+    <td>Moises Espinoza</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- EP05-US08 Enlaces a redes sociales -->
+  <tr>
+    <td>EP05-US08</td>
+    <td>Enlaces a redes sociales</td>
+    <td>T11</td>
+    <td>Agregar enlaces a redes sociales</td>
+    <td>Colocar íconos y enlaces a redes sociales oficiales en la landing.</td>
+    <td>0.5</td>
+    <td>Jose Paredes</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- EP05-US10 Accesibilidad y responsive -->
+  <tr>
+    <td rowspan="2">EP05-US10</td>
+    <td rowspan="2">Accesibilidad y responsive</td>
+    <td>T12</td>
+    <td>Garantizar responsive design</td>
+    <td>Aplicar media queries y pruebas en diferentes dispositivos.</td>
+    <td>1</td>
+    <td>Piero Elescano</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T13</td>
+    <td>Test de accesibilidad</td>
+    <td>Verificar el cumplimiento de estándares básicos de accesibilidad.</td>
+    <td>1</td>
+    <td>Fátima Florez</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- EP05-US19 Visualización de tarifas -->
+  <tr>
+    <td rowspan="2">EP05-US19</td>
+    <td rowspan="2">Visualización de tarifas</td>
+    <td>T14</td>
+    <td>Redactar información de tarifas</td>
+    <td>Redactar y actualizar la información sobre las tarifas del servicio EasyPark para la landing.</td>
+    <td>0.5</td>
+    <td>Marco Nakasone</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T15</td>
+    <td>Agregar sección de tarifas en la landing</td>
+    <td>Diseñar y maquetar la sección de tarifas, asegurando claridad y visibilidad.</td>
+    <td>1</td>
+    <td>Moises Espinoza</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- NUEVA SECCIÓN: EP05-US21 Recepción de notificaciones -->
+  <tr>
+    <td rowspan="2">EP05-US21</td>
+    <td rowspan="2">Recepción de notificaciones</td>
+    <td>T16</td>
+    <td>Redactar beneficios de notificaciones</td>
+    <td>Redactar una breve descripción sobre las ventajas de las notificaciones en EasyPark.</td>
+    <td>0.5</td>
+    <td>Fátima Florez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T17</td>
+    <td>Maquetar sección de notificaciones en la landing</td>
+    <td>Diseñar y agregar la sección de notificaciones a la landing page.</td>
+    <td>1</td>
+    <td>Marco Nakasone</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+#### 5.2.1.4. Development Evidence for Sprint Review
+Para el Sprint 1, se presenta la evidencia de desarrollo de la landing page de EasyPark. Los commits registrados en el repositorio corresponden a la implementación de las secciones clave de la página. Esto se realizó siguiendo el diseño previo en Figma.
+
+| Repository                        | Branch                  | Commit Message                                 | Commited on  |
+|------------------------------------|-------------------------|------------------------------------------------|--------------|
+| PieroHugo/Landing-Page             | main                    | initial commit                                 | 10/09/2025   |
+| PieroHugo/Landing-Page             | develop                 | initial commit                                 | 10/09/2025   |
+| PieroHugo/Landing-Page             | feature/structure-landing | feat: add landing page structure               | 11/09/2025   |
+| PieroHugo/Landing-Page             | feature/structure-landing | feat: implement info section, styles           | 12/09/2025   |
+| PieroHugo/Landing-Page             | feature/structure-landing | feat: add responsive and accessibility         | 13/09/2025   |
+| PieroHugo/Landing-Page             | feature/structure-landing | fix: update content and images                 | 14/09/2025   |
+| PieroHugo/Landing-Page             | feature/structure-landing | docs: add README with usage                    | 15/09/2025   |
+| PieroHugo/Landing-Page             | feature/structure-landing | chore: minor refactor                          | 16/09/2025   |
+| MoisesECh/Landing-Page             | feature/structure-landing | feat: benefits & features section              | 12/09/2025   |
+| MoisesECh/Landing-Page             | feature/structure-landing | feat: add testimonials section                 | 13/09/2025   |
+| MoisesECh/Landing-Page             | feature/structure-landing | fix: section layout and css improvements       | 14/09/2025   |
+| MoisesECh/Landing-Page             | feature/structure-landing | feat: implement notification section           | 15/09/2025   |
+| PengwinKingdom/Landing-Page        | feature/structure-landing | feat: add features list to landing             | 12/09/2025   |
+| PengwinKingdom/Landing-Page        | feature/structure-landing | feat: add plans & pricing section              | 13/09/2025   |
+| PengwinKingdom/Landing-Page        | feature/structure-landing | fix: improve form validation                   | 14/09/2025   |
+| PengwinKingdom/Landing-Page        | feature/structure-landing | feat: add notification advantages section      | 15/09/2025   |
+| marquinho04/Landing-Page           | feature/structure-landing | feat: add plans & pricing markup               | 13/09/2025   |
+| marquinho04/Landing-Page           | feature/structure-landing | feat: FAQ & notification sections              | 14/09/2025   |
+| marquinho04/Landing-Page           | feature/structure-landing | fix: responsive grid for landing               | 16/09/2025   |
+| joseadro09/Landing-Page            | feature/structure-landing | feat: collect and add testimonials             | 13/09/2025   |
+| joseadro09/Landing-Page            | feature/structure-landing | feat: add social media links section           | 14/09/2025   |
+| joseadro09/Landing-Page            | feature/structure-landing | fix: improve testimonials style and markup     | 16/09/2025   |
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+El equipo de desarrolladores logró concluir con el sprint 1, el cual involucra la implementación y despliegue de la landing page de EasyPark. A continuación se presentan las evidencias.
+#### Landing page desplegada
+![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-1.png)
+
+![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-2.png)
+
+![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-3.png)
+
+![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-4.png)
+
+![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-5.png)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En este sprint no se cuenta la documentacion a razón que el primer sprint esta dirigido a la elaboración del landing page.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+En el desarrollo del Sprint 1 para EasyPark, se utilizó GitHub Pages para el despliegue de la página de aterrizaje. Esta herramienta se integró de manera fluida al flujo de trabajo, permitiendo el despliegue directo desde el repositorio. Además, se llevaron a cabo actividades específicas para preparar el entorno de despliegue.
+#### Despliegue realizado en GitHub pages
+![landing img](/assets/images/chapter-V/landing-page-deploy-evidence.jpg)
+
+Enlace de la Landing Page: https://aplicaciones-open-source-grupo-3.github.io/Landing-Page/
+
+![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-1.png)
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+En esta seccion se evidencia el trabajo colaborativo del equipo de desarrollo en la elaboracion de la landing page.
 
