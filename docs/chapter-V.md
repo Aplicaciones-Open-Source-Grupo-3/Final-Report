@@ -425,4 +425,5 @@ Para el Sprint 1, se presenta la evidencia de desarrollo de la landing page de E
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
 El equipo de desarrolladores logró concluir con el sprint 1, el cual involucra la implementación y despliegue de la landing page de EasyPark. A continuación se presentan las evidencias.
-
+#### Landing page desplegada
+![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-1.png)
