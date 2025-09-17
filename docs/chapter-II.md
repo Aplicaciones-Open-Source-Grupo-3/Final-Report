@@ -330,6 +330,33 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
 
 ### 2.2.2. Registro de entrevistas
 
+### Segmento Objetivo 1: Administradores de estacionamientos formales
+**Entrevista N°1**
+
+ - Entrevistado(a): Juan Silva
+ - Entrevistador(a): Fátima Florez
+ - Sexo: Masculino
+ - Edad: 20
+ - Residencia: Lima
+ - Enlace de entrevista: https://drive.google.com/file/d/17NHnsQ4T1Du7G9GpeS7d45qLDx6n4Xr-
+
+
+**Entrevista N°2**
+
+ - Entrevistado(a): Martín Valencia
+ - Entrevistador(a): Fátima Florez
+ - Sexo: Masculino
+ - Edad: 48
+ - Residencia: Lima
+ - Enlace de entrevista: https://drive.google.com/file/d/13RPVBQpBmqsQWVZD0t3meHPWkvA-OQ7y
+
+**_Informe de resumen:_**  
+El administrador actualmente gestiona cobros con POS y registra pagos en cuadernos sin un sistema digital. Él reconoce el valor de incorporar informes automatizados en Excel y tableros de control en tiempo real para el propietario. No ha enfrentado pérdidas ni conflictos recurrentes, pero aprecia la seguridad, la facilidad de uso y la fiabilidad de una plataforma. Está dispuesto a pagar una suscripción si el precio es razonable.
+
+
+
+### Segmento Objetivo 2: Operadores de estacionamientos
+
 
 ### 2.2.3. Análisis de entrevistas
 
