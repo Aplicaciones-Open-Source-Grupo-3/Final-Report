@@ -200,3 +200,196 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 
 #### 5.2.1.3. Sprint Backlog 1
 El principal objetivo del primer sprint es desarrollar las funciones esenciales que permitan a los usuarios interesados en EasyPark informarse sobre su propósito, conocer sus características destacadas y entender las acciones que podrán realizar dentro de la aplicacion web.
+
+<table>
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td colspan="7">Sprint 1</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-item / Task</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Id</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Id</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Estimation (Hours)</strong></td>
+    <td><strong>Assigned To</strong></td>
+    <td><strong>Status (To-do / In-Process / To-review / Done)</strong></td>
+  </tr>
+
+  <!-- EP05-US01 Información general EasyPark -->
+  <tr>
+    <td rowspan="2">EP05-US01</td>
+    <td rowspan="2">Información general EasyPark</td>
+    <td>T1</td>
+    <td>Redactar descripción de EasyPark</td>
+    <td>Redactar una descripción clara y concisa sobre EasyPark para la landing page.</td>
+    <td>1</td>
+    <td>Piero Elescano</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T2</td>
+    <td>Agregar sección de información general</td>
+    <td>Implementar la sección en el HTML y aplicar estilos.</td>
+    <td>1</td>
+    <td>Moises Espinoza</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- EP05-US02 Características destacadas -->
+  <tr>
+    <td rowspan="2">EP05-US02</td>
+    <td rowspan="2">Características destacadas</td>
+    <td>T3</td>
+    <td>Listar beneficios y características</td>
+    <td>Definir y listar los beneficios y características clave del sistema.</td>
+    <td>0.5</td>
+    <td>Fátima Florez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T4</td>
+    <td>Diseño sección de beneficios</td>
+    <td>Agregar y estilizar la sección de características en la landing.</td>
+    <td>1</td>
+    <td>Moises Espinoza</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- EP05-US03 Planes y precios -->
+  <tr>
+    <td rowspan="2">EP05-US03</td>
+    <td rowspan="2">Planes y precios</td>
+    <td>T5</td>
+    <td>Definir estructura de planes</td>
+    <td>Redactar planes y precios ofrecidos por EasyPark.</td>
+    <td>0.5</td>
+    <td>Fátima Florez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T6</td>
+    <td>Implementar sección de planes y precios</td>
+    <td>Maquetar e implementar la sección en la landing page.</td>
+    <td>1</td>
+    <td>Marco Nakasone</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- EP05-US04 Formulario de contacto -->
+  <tr>
+    <td rowspan="2">EP05-US04</td>
+    <td rowspan="2">Formulario de contacto</td>
+    <td>T7</td>
+    <td>Diseñar formulario de contacto</td>
+    <td>Diseñar y prototipar el formulario de contacto.</td>
+    <td>0.5</td>
+    <td>Fátima Florez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T8</td>
+    <td>Implementar funcionalidad del formulario</td>
+    <td>Hacer funcional el formulario, validación y almacenamiento.</td>
+    <td>1</td>
+    <td>Piero Elescano</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- EP05-US05 Testimonios de clientes -->
+  <tr>
+    <td rowspan="2">EP05-US05</td>
+    <td rowspan="2">Testimonios de clientes</td>
+    <td>T9</td>
+    <td>Recolectar testimonios/entrevistas</td>
+    <td>Solicitar y redactar testimonios de clientes reales.</td>
+    <td>0.5</td>
+    <td>Jose Paredes</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T10</td>
+    <td>Analizar las entrevistas</td>
+    <td>Analisis de la informacion recolectada.</td>
+    <td>1</td>
+    <td>Moises Espinoza</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- EP05-US08 Enlaces a redes sociales -->
+  <tr>
+    <td>EP05-US08</td>
+    <td>Enlaces a redes sociales</td>
+    <td>T11</td>
+    <td>Agregar enlaces a redes sociales</td>
+    <td>Colocar íconos y enlaces a redes sociales oficiales en la landing.</td>
+    <td>0.5</td>
+    <td>Jose Paredes</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- EP05-US10 Accesibilidad y responsive -->
+  <tr>
+    <td rowspan="2">EP05-US10</td>
+    <td rowspan="2">Accesibilidad y responsive</td>
+    <td>T12</td>
+    <td>Garantizar responsive design</td>
+    <td>Aplicar media queries y pruebas en diferentes dispositivos.</td>
+    <td>1</td>
+    <td>Piero Elescano</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T13</td>
+    <td>Test de accesibilidad</td>
+    <td>Verificar el cumplimiento de estándares básicos de accesibilidad.</td>
+    <td>1</td>
+    <td>Fátima Florez</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- EP05-US19 Visualización de tarifas -->
+  <tr>
+    <td rowspan="2">EP05-US19</td>
+    <td rowspan="2">Visualización de tarifas</td>
+    <td>T14</td>
+    <td>Redactar información de tarifas</td>
+    <td>Redactar y actualizar la información sobre las tarifas del servicio EasyPark para la landing.</td>
+    <td>0.5</td>
+    <td>Marco Nakasone</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T15</td>
+    <td>Agregar sección de tarifas en la landing</td>
+    <td>Diseñar y maquetar la sección de tarifas, asegurando claridad y visibilidad.</td>
+    <td>1</td>
+    <td>Moises Espinoza</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- NUEVA SECCIÓN: EP05-US21 Recepción de notificaciones -->
+  <tr>
+    <td rowspan="2">EP05-US21</td>
+    <td rowspan="2">Recepción de notificaciones</td>
+    <td>T16</td>
+    <td>Redactar beneficios de notificaciones</td>
+    <td>Redactar una breve descripción sobre las ventajas de las notificaciones en EasyPark.</td>
+    <td>0.5</td>
+    <td>Fátima Florez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T17</td>
+    <td>Maquetar sección de notificaciones en la landing</td>
+    <td>Diseñar y agregar la sección de notificaciones a la landing page.</td>
+    <td>1</td>
+    <td>Marco Nakasone</td>
+    <td>Done</td>
+  </tr>
+</table>
