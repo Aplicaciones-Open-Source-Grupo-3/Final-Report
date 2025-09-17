@@ -303,9 +303,12 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
   * ¿Qué tan fácil o difícil es obtener reportes claros de ingresos y ocupación?
   * ¿Has tenido problemas con pérdidas económicas, errores en cobros o conflictos con clientes? ¿Con qué frecuencia?
   * ¿Qué herramientas digitales has utilizado hasta ahora para administrar el estacionamiento?
+  * ¿Qué marcas, tecnologías o apps influyen en tu forma de trabajar?”
   * ¿Qué aspectos consideras más importantes para mejorar la gestión de un estacionamiento?
   * ¿Qué tanto valor le darías a una herramienta que te muestre dashboards en tiempo real sobre ocupación e ingresos?
   * ¿Estarías dispuesto a pagar una suscripción mensual por una plataforma que te permita centralizar toda la gestión de tu estacionamiento?
+  * ¿Qué dispositivos usas con más frecuencia en tu trabajo (celular, computadora, tablet)?
+  * ¿Qué navegadores o sistema operativo utilizas más en tu día a día?)
   * ¿Qué características consideras esenciales para confiar en una solución digital frente a los procesos manuales actuales?
 
 - #### Para operadores de estacionamientos:
@@ -314,7 +317,10 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
   * ¿Qué problemas enfrentas al registrar manualmente las entradas y salidas?
   * ¿Con qué frecuencia ocurren errores en los cobros o conflictos con los conductores?
   * ¿Qué tan cómodo te sentirías usando una aplicación que registre en tiempo real las entradas, salidas y pagos?
+  * ¿Qué marcas, tecnologías o apps influyen en tu forma de trabajar?”
   * ¿Qué tipo de alertas o reportes crees que serían más útiles para tu trabajo diario?
+  * ¿Qué dispositivos usas con más frecuencia en tu trabajo (celular, computadora, tablet)?
+  * ¿Qué navegadores o sistema operativo utilizas más en tu día a día?
   * ¿Crees que una plataforma como EasyPark te ayudaría a ahorrar tiempo y reducir errores? ¿Cómo?
   * ¿Qué funcionalidades específicas te gustaría que tuviera EasyPark para facilitar tu trabajo?
   * ¿Qué tan dispuesto estarías a aprender y usar un sistema digital si este hace tu trabajo más rápido y sencillo?
