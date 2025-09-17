@@ -426,7 +426,7 @@ Para identificar las necesidades de los administradores y operadores de estacion
 
 ### 2.3.2. User Task Matrix
 
-**Administrador de estacionamiento: Carlos Rodrígues**
+**Administrador de estacionamiento: Carlos Rodríguez**
 
 | Task                                           | Frequency   | Importance |
 |------------------------------------------------|-------------|------------|
