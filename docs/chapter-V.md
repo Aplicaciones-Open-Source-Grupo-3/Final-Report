@@ -132,4 +132,71 @@ Se documenta el trabajo colaborativo y las fases clave del Sprint 1, desde el sp
 #### 5.2.1.1. Sprint Planning 1.
 Aquí se especifican los objetivos, historias de usuario priorizadas y entregables mínimos viables definidos para la primera iteración de EasyPark.
 
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Sprint #</strong></td>
+			<td>Sprint 1</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>Spring Planing Background</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Date</strong></td>
+			<td>2025-09-3</td>
+		</tr>
+		<tr>
+			<td><strong>Time</strong></td>
+			<td>10:30 PM</td>
+		</tr>
+		<tr>
+			<td><strong>Location</strong></td>
+			<td>Remote mode through the GitHub platform</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>Prepared by</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Attends (to planinning meeting)</strong></td>
+			<td>All members of EasyPark</td>
+		</tr>
+		<tr>
+			<td><strong>Sprint 0 Review Summary</strong></td>
+			<td>Since this is our initial development sprint, a sprint summary has not yet been completed.</td>
+		</tr>
+		<tr>
+			<td><strong>Sprint 0 Retrospective Summary</strong></td>
+			<td>Since this is our initial development sprint, a sprint summary has not yet been completed.</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Spritn 1 Goal</strong></td>
+			<td>We are focused on building the EasyPark landing page, as we believe this is critical for the long-term sustainability of the product within the organization. We will confirm its success when we see a significant increase in user engagement.</td>
+		</tr>
+		<tr>
+			<td><strong>Sprint 1 Velocity</strong></td>
+			<td>10</td>
+		</tr>
+		<tr>
+			<td><strong>Sum of Story points</strong></td>
+			<td>18</td>
+		</tr>
+	</tbody>
+</table>
 
+#### 5.2.1.2. Aspect Leaders and Collaborators.
+En esta sección se presenta la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual se presenta al líder y los colaboradores de este Sprint 1.
+
+| Team Member (Last Name, First Name) | GitHub Username | Landing page |
+| ------------------------------------|-----------------|-------------------------------------------|
+| Elescano Leon, Piero Hugo | PieroHugo | L |
+| Espinoza Chavez, Moises Filemon |MoisesECh| C | 
+| Florez Shimabukuro, Fátima Belén |PengwinKingdom| C |
+| Nakasone Gomes, Marco Antonio  | marquinho04 | C | 
+| Paredes Davila, Jose Adrian  | joseadro09 | C | 
+
+
+#### 5.2.1.3. Sprint Backlog 1
+El principal objetivo del primer sprint es desarrollar las funciones esenciales que permitan a los usuarios interesados en EasyPark informarse sobre su propósito, conocer sus características destacadas y entender las acciones que podrán realizar dentro de la aplicacion web.
