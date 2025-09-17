@@ -356,7 +356,7 @@ Martín gestiona actualmente los cobros mediante POS y registra los pagos en cua
 
 
 
-### Segmento Objetivo: Operadores de estacionamientos
+### Segmento Objetivo: Operadores de estacionamientos formales
 **Entrevista N°1**
 
  - Entrevistado(a): 
@@ -396,6 +396,10 @@ Martín gestiona actualmente los cobros mediante POS y registra los pagos en cua
 | ¿Estarías dispuesto a pagar una suscripción mensual por una plataforma que te permita centralizar toda la gestión de tu estacionamiento? | Los dos administradores estarían dispuestos, siempre que el costo sea razonable y la plataforma sea capaz de resolver sus problemas |
 | ¿Qué características consideras esenciales para confiar en una solución digital frente a los procesos manuales actuales? | Los administradores valoran que sea fácil de usar, rápida, estable y segura, con datos protegidos y referencias confiables de otros usuarios |
 
+### Segmento Objetivo: Operadores de estacionamientos formales
+
+| Preguntas | Respuestas Generales |
+|-----------|-----------------------|
 
 ## 2.3. Needfinding
 Para identificar las necesidades de los administradores y operadores de estacionamientos, utilizamos varias herramientas y métodos.
@@ -418,7 +422,7 @@ Para identificar las necesidades de los administradores y operadores de estacion
 
 <img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/feature/chapter-II-requirements-elicitation-%26-analysis/assets/images/chapter-II/User%20Persona%201.jpg" alt="Administrador de estacionamiento" style="width: 700px; margin-right: 700px;"/>
 
-**Operadores de estacionamientos**
+**Operador de estacionamientos**
 
 <img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/feature/chapter-II-requirements-elicitation-%26-analysis/assets/images/chapter-II/User%20Persona%202.jpg" alt="Operador de estacionamiento" style="width: 700px; margin-right: 700px;"/>
 
@@ -439,7 +443,7 @@ Para identificar las necesidades de los administradores y operadores de estacion
 | Buscar herramientas digitales para optimizar procesos | Rarely     | Medium     |
 
 
-**Operadores de estacionamientos: Juan Rojas**
+**Operador de estacionamientos: Juan Rojas**
 
 | Task                                              | Frequency   | Importance |
 |---------------------------------------------------|-------------|------------|
@@ -465,6 +469,7 @@ Para identificar las necesidades de los administradores y operadores de estacion
 | **Resolución del problema** | Logra mantener el estacionamiento operativo, pero con pérdidas de tiempo, poca transparencia y conflictos frecuentes |
 
 
+**Administrador de Estacionamiento: Carlos Rodríguez**
 
 ### 2.3.4. Empathy Mapping
 
