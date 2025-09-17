@@ -480,6 +480,12 @@ Para identificar las necesidades de los administradores y operadores de estacion
 
 ### 2.3.4. Empathy Mapping
 
+**Administrador de Estacionamiento: Carlos Rodríguez**
+<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Empathy%20Mapping%201.png" alt="Empathy Mapping 1" style="width: 700px; margin-right: 700px;"/>
+
+
+**Operador de estacionamientos: Juan Rojas**
+<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Empathy%20Mapping%202.png" alt="Empathy Mapping 1" style="width: 700px; margin-right: 700px;"/>
 
 ## 2.4. Big Picture Event Storming
 ## 2.5. Ubiquitous Language
