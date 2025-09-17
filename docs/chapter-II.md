@@ -426,7 +426,30 @@ Para identificar las necesidades de los administradores y operadores de estacion
 
 ### 2.3.2. User Task Matrix
 
+**Administrador de estacionamiento: Carlos Rodrígues**
 
+| Task                                           | Frequency   | Importance |
+|------------------------------------------------|-------------|------------|
+| Supervisar ingresos y ocupación de los espacios | Frequently  | High       |
+| Revisar reportes de cobros y ocupación         | Frequently  | High       |
+| Resolver conflictos con clientes por cobros o espacios | Occasionally | High       |
+| Tomar decisiones sobre tarifas y promociones   | Occasionally | High       |
+| Coordinar con operadores y personal            | Frequently  | High       |
+| Mantener registros manuales en cuadernos o en Excel | Frequently  | High     |
+| Buscar herramientas digitales para optimizar procesos | Rarely     | Medium     |
+
+
+**Operadores de estacionamientos: Juan Rojas**
+
+| Task                                              | Frequency   | Importance |
+|---------------------------------------------------|-------------|------------|
+| Registrar ingresos y salidas de vehículos         | Frequently  | High       |
+| Asignar espacios de estacionamiento               | Frequently  | High       |
+| Realizar y verificar cobros                        | Frequently  | High       |
+| Resolver reclamos de clientes por errores en cobros | Occasionally | High      |
+| Reportar incidencias o problemas en el estacionamiento | Occasionally | Medium   |
+| Mantener registros manuales en cuadernos          | Frequently  | High     |
+| Usar aplicaciones móviles para coordinar o enviar reportes | Occasionally | Medium |
 
 
 ### 2.3.3. User Journey Mapping
