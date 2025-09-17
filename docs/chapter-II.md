@@ -341,6 +341,7 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
 **_Informe de resumen:_**  
 Juan utiliza tickets, cuadernos y ocasionalmente Excel, lo que dificulta obtener reportes claros. Ha tenido reclamos frecuentes por cobros, por lo que considera clave la transparencia y reportes confiables. Valora mucho los dashboards en tiempo real y estaría dispuesto a pagar una suscripción si la herramienta es segura, fácil de usar y estable.
 
+
 **Entrevista N°2**
 
  - Entrevistado(a): Martín Valencia
@@ -356,6 +357,28 @@ Martín gestiona actualmente los cobros mediante POS y registra los pagos en cua
 
 
 ### Segmento Objetivo: Operadores de estacionamientos
+**Entrevista N°1**
+
+ - Entrevistado(a): 
+ - Entrevistador(a): 
+ - Sexo: 
+ - Edad: 
+ - Residencia: 
+ - Enlace de entrevista:
+
+**_Informe de resumen:_**  
+
+
+**Entrevista N°2**
+
+ - Entrevistado(a): 
+ - Entrevistador(a): 
+ - Sexo: 
+ - Edad: 
+ - Residencia: 
+ - Enlace de entrevista:
+
+**_Informe de resumen:_**  
 
 
 ### 2.2.3. Análisis de entrevistas
@@ -364,14 +387,14 @@ Martín gestiona actualmente los cobros mediante POS y registra los pagos en cua
 
 | Preguntas | Respuestas Generales |
 |-----------|-----------------------|
-| ¿Qué métodos utilizas hoy en día para controlar ingresos, salidas y cobros en el estacionamiento? | |
-| ¿Qué tan fácil o difícil es obtener reportes claros de ingresos y ocupación? | |
-| ¿Has tenido problemas con pérdidas económicas, errores en cobros o conflictos con clientes? ¿Con qué frecuencia? | |
-| ¿Qué herramientas digitales has utilizado hasta ahora para administrar el estacionamiento? | |
-| ¿Qué aspectos consideras más importantes para mejorar la gestión de un estacionamiento? | |
-| ¿Qué tanto valor le darías a una herramienta que te muestre dashboards en tiempo real sobre ocupación e ingresos? | |
-| ¿Estarías dispuesto a pagar una suscripción mensual por una plataforma que te permita centralizar toda la gestión de tu estacionamiento? | |
-| ¿Qué características consideras esenciales para confiar en una solución digital frente a los procesos manuales actuales? | |
+| ¿Qué métodos utilizas hoy en día para controlar ingresos, salidas y cobros en el estacionamiento? | Los administradores usan tickets y cuadernos como principal método de control. Algunos usan Excel de forma limitada y otros emplean POS o apps de pago como Yape, Plin y EasyPay |
+| ¿Qué tan fácil o difícil es obtener reportes claros de ingresos y ocupación? | Ambos administradores coinciden en que es complicado obtener reportes confiables. El administrador de la entrevista N°1 revisa manualmente los registros y el N°2 depende de fotos de cuadernos enviados por WhatsApp |
+| ¿Has tenido problemas con pérdidas económicas, errores en cobros o conflictos con clientes? ¿Con qué frecuencia? | El administrador de la entrevista N°1 reporta reclamos frecuentes por diferencias en cobros. El administrador de la entrevista N°2 no ha tenido pérdidas ni errores porque usa POS, aunque a veces hay problemas cuando falta espacio en el estacionamiento |
+| ¿Qué herramientas digitales has utilizado hasta ahora para administrar el estacionamiento? | Los dos administradores usan herramientas básicas: Excel, WhatsApp, Yape, Plin y EasyPay. Sin embargo, no usan sistemas integrados o avanzados |
+| ¿Qué aspectos consideras más importantes para mejorar la gestión de un estacionamiento? | Ambos administradores valoran la transparencia en los cobros y reportes confiables. También desean que la atención a los clientes sea más rápida y que los datos lleguen al dueño en tiempo real |
+| ¿Qué tanto valor le darías a una herramienta que te muestre dashboards en tiempo real sobre ocupación e ingresos? | Los dos administradores consideran que tendría mucho valor ya que ahorraría tiempo, tendrían mayor control y permitiría analizar horarios y días con mayor demanda |
+| ¿Estarías dispuesto a pagar una suscripción mensual por una plataforma que te permita centralizar toda la gestión de tu estacionamiento? | Los dos administradores estarían dispuestos, siempre que el costo sea razonable y la plataforma sea capaz de resolver sus problemas |
+| ¿Qué características consideras esenciales para confiar en una solución digital frente a los procesos manuales actuales? | Los administradores valoran que sea fácil de usar, rápida, estable y segura, con datos protegidos y referencias confiables de otros usuarios |
 
 
 ## 2.3. Needfinding
