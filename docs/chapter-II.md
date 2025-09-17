@@ -454,6 +454,17 @@ Para identificar las necesidades de los administradores y operadores de estacion
 
 ### 2.3.3. User Journey Mapping
 
+**Administrador de Estacionamiento: Carlos Rodríguez**
+
+| Etapa                | Experiencia actual |
+|-----------------------|--------------------|
+| **Descubrimiento**    | Utiliza registros manuales ya que su uso es común en estacionamientos |
+| **Gestión inicial**   | Revisa y organiza los cuadernos de control al inicio del día. También coordina con operadores mediante llamadas o WhatsApp |
+| **Primer uso**        | Supervisa ingresos y cobros con apoyo de tickets físicos y revisa reportes hechos en Excel |
+| **Interacción continua** | Pasa varias horas revisando manualmente los registros, resolviendo reclamos de clientes y corrigiendo errores |
+| **Resolución del problema** | Logra mantener el estacionamiento operativo, pero con pérdidas de tiempo, poca transparencia y conflictos frecuentes |
+
+
 
 ### 2.3.4. Empathy Mapping
 
