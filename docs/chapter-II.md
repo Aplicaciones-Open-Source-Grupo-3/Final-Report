@@ -303,13 +303,12 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
   * ¿Qué tan fácil o difícil es obtener reportes claros de ingresos y ocupación?
   * ¿Has tenido problemas con pérdidas económicas, errores en cobros o conflictos con clientes? ¿Con qué frecuencia?
   * ¿Qué herramientas digitales has utilizado hasta ahora para administrar el estacionamiento?
-  * ¿Qué marcas, tecnologías o apps influyen en tu forma de trabajar?”
   * ¿Qué aspectos consideras más importantes para mejorar la gestión de un estacionamiento?
   * ¿Qué tanto valor le darías a una herramienta que te muestre dashboards en tiempo real sobre ocupación e ingresos?
   * ¿Estarías dispuesto a pagar una suscripción mensual por una plataforma que te permita centralizar toda la gestión de tu estacionamiento?
-  * ¿Qué dispositivos usas con más frecuencia en tu trabajo (celular, computadora, tablet)?
-  * ¿Qué navegadores o sistema operativo utilizas más en tu día a día?)
   * ¿Qué características consideras esenciales para confiar en una solución digital frente a los procesos manuales actuales?
+
+ 
 
 - #### Para operadores de estacionamientos:
   * ¿Cuál es tu nombre completo, edad y el rol que cumples en el estacionamiento?
@@ -327,10 +326,9 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
 
 
 
-
 ### 2.2.2. Registro de entrevistas
 
-### Segmento Objetivo 1: Administradores de estacionamientos formales
+### Segmento Objetivo: Administradores de estacionamientos formales
 **Entrevista N°1**
 
  - Entrevistado(a): Juan Silva
@@ -357,13 +355,23 @@ Martín gestiona actualmente los cobros mediante POS y registra los pagos en cua
 
 
 
-### Segmento Objetivo 2: Operadores de estacionamientos
+### Segmento Objetivo: Operadores de estacionamientos
 
 
 ### 2.2.3. Análisis de entrevistas
 
+### Segmento Objetivo: Administradores de estacionamientos formales
 
-
+| Preguntas | Respuestas Generales |
+|-----------|-----------------------|
+| ¿Qué métodos utilizas hoy en día para controlar ingresos, salidas y cobros en el estacionamiento? | |
+| ¿Qué tan fácil o difícil es obtener reportes claros de ingresos y ocupación? | |
+| ¿Has tenido problemas con pérdidas económicas, errores en cobros o conflictos con clientes? ¿Con qué frecuencia? | |
+| ¿Qué herramientas digitales has utilizado hasta ahora para administrar el estacionamiento? | |
+| ¿Qué aspectos consideras más importantes para mejorar la gestión de un estacionamiento? | |
+| ¿Qué tanto valor le darías a una herramienta que te muestre dashboards en tiempo real sobre ocupación e ingresos? | |
+| ¿Estarías dispuesto a pagar una suscripción mensual por una plataforma que te permita centralizar toda la gestión de tu estacionamiento? | |
+| ¿Qué características consideras esenciales para confiar en una solución digital frente a los procesos manuales actuales? | |
 
 
 ## 2.3. Needfinding
@@ -386,6 +394,8 @@ Para identificar las necesidades de los administradores y operadores de estacion
 **Administrador de estacionamiento**
 
 <img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/feature/chapter-II-requirements-elicitation-%26-analysis/assets/images/chapter-II/User%20Persona%201.jpg" alt="Administrador de estacionamiento" style="width: 700px; margin-right: 700px;"/>
+
+**Operadores de estacionamientos**
 
 <img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/feature/chapter-II-requirements-elicitation-%26-analysis/assets/images/chapter-II/User%20Persona%202.jpg" alt="Operador de estacionamiento" style="width: 700px; margin-right: 700px;"/>
 
