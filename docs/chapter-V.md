@@ -427,3 +427,25 @@ Para el Sprint 1, se presenta la evidencia de desarrollo de la landing page de E
 El equipo de desarrolladores logró concluir con el sprint 1, el cual involucra la implementación y despliegue de la landing page de EasyPark. A continuación se presentan las evidencias.
 #### Landing page desplegada
 ![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-1.png)
+
+![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-2.png)
+
+![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-3.png)
+
+![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-4.png)
+
+![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-5.png)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En este sprint no se cuenta la documentacion a razón que el primer sprint esta dirigido a la elaboración del landing page.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+En el desarrollo del Sprint 1 para EasyPark, se utilizó GitHub Pages para el despliegue de la página de aterrizaje. Esta herramienta se integró de manera fluida al flujo de trabajo, permitiendo el despliegue directo desde el repositorio. Además, se llevaron a cabo actividades específicas para preparar el entorno de despliegue.
+
+Enlace de la Landing Page: https://aplicaciones-open-source-grupo-3.github.io/Landing-Page/
+
+![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-1.png)
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+En esta seccion se evidencia el trabajo colaborativo del equipo de desarrollo en la elaboracion de la landing page.
+
