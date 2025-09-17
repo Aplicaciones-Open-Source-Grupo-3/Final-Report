@@ -488,10 +488,12 @@ Para identificar las necesidades de los administradores y operadores de estacion
 <img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Empathy%20Mapping%202.png" alt="Empathy Mapping 1" style="width: 700px; margin-right: 700px;"/>
 
 ## 2.4. Big Picture Event Storming
+**Operación diaria**
 <img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Big%20Picture%20Event%20Storming.png" alt="Big Picture Event Storming" style="width: 900px; margin-right: 900px;"/>
 
 En la imagen se presenta el Big Picture Event Storming del procedimiento de administración de un estacionamiento, que abarca desde el ingreso del vehículo hasta la elaboración de los reportes diarios. 
 
+**Gestión y control**
 <img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Big%20Picture%20Event%20Storming%202.png" alt="Big Picture Event Storming 2" style="width: 900px; margin-right: 900px;"/>
 
 En la imagen se presenta el Big Picture Event Storming de las tareas principales del Administrador de Estacionamiento, que abarcan desde la revisión de reportes e historial de transacciones hasta la generación de informes diarios. Se destacan las validaciones críticas y la automatización de reportes.
@@ -501,7 +503,9 @@ En la imagen se presenta el Big Picture Event Storming de las tareas principales
 - Azul: Acciones realizadas por los actores del sistema
 - Naranja: Resultados de las acciones
 - Amarillo: Actores involucrados
-- Morado: Policies 
+- Morado: Policies
+
+Link del miro: https://miro.com/app/board/uXjVLRX3C6o=/
 
 ## 2.5. Ubiquitous Language
 
