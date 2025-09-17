@@ -64,6 +64,334 @@ En esta sección el equipo redacta la definición y la elaboración de los User 
 | TS03 | Integración continua y despliegue automático | **Como** equipo técnico **quiero** configurar pipelines de CI/CD **para** agilizar pruebas y despliegues en cada push. | Escenario 1: Pipeline exitoso Dado que el repositorio recibe un push, Cuando se ejecuta el pipeline, Entonces las pruebas y despliegue se realizan automáticamente y sin errores. <br>---<br> Escenario 2: Fallo en pipeline Dado que ocurre un error en pruebas o build, Cuando se ejecuta el pipeline, Entonces se detiene el despliegue y se notifica al equipo. | - |
 | TS04 | Seguridad y revisión de vulnerabilidades | **Como** responsable técnico **quiero** analizar el código en busca de vulnerabilidades **para** proteger los datos y usuarios. | Escenario 1: Análisis exitoso Dado que se ejecuta el análisis de seguridad, Cuando no existen vulnerabilidades, Entonces el sistema reporta código seguro. <br>---<br> Escenario 2: Vulnerabilidades detectadas Dado que se detectan fallos de seguridad, Cuando se ejecuta el análisis, Entonces se reportan y bloquea el despliegue hasta corregir. | - |
 | TS05 | Documentación técnica automatizada | **Como** desarrollador **quiero** generar y mantener documentación técnica de APIs y arquitectura **para** facilitar el mantenimiento. | Escenario 1: Documentación generada Dado que se actualiza el código, Cuando se ejecuta la herramienta de documentación, Entonces se actualizan los archivos y quedan accesibles. <br>---<br> Escenario 2: Error en documentación Dado que existen errores en los comentarios o formato, Cuando se ejecuta la herramienta, Entonces el sistema reporta los errores y solicita corrección. | - |
+
 ## 3.2. Impact Mapping
 
 ## 3.3. Product Backlog
+
+A continuación se detalla el Product Backlog del proyecto EasyPark. El Product Backlog mostrara una lista ordenada de las user stories, priorizadas de acuerdo con el consenso del equipo. Para estimar la complejidad de cada tarea, empleamos la secuencia de Fibonacci (1, 2, 3, 5, 8) como referencia.
+
+<table>
+  <tr>
+    <td><strong>#Orden</strong></td>
+    <td><strong>User Story Id</strong></td>
+    <td><strong>Título</strong></td>
+    <td><strong>Descripción</strong></td>
+    <td><strong>Story Points (1 / 2 / 3 / 5 / 8)</strong></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>US14</td>
+    <td>Visualización de dashboard</td>
+    <td>Como administrador quiero acceder a un dashboard central para ver el estado general de los estacionamientos</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>US15</td>
+    <td>Gestión visual de espacios</td>
+    <td>Como operador quiero ver y actualizar el estado de los espacios (libre/ocupado/reservado) para mantener la información al día</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>US17</td>
+    <td>Gestión de reservas desde frontend</td>
+    <td>Como usuario quiero reservar un espacio de estacionamiento desde la aplicación para asegurar disponibilidad</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>US20</td>
+    <td>Procesamiento de pagos frontend</td>
+    <td>Como usuario quiero pagar mi estacionamiento desde la app usando distintos métodos para agilizar la salida</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>US26</td>
+    <td>API de gestión de espacios</td>
+    <td>Como desarrollador quiero una API REST para gestionar los espacios de estacionamiento para integraciones externas y automatizaciones</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>US27</td>
+    <td>API de usuarios y roles</td>
+    <td>Como desarrollador quiero endpoints para alta, baja, modificación y consulta de usuarios y roles para facilitar la administración</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>US28</td>
+    <td>API de pagos y reservas</td>
+    <td>Como desarrollador quiero exponer endpoints para procesar pagos y gestionar reservas para integración con apps de terceros</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>US32</td>
+    <td>Gestión de backups y restauración</td>
+    <td>Como responsable técnico quiero programar backups automáticos y restaurar datos para prevenir pérdidas</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>US33</td>
+    <td>Integración con sistemas de pago externos</td>
+    <td>Como desarrollador quiero conectar EasyPark con pasarelas de pago externas para ampliar opciones de cobro</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>US34</td>
+    <td>Autenticación y autorización</td>
+    <td>Como backend quiero implementar mecanismos robustos de autenticación y control de acceso para proteger los recursos</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>US39</td>
+    <td>Control de concurrencia</td>
+    <td>Como backend quiero evitar conflictos por operaciones simultáneas sobre el mismo espacio para mantener la consistencia</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>TS03</td>
+    <td>Integración continua y despliegue automático</td>
+    <td>Como equipo técnico quiero configurar pipelines de CI/CD para agilizar pruebas y despliegues en cada push</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>TS04</td>
+    <td>Seguridad y revisión de vulnerabilidades</td>
+    <td>Como responsable técnico quiero analizar el código en busca de vulnerabilidades para proteger los datos y usuarios</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>US11</td>
+    <td>Registro de usuario</td>
+    <td>Como operador o administrador quiero crear una cuenta en EasyPark para acceder a las funcionalidades del sistema</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>US12</td>
+    <td>Inicio de sesión</td>
+    <td>Como usuario registrado quiero iniciar sesión de forma segura para acceder al panel de gestión</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>US18</td>
+    <td>Cancelación de reservas</td>
+    <td>Como usuario quiero cancelar una reserva activa para liberar el espacio sin penalización (cuando aplica)</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>US19</td>
+    <td>Visualización de tarifas</td>
+    <td>Como conductor quiero consultar las tarifas vigentes según horario y espacio para planificar mi pago</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>US21</td>
+    <td>Recepción de notificaciones</td>
+    <td>Como usuario u operador quiero recibir notificaciones sobre reservas, pagos o incidencias para actuar a tiempo</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>US22</td>
+    <td>Gestión de incidencias</td>
+    <td>Como operador quiero registrar y visualizar incidencias en el estacionamiento para dar seguimiento y solución</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>US16</td>
+    <td>Consulta de historial de ocupación</td>
+    <td>Como administrador quiero ver el historial de ocupación de los espacios para analizar tendencias</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>US29</td>
+    <td>API de reportes y analíticas</td>
+    <td>Como desarrollador quiero obtener reportes de ocupación, ingresos y uso para análisis externo</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>US30</td>
+    <td>Gestión de logs y auditoría</td>
+    <td>Como administrador quiero acceder a registros de acciones críticas en el sistema para auditorías y seguridad</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>US31</td>
+    <td>Validación de integridad de datos</td>
+    <td>Como backend quiero validar y proteger la integridad de los datos de ocupación y pagos para evitar errores y fraudes</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>US35</td>
+    <td>Monitoreo de disponibilidad</td>
+    <td>Como responsable técnico quiero monitorear la disponibilidad y salud de los servicios backend para detectar caídas</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>US37</td>
+    <td>Gestión de incidencias desde backend</td>
+    <td>Como backend quiero permitir registro y consulta de incidencias vía API para integración con sistemas de soporte</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>US38</td>
+    <td>Versionado de API</td>
+    <td>Como desarrollador quiero que las APIs estén versionadas para evitar rupturas en integraciones existentes</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>TS01</td>
+    <td>Pruebas automatizadas frontend</td>
+    <td>Como equipo técnico quiero implementar pruebas unitarias y de integración en frontend para asegurar la calidad de la interfaz</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>TS02</td>
+    <td>Pruebas automatizadas backend</td>
+    <td>Como equipo técnico quiero desarrollar tests unitarios y de integración para backend para garantizar la robustez de servicios</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>US23</td>
+    <td>Edición de perfil de usuario</td>
+    <td>Como usuario quiero modificar mis datos personales y de contacto para mantener mi perfil actualizado</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>US25</td>
+    <td>Cierre de sesión seguro</td>
+    <td>Como usuario quiero cerrar mi sesión manualmente y automáticamente por inactividad para proteger mi cuenta</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>31</td>
+    <td>US13</td>
+    <td>Recuperación de contraseña</td>
+    <td>Como usuario quiero recuperar mi contraseña olvidada para restablecer acceso a mi cuenta</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>US24</td>
+    <td>Soporte y ayuda online</td>
+    <td>Como usuario quiero acceder a recursos de ayuda y soporte en la app para resolver dudas durante el uso</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td>US01</td>
+    <td>Información general EasyPark</td>
+    <td>Como visitante quiero ver una descripción clara de EasyPark en la landing page para entender de qué trata la solución</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td>US02</td>
+    <td>Características destacadas</td>
+    <td>Como potencial cliente quiero ver una lista de beneficios y características clave en la landing para decidir si EasyPark es adecuado para mi negocio</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td>US03</td>
+    <td>Planes y precios</td>
+    <td>Como interesado quiero consultar los planes y precios desde la landing para evaluar la oferta y tomar decisiones</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>36</td>
+    <td>US04</td>
+    <td>Formulario de contacto</td>
+    <td>Como visitante quiero enviar una consulta o solicitar información a través de un formulario en la landing para recibir atención personalizada</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>37</td>
+    <td>US05</td>
+    <td>Testimonios de clientes</td>
+    <td>Como visitante quiero conocer opiniones de otros usuarios para confiar en la solución EasyPark</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>38</td>
+    <td>US06</td>
+    <td>Preguntas frecuentes (FAQs)</td>
+    <td>Como visitante quiero consultar un listado de preguntas frecuentes para resolver dudas rápidamente</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>39</td>
+    <td>US36</td>
+    <td>Generación automática de reportes</td>
+    <td>Como administrador quiero recibir reportes automáticos por email para mantenerme actualizado sin ingresar al sistema</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td>US40</td>
+    <td>Exportación de datos</td>
+    <td>Como administrador quiero exportar datos históricos de ocupación, pagos y usuarios para análisis externo</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>41</td>
+    <td>TS05</td>
+    <td>Documentación técnica automatizada</td>
+    <td>Como desarrollador quiero generar y mantener documentación técnica de APIs y arquitectura para facilitar el mantenimiento</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td>US07</td>
+    <td>Acceso a demo o tour virtual</td>
+    <td>Como potencial usuario quiero acceder a una demo interactiva o tour virtual para conocer cómo funciona EasyPark</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>43</td>
+    <td>US08</td>
+    <td>Enlaces a redes sociales</td>
+    <td>Como visitante quiero encontrar enlaces a redes sociales oficiales para seguir novedades y contacto alternativo</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>44</td>
+    <td>US09</td>
+    <td>Registro de interés (newsletter)</td>
+    <td>Como usuario interesado quiero dejar mi correo para recibir novedades y promociones para mantenerme informado</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>45</td>
+    <td>US10</td>
+    <td>Accesibilidad y responsive</td>
+    <td>Como visitante quiero que la landing page funcione correctamente en cualquier dispositivo y sea accesible para tener una buena experiencia</td>
+    <td>1</td>
+  </tr>
+</table>
