@@ -28,8 +28,8 @@
 | Versión | Fecha       | Autor                                | Descripción de Modificación                                           |
 |---------|-------------|--------------------------------------|------------------------------------------------------------------------|
 | 0.0     | 02/09/2025  | Elescano Leon, Piero Hugo            | Se crea la estructura inicial del documento de EasyPark.               |
-| 1.0     | 03/09/2025  | Florez Shimabukuro, Fátima Belén     | Se crean las ramas principales y se organiza el repositorio.           |
-| 1.1     | 04/09/2025  | Elescano Leon, Piero Hugo            | Avances en Capítulo I: Introducción y perfiles de integrantes.         |
+| 1.0     | 03/09/2025  | Elescano Leon, Piero Hugo            | Se crean las ramas principales y se organiza el repositorio.           |
+| 1.1     | 04/09/2025  | Florez Shimabukuro, Fátima Belén     | Avances en Capítulo I: Introducción y perfiles de integrantes.         |
 | 1.2     | 05/09/2025  | Florez Shimabukuro, Fátima Belén; Nakasone Gomes, Marco Antonio | Desarrollo de la sección Lean UX Process y primeros wireframes.        |
 | 1.3     | 06/09/2025  | Espinoza Chávez, Moisés Filemón      | Se agregan user personas y matriz de tareas de usuario.                |
 | 1.4     | 08/09/2025  | Elescano Leon, Piero Hugo; Nakasone Gomes, Marco Antonio | Actualización de User Stories y Product Backlog.                       |
