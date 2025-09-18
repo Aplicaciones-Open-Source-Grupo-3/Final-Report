@@ -22,10 +22,10 @@ El objetivo de esta sección es comparar a EasyPark con las principales alternat
                   </tr>
                 <tr>
                       <th colspan="2">(Logo)</th>
-                      <th>o</th>
-                      <th>o</th>
-                      <th>o</th>
-                      <th>o </th>
+                      <th><img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/EasyPark%20Logo.png" alt="EasyPark Logo" style="width: 100px; margin-right: 100px;"/></th>
+                      <th><img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Apparka%20Logo.png" alt="Apparka Logo" style="width: 100px; margin-right: 100px;"/></th>
+                      <th><img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Parkopedia%20Logo.jpg" alt="Parkopedia Logo" style="width: 100px; margin-right: 100px;"/></th>
+                      <th><img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/WeSmartPark%20Logo.png" alt="WeSmartPark Logo" style="width: 100px; margin-right: 100px;"/></th>
                   </tr>
               </thead>
               <tbody>
