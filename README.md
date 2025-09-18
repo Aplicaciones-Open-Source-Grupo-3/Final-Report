@@ -1,14 +1,40 @@
+<div align="center">
+  
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-# Carrera de Ingienería de Software 
-## Open Source
-
+# Carrera de Ingienería de Software - 2520
+## Desarrollo de Aplicaciones Open Source - 1ASI0729
+![UPC_logo_transparente](/assets/images/chapter-I/upc_logo.png)
 
 # Informe de Trabajo Final
-### Profesor: 
-### Startup: 
-### Producto: 
+### Profesor: Rafael Oswaldo Castro Veramendi
+### Startup: QuickPark
+### Producto: EasyPark
 
-### Sección: 
+### Sección: 7351
+
+|           Estudiante             |     Código      |
+|----------------------------------|-----------------|
+| Elescano Leon, Piero Hugo        |   u202313354    |
+| Florez Shimabukuro, Fátima Belén |   u202320610    |
+| Espinoza Chávez, Moisés Filemón  |   u202221383    |
+| Paredes Davila, Jose Adrian      |   u202216163    |
+| Nakasone Gomes, Marco Antonio    |   u202210790    |
+
+### **Septiembre, 2025**
+</div>
+
+# Project Report Collaboration Insights 
+
+  - **Link del repositorio:** https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report.git
+  
+  - **Link de Landing Page:** https://aplicaciones-open-source-grupo-3.github.io/Landing-Page/
+    
+# Student Outcome
+
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. 
+
+En el siguiente cuadro se detallan las acciones realizadas y las conclusiones alcanzadas por el equipo de trabajo, las cuales evidencian el cumplimiento del logro correspondiente al ABET – EAC - Student Outcome 3.
+
 # Contenido
 
 ## [Capítulo I: Introducción](/docs/chapter-I.md)
