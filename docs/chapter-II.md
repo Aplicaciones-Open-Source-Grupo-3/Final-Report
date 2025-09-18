@@ -303,13 +303,12 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
   * ¿Qué tan fácil o difícil es obtener reportes claros de ingresos y ocupación?
   * ¿Has tenido problemas con pérdidas económicas, errores en cobros o conflictos con clientes? ¿Con qué frecuencia?
   * ¿Qué herramientas digitales has utilizado hasta ahora para administrar el estacionamiento?
-  * ¿Qué marcas, tecnologías o apps influyen en tu forma de trabajar?”
   * ¿Qué aspectos consideras más importantes para mejorar la gestión de un estacionamiento?
   * ¿Qué tanto valor le darías a una herramienta que te muestre dashboards en tiempo real sobre ocupación e ingresos?
   * ¿Estarías dispuesto a pagar una suscripción mensual por una plataforma que te permita centralizar toda la gestión de tu estacionamiento?
-  * ¿Qué dispositivos usas con más frecuencia en tu trabajo (celular, computadora, tablet)?
-  * ¿Qué navegadores o sistema operativo utilizas más en tu día a día?)
   * ¿Qué características consideras esenciales para confiar en una solución digital frente a los procesos manuales actuales?
+
+ 
 
 - #### Para operadores de estacionamientos:
   * ¿Cuál es tu nombre completo, edad y el rol que cumples en el estacionamiento?
@@ -327,15 +326,80 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
 
 
 
-
 ### 2.2.2. Registro de entrevistas
+
+### Segmento Objetivo: Administradores de estacionamientos formales
+**Entrevista N°1**
+
+ - Entrevistado(a): Juan Silva
+ - Entrevistador(a): Fátima Florez
+ - Sexo: Masculino
+ - Edad: 20
+ - Residencia: Lima
+ - Enlace de entrevista: https://drive.google.com/file/d/17NHnsQ4T1Du7G9GpeS7d45qLDx6n4Xr-
+
+**_Informe de resumen:_**  
+Juan utiliza tickets, cuadernos y ocasionalmente Excel, lo que dificulta obtener reportes claros. Ha tenido reclamos frecuentes por cobros, por lo que considera clave la transparencia y reportes confiables. Valora mucho los dashboards en tiempo real y estaría dispuesto a pagar una suscripción si la herramienta es segura, fácil de usar y estable.
+
+
+**Entrevista N°2**
+
+ - Entrevistado(a): Martín Valencia
+ - Entrevistador(a): Fátima Florez
+ - Sexo: Masculino
+ - Edad: 48
+ - Residencia: Lima
+ - Enlace de entrevista: https://drive.google.com/file/d/13RPVBQpBmqsQWVZD0t3meHPWkvA-OQ7y
+
+**_Informe de resumen:_**  
+Martín gestiona actualmente los cobros mediante POS y registra los pagos en cuadernos, sin contar con un sistema digital centralizado. Reconoce la utilidad de incorporar reportes automatizados en Excel y dashboards en tiempo real para el propietario. No ha tenido pérdidas ni conflictos recurrentes, pero valora la seguridad, la facilidad de uso y la confiabilidad de una plataforma. Está dispuesto a pagar una suscripción siempre que el precio sea razonable.
+
+
+
+### Segmento Objetivo: Operadores de estacionamientos formales
+**Entrevista N°1**
+
+ - Entrevistado(a): 
+ - Entrevistador(a): 
+ - Sexo: 
+ - Edad: 
+ - Residencia: 
+ - Enlace de entrevista:
+
+**_Informe de resumen:_**  
+
+
+**Entrevista N°2**
+
+ - Entrevistado(a): 
+ - Entrevistador(a): 
+ - Sexo: 
+ - Edad: 
+ - Residencia: 
+ - Enlace de entrevista:
+
+**_Informe de resumen:_**  
 
 
 ### 2.2.3. Análisis de entrevistas
 
+### Segmento Objetivo: Administradores de estacionamientos formales
 
+| Preguntas | Respuestas Generales |
+|-----------|-----------------------|
+| ¿Qué métodos utilizas hoy en día para controlar ingresos, salidas y cobros en el estacionamiento? | Los administradores usan tickets y cuadernos como principal método de control. Algunos usan Excel de forma limitada y otros emplean POS o apps de pago como Yape, Plin y EasyPay |
+| ¿Qué tan fácil o difícil es obtener reportes claros de ingresos y ocupación? | Ambos administradores coinciden en que es complicado obtener reportes confiables. El administrador de la entrevista N°1 revisa manualmente los registros y el N°2 depende de fotos de cuadernos enviados por WhatsApp |
+| ¿Has tenido problemas con pérdidas económicas, errores en cobros o conflictos con clientes? ¿Con qué frecuencia? | El administrador de la entrevista N°1 reporta reclamos frecuentes por diferencias en cobros. El administrador de la entrevista N°2 no ha tenido pérdidas ni errores porque usa POS, aunque a veces hay problemas cuando falta espacio en el estacionamiento |
+| ¿Qué herramientas digitales has utilizado hasta ahora para administrar el estacionamiento? | Los dos administradores usan herramientas básicas: Excel, WhatsApp, Yape, Plin y EasyPay. Sin embargo, no usan sistemas integrados o avanzados |
+| ¿Qué aspectos consideras más importantes para mejorar la gestión de un estacionamiento? | Ambos administradores valoran la transparencia en los cobros y la confiabilidad de los reportes. Además, consideran esencial agilizar la atención a los clientes y que los datos lleguen al dueño en tiempo real|
+| ¿Qué tanto valor le darías a una herramienta que te muestre dashboards en tiempo real sobre ocupación e ingresos? | Los dos administradores consideran que tendría mucho valor, ya que ahorraría tiempo, les daría mayor control y permitiría analizar horarios y días con mayor demanda |
+| ¿Estarías dispuesto a pagar una suscripción mensual por una plataforma que te permita centralizar toda la gestión de tu estacionamiento? | Los dos administradores estarían dispuestos, siempre que el costo sea razonable y la plataforma sea capaz de resolver sus problemas |
+| ¿Qué características consideras esenciales para confiar en una solución digital frente a los procesos manuales actuales? | Los administradores valoran que sea fácil de usar, rápida, estable y segura, con datos protegidos y referencias confiables de otros usuarios |
 
+### Segmento Objetivo: Operadores de estacionamientos formales
 
+| Preguntas | Respuestas Generales |
+|-----------|-----------------------|
 
 ## 2.3. Needfinding
 Para identificar las necesidades de los administradores y operadores de estacionamientos, utilizamos varias herramientas y métodos.
@@ -356,7 +420,9 @@ Para identificar las necesidades de los administradores y operadores de estacion
 ### 2.3.1. User Personas
 **Administrador de estacionamiento**
 
-<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/feature/chapter-II-requirements-elicitation-%26-analysis/assets/images/chapter-II/User%20Persona%201.jpg" alt="Administrador de estacionamiento" style="width: 700px; margin-right: 700px;"/>
+<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/User%20Persona%201.png" alt="Administrador de estacionamiento" style="width: 700px; margin-right: 700px;"/>
+
+**Operador de estacionamientos**
 
 <img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/feature/chapter-II-requirements-elicitation-%26-analysis/assets/images/chapter-II/User%20Persona%202.jpg" alt="Operador de estacionamiento" style="width: 700px; margin-right: 700px;"/>
 
@@ -364,15 +430,98 @@ Para identificar las necesidades de los administradores y operadores de estacion
 
 ### 2.3.2. User Task Matrix
 
+**Administrador de estacionamiento: Carlos Rodríguez**
 
+| Task                                           | Frequency   | Importance |
+|------------------------------------------------|-------------|------------|
+| Supervisar ingresos y ocupación de los espacios | Frequently  | High       |
+| Revisar reportes de cobros y ocupación         | Frequently  | High       |
+| Resolver conflictos con clientes por cobros o espacios | Occasionally | High       |
+| Tomar decisiones sobre tarifas y promociones   | Occasionally | High       |
+| Coordinar con operadores y personal            | Frequently  | High       |
+| Mantener registros manuales en cuadernos o en Excel | Frequently  | High     |
+| Buscar herramientas digitales para optimizar procesos | Rarely     | Medium     |
+
+
+**Operador de estacionamientos: Juan Rojas**
+
+| Task                                              | Frequency   | Importance |
+|---------------------------------------------------|-------------|------------|
+| Registrar ingresos y salidas de vehículos         | Frequently  | High       |
+| Asignar espacios de estacionamiento               | Frequently  | High       |
+| Realizar y verificar cobros                        | Frequently  | High       |
+| Resolver reclamos de clientes por errores en cobros | Occasionally | High      |
+| Reportar incidencias o problemas en el estacionamiento | Occasionally | Medium   |
+| Mantener registros manuales en cuadernos          | Frequently  | High     |
+| Usar aplicaciones móviles para coordinar o enviar reportes | Occasionally | Medium |
 
 
 ### 2.3.3. User Journey Mapping
 
+**Administrador de Estacionamiento: Carlos Rodríguez**
+
+| Etapa                | Experiencia actual |
+|-----------------------|--------------------|
+| **Descubrimiento**    | Utiliza registros manuales ya que su uso es común en estacionamientos |
+| **Gestión inicial**   | Revisa y organiza los cuadernos de control al inicio del día. También coordina con operadores mediante llamadas o WhatsApp |
+| **Primer uso**        | Supervisa ingresos y cobros con apoyo de tickets físicos y revisa reportes hechos en Excel |
+| **Interacción continua** | Pasa varias horas revisando manualmente los registros, resolviendo reclamos de clientes y corrigiendo errores |
+| **Resolución del problema** | Logra mantener el estacionamiento operativo, pero con pérdidas de tiempo, poca transparencia y conflictos frecuentes |
+
+
+**Operador de estacionamientos: Juan Rojas**
+| Etapa                | Experiencia actual |
+|-----------------------|--------------------|
+| **Descubrimiento**    | Recibe indicaciones del administrador para manejar ingresos y cobros con tickets y cuadernos |
+| **Gestión inicial**   | Organiza los tickets y el cuaderno de registros |
+| **Primer uso**        | Atiende a los conductores, asigna espacios y entrega tickets de entrada |
+| **Interacción continua** | Cobra con POS (Yape,Plin,EasyPay) o en efectivo, anota montos en cuaderno y responde reclamos de clientes|
+| **Resolución del problema** | Se encarga de registrar ingresos y cobros, pero el proceso es repetitivo, genera errores y le produce estrés |
 
 ### 2.3.4. Empathy Mapping
 
+**Administrador de Estacionamiento: Carlos Rodríguez**
+<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Empathy%20Mapping%201.png" alt="Empathy Mapping 1" style="width: 700px; margin-right: 700px;"/>
+
+
+**Operador de estacionamientos: Juan Rojas**
+<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Empathy%20Mapping%202.png" alt="Empathy Mapping 1" style="width: 700px; margin-right: 700px;"/>
 
 ## 2.4. Big Picture Event Storming
+**Operación diaria**
+<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Big%20Picture%20Event%20Storming.png" alt="Big Picture Event Storming" style="width: 900px; margin-right: 900px;"/>
+
+En la imagen se presenta el Big Picture Event Storming del procedimiento de administración de un estacionamiento, que abarca desde el ingreso del vehículo hasta la elaboración de los reportes diarios. 
+
+**Gestión y control**
+<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Big%20Picture%20Event%20Storming%202.png" alt="Big Picture Event Storming 2" style="width: 900px; margin-right: 900px;"/>
+
+En la imagen se presenta el Big Picture Event Storming de las tareas principales del Administrador de Estacionamiento, que abarcan desde la revisión de reportes e historial de transacciones hasta la generación de informes diarios. Se destacan las validaciones críticas y la automatización de reportes.
+
+**Leyenda de colores:**
+- Verde: Objetivo principal
+- Azul: Acciones realizadas por los actores del sistema
+- Naranja: Resultados de las acciones
+- Amarillo: Actores involucrados
+- Morado: Policies
+
+Link del miro: https://miro.com/app/board/uXjVLRX3C6o=/
+
 ## 2.5. Ubiquitous Language
+Este será el lenguaje que se empleará en varios componentes de la aplicación, los cuales encapsulan diferentes funciones o posibilitan un reconocimiento más eficiente.
+de la interpretación. 
+
+- **User:** Conductor que utiliza el estacionamiento y paga por el servicio
+- **Operator:** Persona encargada de registrar entradas y salidas de vehículos, asignar espacios y procesar pagos en el estacionamiento
+- **Administrator:** Responsable de supervisar la operación del estacionamiento, revisar reportes y ajustar tarifas
+- **Parking Space:** Unidad disponible para ser ocupada por un vehículo dentro del estacionamiento
+- **Entry:** Acción de registrar la llegada de un vehículo al estacionamiento
+- **Exit:** Acción de registrar la salida de un vehículo del estacionamiento
+- **Transaction:** Registro de un pago realizado por un usuario por el uso del estacionamiento
+- **Report:** Documento digital que resume la ocupación, ingresos y estadísticas del estacionamiento
+- **Tariff:** Precio establecido por el administrador para el uso del estacionamiento
+- **Incident:** Evento reportado en la operación del estacionamiento, como fallos de pago, reclamos o problemas con usuarios
+- **Management:** Proceso integral de administración del estacionamiento
+
+**Implementation example:** When an operator registers an entry, the system assigns a parking space and creates a transaction. At the end of the day, the administrator generates a report to analyze occupancy and income.
 
