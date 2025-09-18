@@ -364,7 +364,8 @@ Martín gestiona actualmente los cobros mediante POS y registra los pagos en cua
  - Sexo: Masculino
  - Edad: 25 años
  - Residencia: Lima
- - Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221383_upc_edu_pe/EfUVABti3VRNgAXI-H_mzv4Bfo61kDKIRKFperED0RLE_Q?                e=ZOqKgZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+ - Enlace de entrevista:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221383_upc_edu_pe/EfUVABti3VRNgAXI-H_mzv4Bfo61kDKIRKFperED0RLE_Q?e=ZOqKgZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **_Informe de resumen:_**  
 
