@@ -35,6 +35,50 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
 En el siguiente cuadro se detallan las acciones realizadas y las conclusiones alcanzadas por el equipo de trabajo, las cuales evidencian el cumplimiento del logro correspondiente al ABET – EAC - Student Outcome 3.
 
+## Evidencias de Comunicación - EasyPark (Landing Page)
+
+<table>
+  <tr>
+    <th>Criterio Específico</th>
+    <th>Acciones Realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td rowspan="5">Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
+    <td>Elescano Leon, Piero Hugo:<br>TB1: Expuso con claridad las ideas y avances sobre la estructuración y diseño de la landing page durante las reuniones de equipo, asegurando la comprensión de todos y promoviendo la toma de decisiones conjunta.</td>
+    <td rowspan="5">La comunicación oral efectiva dentro del equipo facilitó la comprensión de ideas, permitió la resolución rápida de dudas y contribuyó a una mejor coordinación en el desarrollo de la landing page, adaptándose al nivel de conocimiento de cada miembro.</td>
+  </tr>
+  <tr>
+    <td>Florez Shimabukuro, Fátima Belén:<br>TB1: Participó activamente en las presentaciones internas, explicando el enfoque visual y la experiencia de usuario de la landing page de manera accesible para todos los integrantes y ajustando su mensaje según la audiencia.</td>
+  </tr>
+  <tr>
+    <td>Espinoza Chávez, Moisés Filemón:<br>TB1: Lideró sesiones de retroalimentación presentando los avances en la integración de contenidos y funcionalidades, utilizando un lenguaje claro y estructurado para asegurar el entendimiento de todo el equipo.</td>
+  </tr>
+  <tr>
+    <td>Paredes Davila, Jose Adrian:<br>TB1: Realizó presentaciones breves para proponer mejoras en el flujo de navegación y la organización de secciones, adaptando su comunicación a las necesidades del grupo y asegurando la comprensión de las propuestas.</td>
+  </tr>
+  <tr>
+    <td>Nakasone Gomes, Marco Antonio:<br>TB1: Moderó discusiones del grupo sobre el diseño y la estructura, comunicando de manera efectiva las conclusiones y próximos pasos, manteniendo un ambiente participativo y claro.</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
+    <td>Elescano Leon, Piero Hugo:<br>TB1: Redactó reportes de avance sobre el desarrollo de la landing page, utilizando un lenguaje técnico adecuado para el público objetivo, lo cual facilitó el seguimiento del progreso del equipo.</td>
+    <td rowspan="5">La comunicación escrita efectiva permitió documentar adecuadamente el desarrollo de la landing page, compartir información relevante con precisión y mantener informados a todos los interesados, adaptando el contenido y el nivel de detalle según la audiencia.</td>
+  </tr>
+  <tr>
+    <td>Florez Shimabukuro, Fátima Belén:<br>TB1: Elaboró documentos que describían las decisiones de diseño visual y experiencia de usuario, asegurándose de que fueran comprensibles tanto para el equipo como para los asesores externos.</td>
+  </tr>
+  <tr>
+    <td>Espinoza Chávez, Moisés Filemón:<br>TB1: Participó en la redacción de la documentación del proyecto, estructurando los contenidos de manera lógica y clara para facilitar su entendimiento por distintas audiencias.</td>
+  </tr>
+  <tr>
+    <td>Paredes Davila, Jose Adrian:<br>TB1: Colaboró en la elaboración de manuales de usuario y documentación técnica relacionadas a la landing page, utilizando un lenguaje accesible y adaptado al nivel de conocimiento de los diferentes lectores.</td>
+  </tr>
+  <tr>
+    <td>Nakasone Gomes, Marco Antonio:<br>TB1: Coordinó la recopilación de reportes escritos y la organización de los entregables finales, asegurando la coherencia y claridad en los documentos generados por el equipo.</td>
+  </tr>
+</table>
+
 # Contenido
 
 ## [Capítulo I: Introducción](/docs/chapter-I.md)
