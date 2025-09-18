@@ -359,12 +359,12 @@ Martín gestiona actualmente los cobros mediante POS y registra los pagos en cua
 ### Segmento Objetivo: Operadores de estacionamientos formales
 **Entrevista N°1**
 
- - Entrevistado(a): 
- - Entrevistador(a): 
- - Sexo: 
- - Edad: 
- - Residencia: 
- - Enlace de entrevista:
+ - Entrevistado(a): Schneider Ayala Torres
+ - Entrevistador(a): Moisés Espinoza
+ - Sexo: Masculino
+ - Edad: 25 años
+ - Residencia: Lima
+ - Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221383_upc_edu_pe/EfUVABti3VRNgAXI-H_mzv4Bfo61kDKIRKFperED0RLE_Q?                e=ZOqKgZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **_Informe de resumen:_**  
 
