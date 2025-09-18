@@ -23,6 +23,26 @@
 ### **Septiembre, 2025**
 </div>
 
+# **Registro de Versiones Del Informe**
+
+| Versión | Fecha       | Autor                                | Descripción de Modificación                                           |
+|---------|-------------|--------------------------------------|------------------------------------------------------------------------|
+| 0.0     | 02/09/2025  | Elescano Leon, Piero Hugo            | Se crea la estructura inicial del documento de EasyPark.               |
+| 1.0     | 03/09/2025  | Florez Shimabukuro, Fátima Belén     | Se crean las ramas principales y se organiza el repositorio.           |
+| 1.1     | 04/09/2025  | Elescano Leon, Piero Hugo            | Avances en Capítulo I: Introducción y perfiles de integrantes.         |
+| 1.2     | 05/09/2025  | Florez Shimabukuro, Fátima Belén; Nakasone Gomes, Marco Antonio | Desarrollo de la sección Lean UX Process y primeros wireframes.        |
+| 1.3     | 06/09/2025  | Espinoza Chávez, Moisés Filemón      | Se agregan user personas y matriz de tareas de usuario.                |
+| 1.4     | 08/09/2025  | Elescano Leon, Piero Hugo; Nakasone Gomes, Marco Antonio | Actualización de User Stories y Product Backlog.                       |
+| 1.5     | 09/09/2025  | Florez Shimabukuro, Fátima Belén     | Desarrollo de la arquitectura de información y guidelines de estilo.   |
+| 1.6     | 11/09/2025  | Paredes Davila, Jose Adrian          | Revisión y ajustes menores en entrevistas y event storming.            |
+| 1.7     | 12/09/2025  | Nakasone Gomes, Marco Antonio        | Revisión general y aportes en documentación de anexos.                 |
+| 1.8     | 14/09/2025  | Elescano Leon, Piero Hugo            | Integración y revisión de la landing page (estructura y secciones).    |
+| 1.9     | 15/09/2025  | Florez Shimabukuro, Fátima Belén; Nakasone Gomes, Marco Antonio | Mejoras visuales y de accesibilidad en la landing page.                |
+| 2.0     | 16/09/2025  | Elescano Leon, Piero Hugo            | Revisión y actualización final del Capítulo IV: Product Design.        |
+| 2.1     | 16/09/2025  | Espinoza Chávez, Moisés Filemón      | Corrección en los impact mapping y user journey.                       |
+| 2.2     | 17/09/2025  | Florez Shimabukuro, Fátima Belén     | Documentación de evidencias de desarrollo de la landing page.          |
+| 2.3     | 18/09/2025  | Elescano Leon, Piero Hugo            | Ajustes finales en conclusiones y organización de entregables.         |
+
 # Project Report Collaboration Insights 
 
   - **Link del repositorio:** https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report.git
@@ -35,7 +55,6 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
 En el siguiente cuadro se detallan las acciones realizadas y las conclusiones alcanzadas por el equipo de trabajo, las cuales evidencian el cumplimiento del logro correspondiente al ABET – EAC - Student Outcome 3.
 
-## Evidencias de Comunicación - EasyPark (Landing Page)
 
 <table>
   <tr>
