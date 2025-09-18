@@ -142,5 +142,5 @@ En Lima, los administradores y operadores de estacionamientos enfrentan procesos
 ## Segmentos objetivos
 **1. Administradores de estacionamientos formales:** Son los responsables de maximizar los ingresos y la ocupación de los estacionamientos, asegurando un servicio eficiente y seguro para los usuarios.
 
-**2. Operadores de estacionamientos:** Son quienes trabajan en el día a día controlando ingresos y salidas, asignando espacios, cobrando y atendiendo a los clientes. Necesitan herramientas simples y rápidas que les faciliten su labor, reduzcan errores y eviten conflictos con los usuarios.
+**2. Operadores de estacionamientos formales:** Son quienes trabajan en el día a día controlando ingresos y salidas, asignando espacios, cobrando y atendiendo a los clientes. Necesitan herramientas simples y rápidas que les faciliten su labor, reduzcan errores y eviten conflictos con los usuarios.
 
