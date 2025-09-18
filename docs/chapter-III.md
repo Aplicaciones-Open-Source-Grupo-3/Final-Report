@@ -66,6 +66,21 @@ En esta sección el equipo redacta la definición y la elaboración de los User 
 | TS05 | Documentación técnica automatizada | **Como** desarrollador **quiero** generar y mantener documentación técnica de APIs y arquitectura **para** facilitar el mantenimiento. | Escenario 1: Documentación generada Dado que se actualiza el código, Cuando se ejecuta la herramienta de documentación, Entonces se actualizan los archivos y quedan accesibles. <br>---<br> Escenario 2: Error en documentación Dado que existen errores en los comentarios o formato, Cuando se ejecuta la herramienta, Entonces el sistema reporta los errores y solicita corrección. | - |
 
 ## 3.2. Impact Mapping
+### Goal 1
+
+<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Cap-III-v.2/assets/images/chapter-III/Impact%20Mapping.png" alt="Impact Mapping 1" style="width: 900px; margin-right: 900px;"/>
+
+### Goal 2
+
+<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Cap-III-v.2/assets/images/chapter-III/Impact%20Mapping%202.png" alt="Impact Mapping 2" style="width: 900px; margin-right: 900px;"/>
+
+### Goal 3
+
+<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Cap-III-v.2/assets/images/chapter-III/Impact%20Mapping%203.png" alt="Impact Mapping 3" style="width: 900px; margin-right: 900px;"/>
+
+### Goal 4
+
+<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Cap-III-v.2/assets/images/chapter-III/Impact%20Mapping%204.png" alt="Impact Mapping 4" style="width: 900px; margin-right: 900px;"/>
 
 ## 3.3. Product Backlog
 
