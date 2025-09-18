@@ -276,6 +276,7 @@ En la sección de Software Object-Oriented Design se presentarán del diagrama d
 
 ### 4.7.1. Class Diagrams
 
+![diagram](/assets/images/chapter-IV/class-diagram.png)
 
 
 ## 4.8. Database Design
@@ -284,4 +285,4 @@ En la parte dedicada al Diseño de la Base de Datos, se mostrará un diagrama qu
 ### 4.8.1. Database Diagram
 Los diagramas de base de datos muestran la organización interna y las conexiones entre las entidades, facilitando la comprensión de cómo se guardan y vinculan los datos dentro del sistema de forma óptima.
 
-
+![diagram](/assets/images/chapter-IV/data-base-diagram.png)
