@@ -354,10 +354,8 @@ Juan utiliza tickets, cuadernos y ocasionalmente Excel, lo que dificulta obtener
 **_Informe de resumen:_**  
 Martín gestiona actualmente los cobros mediante POS y registra los pagos en cuadernos, sin contar con un sistema digital centralizado. Reconoce la utilidad de incorporar reportes automatizados en Excel y dashboards en tiempo real para el propietario. No ha tenido pérdidas ni conflictos recurrentes, pero valora la seguridad, la facilidad de uso y la confiabilidad de una plataforma. Está dispuesto a pagar una suscripción siempre que el precio sea razonable.
 
-
-
 ### Segmento Objetivo: Operadores de estacionamientos formales
-**Entrevista N°1**
+**Entrevista N°3**
 
  - Entrevistado(a): Schneider Ayala Torres
  - Entrevistador(a): Moisés Espinoza
@@ -368,19 +366,7 @@ Martín gestiona actualmente los cobros mediante POS y registra los pagos en cua
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221383_upc_edu_pe/EfUVABti3VRNgAXI-H_mzv4Bfo61kDKIRKFperED0RLE_Q?e=ZOqKgZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **_Informe de resumen:_**  
-
-
-**Entrevista N°2**
-
- - Entrevistado(a): 
- - Entrevistador(a): 
- - Sexo: 
- - Edad: 
- - Residencia: 
- - Enlace de entrevista:
-
-**_Informe de resumen:_**  
-
+Schneider Ayala Torres trabaja como operador en un estacionamiento de un centro comercial, donde su principal tarea es el control y registro del ingeso y salida de los vehiculos que usan el estacionamiento. Ademas, cree que una aplicacion como EasyPark seria de gran ayuda para que pueda realizar mejor sus labores, donde podria gestionar mejor el control vehicular con un significativo ahorro de tiempo.
 
 ### 2.2.3. Análisis de entrevistas
 
