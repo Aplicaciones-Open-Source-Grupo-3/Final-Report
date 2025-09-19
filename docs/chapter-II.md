@@ -383,10 +383,23 @@ Schneider Ayala Torres trabaja como operador en un estacionamiento de un centro 
 | ¿Estarías dispuesto a pagar una suscripción mensual por una plataforma que te permita centralizar toda la gestión de tu estacionamiento? | Los dos administradores estarían dispuestos, siempre que el costo sea razonable y la plataforma sea capaz de resolver sus problemas |
 | ¿Qué características consideras esenciales para confiar en una solución digital frente a los procesos manuales actuales? | Los administradores valoran que sea fácil de usar, rápida, estable y segura, con datos protegidos y referencias confiables de otros usuarios |
 
+
 ### Segmento Objetivo: Operadores de estacionamientos formales
 
 | Preguntas | Respuestas Generales |
 |-----------|-----------------------|
+| ¿Cuál es tu nombre completo, edad y el rol que cumples en el estacionamiento? | El operador se identifica como Schneider Ayala Torres, tiene 25 años y trabaja en un centro comercial de Lima controlando ingresos y salidas de vehículos. |
+| ¿Qué tareas realizas diariamente relacionadas con ingresos, salidas y cobros de los vehículos? | Su principal tarea es registrar manualmente la entrada y salida de vehículos, asignar espacios y cobrar por el servicio, usando métodos tradicionales como tickets y cuaderno de registros. |
+| ¿Qué problemas enfrentas al registrar manualmente las entradas y salidas? | Menciona que el registro manual genera confusión, es propenso a errores y puede causar reclamos de los clientes. El proceso se vuelve repetitivo y estresante, sobre todo en horas de alta demanda. |
+| ¿Con qué frecuencia ocurren errores en los cobros o conflictos con los conductores? | Suceden con relativa frecuencia, principalmente por diferencias en los montos cobrados o por olvido de anotar la información correctamente, lo que genera malentendidos y reclamos. |
+| ¿Qué tan cómodo te sentirías usando una aplicación que registre en tiempo real las entradas, salidas y pagos? | Considera que una aplicación podría facilitar su trabajo, reducir errores y ahorrar tiempo, siempre que sea sencilla y rápida de usar. |
+| ¿Qué marcas, tecnologías o apps influyen en tu forma de trabajar? | Utiliza principalmente POS como Yape, Plin y EasyPay, además de WhatsApp para comunicarse con el administrador. No ha utilizado apps especializadas para gestión de estacionamientos. |
+| ¿Qué tipo de alertas o reportes crees que serían más útiles para tu trabajo diario? | Valora alertas de errores en cobros, reportes automáticos de ingresos y notificaciones sobre ocupación de espacios, para anticiparse a problemas y mejorar la atención al cliente. |
+| ¿Qué dispositivos usas con más frecuencia en tu trabajo (celular, computadora, tablet)? | Usa principalmente el celular para registrar información, comunicarse y, ocasionalmente, para pagos digitales. El uso de computadoras es limitado. |
+| ¿Qué navegadores o sistema operativo utilizas más en tu día a día? | Prefiere Android como sistema operativo y utiliza navegadores como Chrome en el celular. |
+| ¿Crees que una plataforma como EasyPark te ayudaría a ahorrar tiempo y reducir errores? ¿Cómo? | Sí, cree que digitalizar el registro y los cobros ayudaría a minimizar errores, agilizar el proceso y mejorar la transparencia con los clientes. |
+| ¿Qué funcionalidades específicas te gustaría que tuviera EasyPark para facilitar tu trabajo? | Le gustaría tener registro automático de entradas/salidas, generación de reportes automáticos, alertas de errores y una interfaz sencilla e intuitiva. |
+| ¿Qué tan dispuesto estarías a aprender y usar un sistema digital si este hace tu trabajo más rápido y sencillo? | Está dispuesto a aprender y adoptar un sistema digital siempre que perciba una mejora real en la eficiencia y facilidad de uso respecto a los métodos manuales. |
 
 ## 2.3. Needfinding
 Para identificar las necesidades de los administradores y operadores de estacionamientos, utilizamos varias herramientas y métodos.
