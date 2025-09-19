@@ -44,6 +44,10 @@
 | 2.3     | 18/09/2025  | Elescano Leon, Piero Hugo            | Ajustes finales en conclusiones y organización de entregables.         |
 
 # Project Report Collaboration Insights 
+Se presenta el reporte de colaboracion por miembro del equipo
+
+![UPC](/assets/images/chapter-I/report-commits.png)
+
 
   - **Link del repositorio:** https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report.git
   
