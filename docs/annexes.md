@@ -1,0 +1,8 @@
+# Annexes
+
+- Link de la presentacion de la TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313354_upc_edu_pe/EcxiJ-dAWU1PgDf4OpjzY18B5E4gxB2OPumInwGssPMQzA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ks9yQc
+
+
+- Link de la presentacion de la landing page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313354_upc_edu_pe/EVR4XCI-x4hNu2T0Up4daB0Bs_v8NJJBPI1WILVzMrt-xA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MdtzMy
+
+
