@@ -3,13 +3,13 @@
 A continuación, se detallan las principales conclusiones extraídas de este primer ciclo de trabajo:
 
 1. **Definición y ejecución exitosa del alcance**  
-   El equipo logró cumplir con todos los objetivos planteados en el Sprint Planning, entregando la landing page completamente funcional y con todas las secciones esenciales implementadas: información general, características, planes y precios, formulario de contacto, testimonios, enlaces a redes sociales, tarifas, y la sección de notificaciones. Todas las historias de usuario priorizadas fueron completadas, lo que refleja una adecuada planificación y gestión del backlog.
+   El equipo logró cumplir con todos los objetivos planteados en el Sprint Planning, entregando la landing page completamente funcional y con todas las secciones esenciales implementadas: información general, características, planes y precios y enlaces a redes sociales. Todas las historias de usuario priorizadas fueron completadas, lo que refleja una adecuada planificación y gestión del backlog.
 
 2. **Trabajo colaborativo y asignación de roles**  
    Se evidenció un alto nivel de colaboración entre los miembros del equipo. Cada integrante asumió tareas específicas según sus habilidades, cumpliendo con los tiempos estimados y manteniendo una comunicación constante a través de la plataforma de GitHub y reuniones virtuales. El uso del artefacto "Leadership-and-Collaboration Matrix" permitió una clara visibilidad de responsables y colaboradores, fortaleciendo el sentido de pertenencia y compromiso.
 
 3. **Adopción de buenas prácticas y herramientas modernas**  
-   La configuración del entorno de desarrollo y el empleo de herramientas como Git, GitHub, WebStorm, Rider, Figma, Miro y Pivotal Tracker facilitaron la gestión ágil, el control de versiones, la colaboración y la documentación. La adopción de metodologías como GitFlow, versionado semántico, y convenciones de commits, contribuyó a mantener la calidad, trazabilidad y orden en el desarrollo del producto.
+   La configuración del entorno de desarrollo y el empleo de herramientas como Git, GitHub facilitaron la gestión ágil, el control de versiones, la colaboración y la documentación. La adopción de metodologías como GitFlow, versionado semántico, y convenciones de commits, contribuyó a mantener la calidad, trazabilidad y orden en el desarrollo del producto.
 
 4. **Énfasis en la experiencia de usuario (UX/UI)**  
    Desde el inicio se priorizó la creación de una interfaz atractiva y funcional. Se emplearon técnicas de prototipado y diseño centrado en el usuario mediante Figma y Miro, garantizando que la landing page fuera intuitiva, accesible y compatible con diversos dispositivos (responsive design). Además, se realizaron pruebas de accesibilidad y de visualización en distintos entornos, elevando el estándar de calidad de la aplicación.
