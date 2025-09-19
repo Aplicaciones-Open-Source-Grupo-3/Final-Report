@@ -450,5 +450,6 @@ Enlace de la Landing Page: https://aplicaciones-open-source-grupo-3.github.io/La
 ![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-1.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-En esta seccion se evidencia el trabajo colaborativo del equipo de desarrollo en la elaboracion de la landing page.
+En esta seccion se evidencia el trabajo colaborativo del equipo de desarrollo de la primera parte del proyecto.
 
+![landing img](/assets/images/chapter-I/Contributors.png)
