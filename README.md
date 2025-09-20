@@ -1,7 +1,7 @@
 <div align="center">
   
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-# Carrera de Ingienería de Software - 2520
+# Carrera de Ingeniería de Software - 2520
 ## Desarrollo de Aplicaciones Open Source - 1ASI0729
 ![UPC_logo_transparente](/assets/images/chapter-I/upc_logo.png)
 
