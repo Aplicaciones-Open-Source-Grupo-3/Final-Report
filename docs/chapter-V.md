@@ -139,7 +139,7 @@ Aquí se especifican los objetivos, historias de usuario priorizadas y entregabl
 			<td>Sprint 1</td>
 		</tr>
 		<tr>
-			<td colspan="2"><strong>Spring Planing Background</strong></td>
+			<td colspan="2"><strong>Spring Planning Background</strong></td>
 		</tr>
 		<tr>
 			<td><strong>Date</strong></td>
@@ -157,7 +157,7 @@ Aquí se especifican los objetivos, historias de usuario priorizadas y entregabl
 			<td colspan="2"><strong>Prepared by</strong></td>
 		</tr>
 		<tr>
-			<td><strong>Attends (to planinning meeting)</strong></td>
+			<td><strong>Attendees (to planinning meeting)</strong></td>
 			<td>All members of EasyPark</td>
 		</tr>
 		<tr>
@@ -456,9 +456,64 @@ En esta seccion se evidencia el trabajo colaborativo del equipo de desarrollo de
 
 
 ### 5.2.2. Sprint 2
-Se documenta el trabajo colaborativo y las fases clave del Sprint 1, desde el sprint planning, desarrollo incremental y retrospectiva, alineados con los objetivos de digitalización y optimización de la gestión de estacionamientos.
+Se documenta el trabajo colaborativo y las fases clave del Sprint 2, desde el sprint planning, desarrollo incremental y retrospectiva. El Sprint 2 se enfoca en habilitar el pago end-to-end con pasarela sandbox, persistir transacciones y reflejarlas en un dashboard básico, alineado con la optimización de la gestión de estacionamientos.
 
 #### 5.2.2.1. Sprint Planning 2.
+Aquí se especifican los objetivos, historias de usuario priorizadas y entregables mínimos viables definidos para la segunda iteración de EasyPark.
+
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Sprint #</strong></td>
+			<td>Sprint 2</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>Spring Planning Background</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Date</strong></td>
+			<td>2025-10-1</td>
+		</tr>
+		<tr>
+			<td><strong>Time</strong></td>
+			<td>10:30 AM</td>
+		</tr>
+		<tr>
+			<td><strong>Location</strong></td>
+			<td>Remote mode through the GitHub platform</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>Prepared by</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Attendees (to planinning meeting)</strong></td>
+			<td>All members of EasyPark</td>
+		</tr>
+		<tr>
+			<td><strong>Sprint 1 Review Summary</strong></td>
+			<td>We delivered and deployed the first public version of the EasyPark landing page via GitHub Pages. It included top navigation, hero, benefits, pricing, testimonials, contact form with basic validation, social links, and responsive/accessibility adjustments. </td>
+		</tr>
+		<tr>
+			<td><strong>Sprint 1 Retrospective Summary</strong></td>
+			<td>We worked well by splitting tasks clearly and keeping daily async check-ins.</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Spritn 2 Goal</strong></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td><strong>Sprint 2 Velocity</strong></td>
+			<td>10</td>
+		</tr>
+		<tr>
+			<td><strong>Sum of Story points</strong></td>
+			<td>18</td>
+		</tr>
+	</tbody>
+</table>
 
 #### 5.2.2.2. Aspect Leaders and Collaborators.
 En esta sección se presenta la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual se presenta al líder y los colaboradores de este Sprint 2.
