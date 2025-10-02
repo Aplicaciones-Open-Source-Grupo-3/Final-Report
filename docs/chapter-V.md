@@ -453,3 +453,217 @@ Enlace de la Landing Page: https://aplicaciones-open-source-grupo-3.github.io/La
 En esta seccion se evidencia el trabajo colaborativo del equipo de desarrollo de la primera parte del proyecto.
 
 ![landing img](/assets/images/chapter-I/Contributors.png)
+
+
+### 5.2.2. Sprint 2
+Se documenta el trabajo colaborativo y las fases clave del Sprint 1, desde el sprint planning, desarrollo incremental y retrospectiva, alineados con los objetivos de digitalización y optimización de la gestión de estacionamientos.
+
+#### 5.2.2.1. Sprint Planning 2.
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+En esta sección se presenta la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual se presenta al líder y los colaboradores de este Sprint 2.
+
+| Team Member (Last Name, First Name) | GitHub Username | Landing page |
+| ------------------------------------|-----------------|-------------------------------------------|
+| Elescano Leon, Piero Hugo | PieroHugo | L |
+| Espinoza Chavez, Moises Filemon |MoisesECh| C | 
+| Florez Shimabukuro, Fátima Belén |PengwinKingdom| C |
+| Nakasone Gomes, Marco Antonio  | marquinho04 | C | 
+| Paredes Davila, Jose Adrian  | joseadro09 | C | 
+
+
+#### 5.2.2.3. Sprint Backlog 2
+<table> 
+	<tr> 
+		<td><strong>Sprint #</strong></td> 
+		<td colspan="7">Sprint 2</td> 
+	</tr> 
+	<tr> 
+		<td colspan="2"><strong>User Story</strong></td> 
+		<td colspan="6"><strong>Work-item / Task</strong></td> 
+	</tr> 
+	<tr> 
+		<td><strong>Id</strong></td> 
+		<td><strong>Title</strong></td> 
+		<td><strong>Id</strong></td> 
+		<td><strong>Title</strong></td> 
+		<td><strong>Description</strong></td> 
+		<td><strong>Estimation (Hours)</strong></td> 
+		<td><strong>Assigned To</strong></td> 
+		<td><strong>Status (To-do / In-Process / To-review / Done)</strong></td> 
+	</tr> 
+	<tr> 
+		<td rowspan="6">EP03-US20</td> 
+		<td rowspan="6">Procesamiento de pagos frontend</td> 
+		<td>T20-01</td> <td>UI de pago y cálculo de monto</td> 
+		<td>Formulario con método sandbox, validaciones y cálculo de monto (tiempo × tarifa)</td> 
+		<td>6</td> 
+		<td>Piero Elescano</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td>T20-02</td> 
+		<td>Integración pasarela sandbox</td> 
+		<td>Conectar SDK/REST de la pasarela y manejo de tokens</td> 
+		<td>8</td> 
+		<td>Moises Espinoza</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td>T20-03</td> 
+		<td>Flujos de éxito/fracaso</td> 
+		<td>Mensajes de confirmación/error, reintento y estados de carga</td> 
+		<td>4</td> 
+		<td>Fátima Florez</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td>T20-04</td> 
+		<td>Persistir transacción y receiptId</td> 
+		<td>Generar <code>receiptId</code> y guardar pago (monto, fecha, espacio, método, estado) en la BD</td> 
+		<td>6</td> 
+		<td>Marco Nakasone</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td>T20-05</td> 
+		<td>Actualizar estado del espacio</td> 
+		<td>Marcar espacio como <strong>Libre</strong> post-pago y registrar en historial de ocupación</td> 
+		<td>4</td> 
+		<td>Jose Paredes</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td>T20-06</td> 
+		<td>Tests del flujo de pago</td> 
+		<td>Pruebas unitarias/integración: éxito, tarjeta inválida, timeout, doble clic, etc</td> 
+		<td>4</td> 
+		<td>Moises Espinoza</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td rowspan="4">EP01-US14</td> 
+		<td rowspan="4">Visualización de dashboard</td> 
+		<td>T14-01</td> 
+		<td>Ruta protegida /admin</td> 
+		<td>Configurar navegación protegida y layout del dashboard</td> 
+		<td>3</td> 
+		<td>Piero Elescano</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td>T14-02</td> 
+		<td>Tabla de transacciones</td> 
+		<td>Listar fecha, monto, <code>receiptId</code>, espacio y estado; paginación básica</td> 
+		<td>5</td> 
+		<td>Marco Nakasone</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td>T14-03</td> 
+		<td>Endpoint listado pagos</td> 
+		<td>Servicio/endpoint para obtener transacciones con filtros</td> 
+		<td>4</td> 
+		<td>Jose Paredes</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td>T14-04</td> 
+		<td>Estados vacío/error</td> 
+		<td>Diseñar empty state y manejo de errores en la vista</td> 
+		<td>4</td> 
+		<td>Fátima Florez</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td rowspan="2">EP03-US19</td> 
+		<td rowspan="2">Visualización de tarifas</td> 
+		<td>T19-01</td> 
+		<td>Servicio de tarifas</td> 
+		<td>Fuente de tarifas por horario/espacio; formateo para el frontend</td> 
+		<td>3</td> 
+		<td>Marco Nakasone</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td>T19-02</td> 
+		<td>Tarifa en UI de pago</td> 
+		<td>Mostrar tarifa vigente y desglose antes de confirmar el pago</td> 
+		<td>3</td> 
+		<td>Piero Elescano</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td rowspan="2">EP01-US15</td> 
+		<td rowspan="2">Gestión visual de espacios</td> 
+		<td>T15-01</td> <td>Endpoint cambiar estado</td> 
+		<td>Exponer servicio para marcar espacio como Libre después del pago</td> 
+		<td>3</td> 
+		<td>Jose Paredes</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td>T15-02</td> 
+		<td>Refresco de ocupación</td> 
+		<td>Actualizar la vista tras cambiar el estado</td> 
+		<td>2</td> 
+		<td>Piero Elescano</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td rowspan="2">EP02-US12</td> 
+		<td rowspan="2">Inicio de sesión</td> 
+		<td>T12-01</td> 
+		<td>Login básico y sesión</td> 
+		<td>Formulario de login y manejo simple de sesión </td> 
+		<td>4</td> 
+		<td>Piero Elescano</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td>T12-02</td> 
+		<td>Guard para dashboard</td> 
+		<td>Bloquear acceso a rutas privadas si no hay sesión válida</td> 
+		<td>2</td> 
+		<td>Fátima Florez</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td rowspan="2">EP03-US31</td> 
+		<td rowspan="2">Validación de integridad de datos</td> 
+		<td>T31-01</td> 
+		<td>Validar monto del pago</td> 
+		<td>Recalcular en backend y comparar; evitar manipulación del importe</td> 
+		<td>4</td> 
+		<td>Marco Nakasone</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td>T31-02</td> 
+		<td>Idempotencia del cobro</td> 
+		<td>Prevenir doble pago</td> 
+		<td>4</td> 
+		<td>Jose Paredes</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td rowspan="2">EP02-US25</td> 
+		<td rowspan="2">Cierre de sesión seguro</td> 
+		<td>T25-01</td> 
+		<td>Logout manual</td> 
+		<td>Botón “Salir” y limpieza de sesión/token</td> 
+		<td>2</td> 
+		<td>Piero Elescano</td> 
+		<td>To-do</td> 
+	</tr> 
+	<tr> 
+		<td>T25-02</td> 
+		<td>Auto-logout por inactividad</td> 
+		<td>Expirar sesión automáticamente y redirigir a login</td> 
+		<td>3</td> 
+		<td>Jose Paredes</td>
+		<td>To-do</td> 
+	</tr> 
+</table>
+
+
