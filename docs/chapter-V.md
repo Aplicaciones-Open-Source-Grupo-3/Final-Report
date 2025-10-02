@@ -172,7 +172,7 @@ Aquí se especifican los objetivos, historias de usuario priorizadas y entregabl
 			<td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
 		</tr>
 		<tr>
-			<td><strong>Spritn 1 Goal</strong></td>
+			<td><strong>Sprint 1 Goal</strong></td>
 			<td>We are focused on building the EasyPark landing page, as we believe this is critical for the long-term sustainability of the product within the organization. We will confirm its success when we see a significant increase in user engagement.</td>
 		</tr>
 		<tr>
@@ -502,7 +502,7 @@ Aquí se especifican los objetivos, historias de usuario priorizadas y entregabl
 		</tr>
 		<tr>
 			<td><strong>Spritn 2 Goal</strong></td>
-			<td></td>
+			<td>Enable end-to-end parking ticket payments in the web app via a sandbox payment gateway. Success is achieved when users can pay the computed amount, receive a receipt ID, the space status updates to “Free,” and the transaction is persisted and visible in a simple admin dashboard.</td>
 		</tr>
 		<tr>
 			<td><strong>Sprint 2 Velocity</strong></td>
