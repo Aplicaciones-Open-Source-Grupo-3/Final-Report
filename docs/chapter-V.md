@@ -502,7 +502,9 @@ Aquí se especifican los objetivos, historias de usuario priorizadas y entregabl
 		</tr>
 		<tr>
 			<td><strong>Spritn 2 Goal</strong></td>
-			<td>Enable end-to-end parking ticket payments in the web app via a sandbox payment gateway. Success is achieved when users can pay the computed amount, receive a receipt ID, the space status updates to “Free,” and the transaction is persisted and visible in a simple admin dashboard.</td>
+			<td>Deliver a navigable Operator Panel MVP using mock data (<code>db.json</code>), 
+        EN/ES i18n, unified styles, and read-only views: Dashboard, Reports,
+        Parking Setup, Spaces, Prices/Subscriptions, and Clients.</td>
 		</tr>
 		<tr>
 			<td><strong>Sprint 2 Velocity</strong></td>
