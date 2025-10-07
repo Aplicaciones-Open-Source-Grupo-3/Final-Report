@@ -550,58 +550,9 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td><strong>Status (To-do / In-Process / To-review / Done)</strong></td> 
 	</tr> 
 	<tr> 
-		<td rowspan="6">EP03-US20</td> 
-		<td rowspan="6">Procesamiento de pagos frontend</td> 
-		<td>T20-01</td> <td>UI de pago y cálculo de monto</td> 
-		<td>Formulario con método sandbox, validaciones y cálculo de monto (tiempo × tarifa)</td> 
-		<td>6</td> 
-		<td>Piero Elescano</td> 
-		<td>To-do</td> 
-	</tr> 
-	<tr> 
-		<td>T20-02</td> 
-		<td>Integración pasarela sandbox</td> 
-		<td>Conectar SDK/REST de la pasarela y manejo de tokens</td> 
-		<td>8</td> 
-		<td>Moises Espinoza</td> 
-		<td>To-do</td> 
-	</tr> 
-	<tr> 
-		<td>T20-03</td> 
-		<td>Flujos de éxito/fracaso</td> 
-		<td>Mensajes de confirmación/error, reintento y estados de carga</td> 
-		<td>4</td> 
-		<td>Fátima Florez</td> 
-		<td>To-do</td> 
-	</tr> 
-	<tr> 
-		<td>T20-04</td> 
-		<td>Persistir transacción y receiptId</td> 
-		<td>Generar <code>receiptId</code> y guardar pago (monto, fecha, espacio, método, estado) en la BD</td> 
-		<td>6</td> 
-		<td>Marco Nakasone</td> 
-		<td>To-do</td> 
-	</tr> 
-	<tr> 
-		<td>T20-05</td> 
-		<td>Actualizar estado del espacio</td> 
-		<td>Marcar espacio como <strong>Libre</strong> post-pago y registrar en historial de ocupación</td> 
-		<td>4</td> 
-		<td>Jose Paredes</td> 
-		<td>To-do</td> 
-	</tr> 
-	<tr> 
-		<td>T20-06</td> 
-		<td>Tests del flujo de pago</td> 
-		<td>Pruebas unitarias/integración: éxito, tarjeta inválida, timeout, doble clic, etc</td> 
-		<td>4</td> 
-		<td>Moises Espinoza</td> 
-		<td>To-do</td> 
-	</tr> 
-	<tr> 
 		<td rowspan="4">EP01-US14</td> 
 		<td rowspan="4">Visualización de dashboard</td> 
-		<td>T14-01</td> 
+		<td>T18</td> 
 		<td>Ruta protegida /admin</td> 
 		<td>Configurar navegación protegida y layout del dashboard</td> 
 		<td>3</td> 
@@ -609,7 +560,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>To-do</td> 
 	</tr> 
 	<tr> 
-		<td>T14-02</td> 
+		<td>T19</td> 
 		<td>Tabla de transacciones</td> 
 		<td>Listar fecha, monto, <code>receiptId</code>, espacio y estado; paginación básica</td> 
 		<td>5</td> 
@@ -617,7 +568,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>To-do</td> 
 	</tr> 
 	<tr> 
-		<td>T14-03</td> 
+		<td>T20</td> 
 		<td>Endpoint listado pagos</td> 
 		<td>Servicio/endpoint para obtener transacciones con filtros</td> 
 		<td>4</td> 
@@ -625,17 +576,9 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>To-do</td> 
 	</tr> 
 	<tr> 
-		<td>T14-04</td> 
-		<td>Estados vacío/error</td> 
-		<td>Diseñar empty state y manejo de errores en la vista</td> 
-		<td>4</td> 
-		<td>Fátima Florez</td> 
-		<td>To-do</td> 
-	</tr> 
-	<tr> 
 		<td rowspan="2">EP03-US19</td> 
 		<td rowspan="2">Visualización de tarifas</td> 
-		<td>T19-01</td> 
+		<td>T21</td> 
 		<td>Servicio de tarifas</td> 
 		<td>Fuente de tarifas por horario/espacio; formateo para el frontend</td> 
 		<td>3</td> 
@@ -643,7 +586,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>To-do</td> 
 	</tr> 
 	<tr> 
-		<td>T19-02</td> 
+		<td>T22</td> 
 		<td>Tarifa en UI de pago</td> 
 		<td>Mostrar tarifa vigente y desglose antes de confirmar el pago</td> 
 		<td>3</td> 
@@ -653,14 +596,14 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 	<tr> 
 		<td rowspan="2">EP01-US15</td> 
 		<td rowspan="2">Gestión visual de espacios</td> 
-		<td>T15-01</td> <td>Endpoint cambiar estado</td> 
+		<td>T23</td> <td>Endpoint cambiar estado</td> 
 		<td>Exponer servicio para marcar espacio como Libre después del pago</td> 
 		<td>3</td> 
 		<td>Jose Paredes</td> 
 		<td>To-do</td> 
 	</tr> 
 	<tr> 
-		<td>T15-02</td> 
+		<td>T24</td> 
 		<td>Refresco de ocupación</td> 
 		<td>Actualizar la vista tras cambiar el estado</td> 
 		<td>2</td> 
@@ -670,7 +613,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 	<tr> 
 		<td rowspan="2">EP02-US12</td> 
 		<td rowspan="2">Inicio de sesión</td> 
-		<td>T12-01</td> 
+		<td>T25</td> 
 		<td>Login básico y sesión</td> 
 		<td>Formulario de login y manejo simple de sesión </td> 
 		<td>4</td> 
@@ -678,49 +621,67 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>To-do</td> 
 	</tr> 
 	<tr> 
-		<td>T12-02</td> 
+		<td>T26</td> 
 		<td>Guard para dashboard</td> 
 		<td>Bloquear acceso a rutas privadas si no hay sesión válida</td> 
 		<td>2</td> 
 		<td>Fátima Florez</td> 
 		<td>To-do</td> 
 	</tr> 
-	<tr> 
-		<td rowspan="2">EP03-US31</td> 
-		<td rowspan="2">Validación de integridad de datos</td> 
-		<td>T31-01</td> 
-		<td>Validar monto del pago</td> 
-		<td>Recalcular en backend y comparar; evitar manipulación del importe</td> 
-		<td>4</td> 
-		<td>Marco Nakasone</td> 
-		<td>To-do</td> 
-	</tr> 
-	<tr> 
-		<td>T31-02</td> 
-		<td>Idempotencia del cobro</td> 
-		<td>Prevenir doble pago</td> 
-		<td>4</td> 
-		<td>Jose Paredes</td> 
-		<td>To-do</td> 
-	</tr> 
-	<tr> 
-		<td rowspan="2">EP02-US25</td> 
-		<td rowspan="2">Cierre de sesión seguro</td> 
-		<td>T25-01</td> 
-		<td>Logout manual</td> 
-		<td>Botón “Salir” y limpieza de sesión/token</td> 
-		<td>2</td> 
-		<td>Piero Elescano</td> 
-		<td>To-do</td> 
-	</tr> 
-	<tr> 
-		<td>T25-02</td> 
-		<td>Auto-logout por inactividad</td> 
-		<td>Expirar sesión automáticamente y redirigir a login</td> 
-		<td>3</td> 
-		<td>Jose Paredes</td>
-		<td>To-do</td> 
-	</tr> 
+	<tr>
+  <td rowspan="4">EP04-US29</td>
+  <td rowspan="4">API de reportes y analíticas</td>
+
+  <td>T27</td>
+  <td>Mock/endpoint de analíticas</td>
+  <td>Exponer en json-server: <code>/reports</code>, <code>/subscriptions</code>, <code>/plans</code>, <code>/profiles</code> con datos de prueba</td>
+  <td>4</td>
+  <td>Marco Nakasone</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>T28</td>
+  <td>Servicio Angular <code>AnalyticsService</code></td>
+  <td>Métodos <code>getReports/getSubscriptions/getPlans/getProfile</code>, DTOs tipados y mapeos</td>
+  <td>5</td>
+  <td>Piero Elescano</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td>T29</td>
+  <td>Manejo de errores y empty state</td>
+  <td>Intercepciones/estados “sin datos” en UI; mensajes i18n en EN/ES</td>
+  <td>3</td>
+  <td>Fátima Florez</td>
+  <td>To-do</td>
+</tr>
+<tr>
+  <td rowspan="5">EP04-US16</td>
+  <td rowspan="5">Consulta de historial de ocupación</td>
+
+  <td>T30</td>
+  <td>Vista Reports/Analytics Overview</td>
+  <td>Maquetado: header, tarjetas KPI, placeholder de gráfica y layout responsive</td>
+  <td>6</td>
+  <td>Piero Elescano</td>
+  <td>To-review</td>
+</tr>
+<tr>
+  <td>T31</td>
+  <td>Tabla “Customer & Subscription History”</td>
+  <td>Componer datos con <code>forkJoin</code> (subs+plans+profile) y mapear a filas</td>
+  <td>5</td>
+  <td>Piero Elescano</td>
+  <td>To-review</td>
+</tr>
+<tr>
+  <td>T32</td>
+  <td>i18n EN/ES para Analytics</td>
+  <td>Claves en <code>en.json</code>/<code>es.json</code> (títulos, columnas, acciones)</td>
+  <td>2</td>
+  <td>Fátima Florez</td>
+  <td>Done</td>
+</tr>
 </table>
 
 
