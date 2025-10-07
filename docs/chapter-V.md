@@ -558,7 +558,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>Configurar navegación protegida y layout del dashboard</td> 
 		<td>3</td> 
 		<td>Piero Elescano</td> 
-		<td>To-do</td> 
+		<td>Done</td> 
 	</tr> 
 	<tr> 
 		<td>T19</td> 
@@ -566,7 +566,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>Listar fecha, monto, <code>receiptId</code>, espacio y estado; paginación básica</td> 
 		<td>5</td> 
 		<td>Marco Nakasone</td> 
-		<td>To-do</td> 
+		<td>Done</td> 
 	</tr> 
 	<tr> 
 		<td>T20</td> 
@@ -574,7 +574,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>Servicio/endpoint para obtener transacciones con filtros</td> 
 		<td>4</td> 
 		<td>Jose Paredes</td> 
-		<td>To-do</td> 
+		<td>Done</td> 
 	</tr> 
 	<tr> 
 		<td rowspan="2">EP03-US19</td> 
@@ -584,7 +584,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>Fuente de tarifas por horario/espacio; formateo para el frontend</td> 
 		<td>3</td> 
 		<td>Marco Nakasone</td> 
-		<td>To-do</td> 
+		<td>Done</td> 
 	</tr> 
 	<tr> 
 		<td>T22</td> 
@@ -592,7 +592,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>Mostrar tarifa vigente y desglose antes de confirmar el pago</td> 
 		<td>3</td> 
 		<td>Piero Elescano</td> 
-		<td>To-do</td> 
+		<td>Done</td> 
 	</tr> 
 	<tr> 
 		<td rowspan="2">EP01-US15</td> 
@@ -601,7 +601,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>Exponer servicio para marcar espacio como Libre después del pago</td> 
 		<td>3</td> 
 		<td>Jose Paredes</td> 
-		<td>To-do</td> 
+		<td>Done</td> 
 	</tr> 
 	<tr> 
 		<td>T24</td> 
@@ -609,7 +609,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>Actualizar la vista tras cambiar el estado</td> 
 		<td>2</td> 
 		<td>Piero Elescano</td> 
-		<td>To-do</td> 
+		<td>Done</td> 
 	</tr> 
 	<tr> 
 		<td rowspan="2">EP02-US12</td> 
@@ -619,7 +619,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>Formulario de login y manejo simple de sesión </td> 
 		<td>4</td> 
 		<td>Piero Elescano</td> 
-		<td>To-do</td> 
+		<td>Done</td> 
 	</tr> 
 	<tr> 
 		<td>T26</td> 
@@ -627,7 +627,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>Bloquear acceso a rutas privadas si no hay sesión válida</td> 
 		<td>2</td> 
 		<td>Fátima Florez</td> 
-		<td>To-do</td> 
+		<td>Done</td> 
 	</tr> 
 	<tr>
   <td rowspan="3">EP04-US29</td>
@@ -638,7 +638,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
   <td>Exponer en json-server: <code>/reports</code>, <code>/subscriptions</code>, <code>/plans</code>, <code>/profiles</code> con datos de prueba</td>
   <td>4</td>
   <td>Marco Nakasone</td>
-  <td>To-do</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>T28</td>
@@ -646,7 +646,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
   <td>Métodos <code>getReports/getSubscriptions/getPlans/getProfile</code>, DTOs tipados y mapeos</td>
   <td>5</td>
   <td>Piero Elescano</td>
-  <td>To-do</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>T29</td>
@@ -654,7 +654,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
   <td>Intercepciones/estados “sin datos” en UI; mensajes i18n en EN/ES</td>
   <td>3</td>
   <td>Fátima Florez</td>
-  <td>To-do</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td rowspan="3">EP04-US16</td>
@@ -665,7 +665,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
   <td>Maquetado: header, tarjetas KPI, placeholder de gráfica y layout responsive</td>
   <td>6</td>
   <td>Piero Elescano</td>
-  <td>To-review</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>T31</td>
@@ -673,7 +673,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
   <td>Componer datos con <code>forkJoin</code> (subs+plans+profile) y mapear a filas</td>
   <td>5</td>
   <td>Piero Elescano</td>
-  <td>To-review</td>
+  <td>Done</td>
 </tr>
 <tr>
   <td>T32</td>
