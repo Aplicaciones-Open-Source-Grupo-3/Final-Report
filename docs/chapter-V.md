@@ -551,8 +551,8 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td><strong>Status (To-do / In-Process / To-review / Done)</strong></td> 
 	</tr> 
 	<tr> 
-		<td rowspan="4">EP01-US14</td> 
-		<td rowspan="4">Visualización de dashboard</td> 
+		<td rowspan="3">EP01-US14</td> 
+		<td rowspan="3">Visualización de dashboard</td> 
 		<td>T14-01</td> 
 		<td>Ruta protegida /admin</td> 
 		<td>Configurar navegación protegida y layout del dashboard</td> 
@@ -630,8 +630,8 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>To-do</td> 
 	</tr> 
 	<tr>
-  <td rowspan="4">EP04-US29</td>
-  <td rowspan="4">API de reportes y analíticas</td>
+  <td rowspan="3">EP04-US29</td>
+  <td rowspan="3">API de reportes y analíticas</td>
 
   <td>T29-01</td>
   <td>Mock/endpoint de analíticas</td>
@@ -657,17 +657,8 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
   <td>To-do</td>
 </tr>
 <tr>
-  <td>T29-04</td>
-  <td>Pruebas unitarias de servicio</td>
-  <td><code>HttpTestingController</code> para validar endpoints, tipados y manejo de errores</td>
-  <td>4</td>
-  <td>Moises Espinoza</td>
-  <td>To-do</td>
-</tr>
-
-<tr>
-  <td rowspan="5">EP04-US16</td>
-  <td rowspan="5">Consulta de historial de ocupación</td>
+  <td rowspan="3">EP04-US16</td>
+  <td rowspan="3">Consulta de historial de ocupación</td>
 
   <td>T16-01</td>
   <td>Vista Reports/Analytics Overview</td>
@@ -685,14 +676,6 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
   <td>To-review</td>
 </tr>
 <tr>
-  <td>T16-03</td>
-  <td>Exportar CSV</td>
-  <td>Implementar <code>ReportService.exportCsv()</code> y botón “Export” en la tabla</td>
-  <td>3</td>
-  <td>Marco Nakasone</td>
-  <td>In-Process</td>
-</tr>
-<tr>
   <td>T16-04</td>
   <td>i18n EN/ES para Analytics</td>
   <td>Claves en <code>en.json</code>/<code>es.json</code> (títulos, columnas, acciones)</td>
@@ -700,14 +683,5 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
   <td>Fátima Florez</td>
   <td>Done</td>
 </tr>
-<tr>
-  <td>T16-05</td>
-  <td>Filtros/ordenamiento (opcional)</td>
-  <td>Filtro por fecha/plan y orden por estado/fecha en la tabla</td>
-  <td>4</td>
-  <td>Jose Paredes</td>
-  <td>To-do</td>
-</tr>
-
 </table>
 
