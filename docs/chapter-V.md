@@ -553,7 +553,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 	<tr> 
 		<td rowspan="3">EP01-US14</td> 
 		<td rowspan="3">Visualización de dashboard</td> 
-		<td>T14-01</td> 
+		<td>T18</td> 
 		<td>Ruta protegida /admin</td> 
 		<td>Configurar navegación protegida y layout del dashboard</td> 
 		<td>3</td> 
@@ -561,7 +561,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>To-do</td> 
 	</tr> 
 	<tr> 
-		<td>T14-02</td> 
+		<td>T19</td> 
 		<td>Tabla de transacciones</td> 
 		<td>Listar fecha, monto, <code>receiptId</code>, espacio y estado; paginación básica</td> 
 		<td>5</td> 
@@ -569,7 +569,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>To-do</td> 
 	</tr> 
 	<tr> 
-		<td>T14-03</td> 
+		<td>T20</td> 
 		<td>Endpoint listado pagos</td> 
 		<td>Servicio/endpoint para obtener transacciones con filtros</td> 
 		<td>4</td> 
@@ -579,7 +579,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 	<tr> 
 		<td rowspan="2">EP03-US19</td> 
 		<td rowspan="2">Visualización de tarifas</td> 
-		<td>T19-01</td> 
+		<td>T21</td> 
 		<td>Servicio de tarifas</td> 
 		<td>Fuente de tarifas por horario/espacio; formateo para el frontend</td> 
 		<td>3</td> 
@@ -587,7 +587,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>To-do</td> 
 	</tr> 
 	<tr> 
-		<td>T19-02</td> 
+		<td>T22</td> 
 		<td>Tarifa en UI de pago</td> 
 		<td>Mostrar tarifa vigente y desglose antes de confirmar el pago</td> 
 		<td>3</td> 
@@ -597,14 +597,14 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 	<tr> 
 		<td rowspan="2">EP01-US15</td> 
 		<td rowspan="2">Gestión visual de espacios</td> 
-		<td>T15-01</td> <td>Endpoint cambiar estado</td> 
+		<td>T23</td> <td>Endpoint cambiar estado</td> 
 		<td>Exponer servicio para marcar espacio como Libre después del pago</td> 
 		<td>3</td> 
 		<td>Jose Paredes</td> 
 		<td>To-do</td> 
 	</tr> 
 	<tr> 
-		<td>T15-02</td> 
+		<td>T24</td> 
 		<td>Refresco de ocupación</td> 
 		<td>Actualizar la vista tras cambiar el estado</td> 
 		<td>2</td> 
@@ -614,7 +614,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 	<tr> 
 		<td rowspan="2">EP02-US12</td> 
 		<td rowspan="2">Inicio de sesión</td> 
-		<td>T12-01</td> 
+		<td>T25</td> 
 		<td>Login básico y sesión</td> 
 		<td>Formulario de login y manejo simple de sesión </td> 
 		<td>4</td> 
@@ -622,7 +622,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>To-do</td> 
 	</tr> 
 	<tr> 
-		<td>T12-02</td> 
+		<td>T26</td> 
 		<td>Guard para dashboard</td> 
 		<td>Bloquear acceso a rutas privadas si no hay sesión válida</td> 
 		<td>2</td> 
@@ -633,7 +633,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
   <td rowspan="3">EP04-US29</td>
   <td rowspan="3">API de reportes y analíticas</td>
 
-  <td>T29-01</td>
+  <td>T27</td>
   <td>Mock/endpoint de analíticas</td>
   <td>Exponer en json-server: <code>/reports</code>, <code>/subscriptions</code>, <code>/plans</code>, <code>/profiles</code> con datos de prueba</td>
   <td>4</td>
@@ -641,7 +641,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
   <td>To-do</td>
 </tr>
 <tr>
-  <td>T29-02</td>
+  <td>T28</td>
   <td>Servicio Angular <code>AnalyticsService</code></td>
   <td>Métodos <code>getReports/getSubscriptions/getPlans/getProfile</code>, DTOs tipados y mapeos</td>
   <td>5</td>
@@ -649,7 +649,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
   <td>To-do</td>
 </tr>
 <tr>
-  <td>T29-03</td>
+  <td>T29</td>
   <td>Manejo de errores y empty state</td>
   <td>Intercepciones/estados “sin datos” en UI; mensajes i18n en EN/ES</td>
   <td>3</td>
@@ -660,7 +660,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
   <td rowspan="3">EP04-US16</td>
   <td rowspan="3">Consulta de historial de ocupación</td>
 
-  <td>T16-01</td>
+  <td>T30</td>
   <td>Vista Reports/Analytics Overview</td>
   <td>Maquetado: header, tarjetas KPI, placeholder de gráfica y layout responsive</td>
   <td>6</td>
@@ -668,7 +668,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
   <td>To-review</td>
 </tr>
 <tr>
-  <td>T16-02</td>
+  <td>T31</td>
   <td>Tabla “Customer & Subscription History”</td>
   <td>Componer datos con <code>forkJoin</code> (subs+plans+profile) y mapear a filas</td>
   <td>5</td>
@@ -676,7 +676,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
   <td>To-review</td>
 </tr>
 <tr>
-  <td>T16-04</td>
+  <td>T32</td>
   <td>i18n EN/ES para Analytics</td>
   <td>Claves en <code>en.json</code>/<code>es.json</code> (títulos, columnas, acciones)</td>
   <td>2</td>
