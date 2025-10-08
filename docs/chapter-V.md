@@ -557,7 +557,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>Ruta protegida /admin</td> 
 		<td>Configurar navegación protegida y layout del dashboard</td> 
 		<td>3</td> 
-		<td>Piero Elescano</td> 
+		<td>Marco Nakasone</td> 
 		<td>Done</td> 
 	</tr> 
 	<tr> 
@@ -573,7 +573,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>Endpoint listado pagos</td> 
 		<td>Servicio/endpoint para obtener transacciones con filtros</td> 
 		<td>4</td> 
-		<td>Jose Paredes</td> 
+		<td>Marco Nakasone</td> 
 		<td>Done</td> 
 	</tr> 
 	<tr> 
@@ -583,7 +583,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>Servicio de tarifas</td> 
 		<td>Fuente de tarifas por horario/espacio; formateo para el frontend</td> 
 		<td>3</td> 
-		<td>Marco Nakasone</td> 
+		<td>Piero Elescano</td> 
 		<td>Done</td> 
 	</tr> 
 	<tr> 
@@ -626,7 +626,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>Guard para dashboard</td> 
 		<td>Bloquear acceso a rutas privadas si no hay sesión válida</td> 
 		<td>2</td> 
-		<td>Fátima Florez</td> 
+		<td>Piero Elescano</td> 
 		<td>Done</td> 
 	</tr> 
 	<tr>
@@ -637,15 +637,16 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
   <td>Mock/endpoint de analíticas</td>
   <td>Exponer en json-server: <code>/reports</code>, <code>/subscriptions</code>, <code>/plans</code>, <code>/profiles</code> con datos de prueba</td>
   <td>4</td>
-  <td>Marco Nakasone</td>
+  <td>Piero Elescano</td>
   <td>Done</td>
 </tr>
 <tr>
   <td>T28</td>
   <td>Servicio Angular <code>AnalyticsService</code></td>
-  <td>Métodos <code>getReports/getSubscriptions/getPlans/getProfile</code>, DTOs tipados y mapeos</td>
+  <td>Métodos <code>getReports/getSubscriptions/getPlans</code>, DTOs tipados y mapeos</td>
   <td>5</td>
-  <td>Piero Elescano</td>
+  <td>Fátima Florez
+  Jose Paredes</td>
   <td>Done</td>
 </tr>
 <tr>
@@ -653,7 +654,11 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
   <td>Manejo de errores y empty state</td>
   <td>Intercepciones/estados “sin datos” en UI; mensajes i18n en EN/ES</td>
   <td>3</td>
-  <td>Fátima Florez</td>
+  <td> Piero Elescano
+  Fátima Florez
+  Marco Nakasone
+  Jose Paredes
+  Moisés Chávez</td>
   <td>Done</td>
 </tr>
 <tr>
