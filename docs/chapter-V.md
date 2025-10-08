@@ -691,7 +691,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 </table>
 
 #### 5.2.2.4. Development Evidence for Sprint Review
-Para el Sprint 2, se presenta la evidencia de desarrollo de la landing page de EasyPark. Los commits registrados en el repositorio corresponden a la implementación de las secciones clave de la página. Esto se realizó siguiendo el diseño previo en Figma.
+Para el Sprint 2, se presenta la evidencia de desarrollo del frontend-app de EasyPark. Los commits registrados en el repositorio corresponden a la implementación de las secciones clave de la página. Esto se realizó siguiendo el diseño previo en Figma.
 
 | Repository                        | Branch                  | Commit Message                                 | Commited on  |
 |------------------------------------|-------------------------|------------------------------------------------|--------------|
