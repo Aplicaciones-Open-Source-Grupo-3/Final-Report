@@ -690,6 +690,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 </tr>
 </table>
 
+
 #### 5.2.2.4. Development Evidence for Sprint Review
 Para el Sprint 2, se presenta la evidencia de desarrollo del frontend-app de EasyPark. Los commits registrados en el repositorio corresponden a la implementación de las secciones clave de la página. Esto se realizó siguiendo el diseño previo en Figma.
 
@@ -711,6 +712,11 @@ Para el Sprint 2, se presenta la evidencia de desarrollo del frontend-app de Eas
 | PieroHugo/Frontend-app             | feature/structure-frontend   | feat: add report section                       | 08/10/2025   |
 | PieroHugo/Frontend-app             | feature/structure-frontend   | docs: Delete unnesesary files                  | 08/10/2025   |
 | PieroHugo/Frontend-app             | feature/structure-frontend   | feat: add data base                            | 08/10/2025   |
+
+
+5.2.2.5. Execution Evidence for Sprint Review.
+El equipo de desarrolladores logró concluir con el sprint 2. A continuación se presentan las evidencias.
+
 
 
 
