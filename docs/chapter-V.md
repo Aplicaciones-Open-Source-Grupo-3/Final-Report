@@ -690,3 +690,28 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 </tr>
 </table>
 
+#### 5.2.2.4. Development Evidence for Sprint Review
+Para el Sprint 2, se presenta la evidencia de desarrollo de la landing page de EasyPark. Los commits registrados en el repositorio corresponden a la implementación de las secciones clave de la página. Esto se realizó siguiendo el diseño previo en Figma.
+
+| Repository                        | Branch                  | Commit Message                                 | Commited on  |
+|------------------------------------|-------------------------|------------------------------------------------|--------------|
+| PieroHugo/Frontend-app             | main                    | initial commit                                 | 30/09/2025   |
+| PieroHugo/Frontend-app             | main                    | chore: update json files                       | 30/09/2025   |
+| PieroHugo/Frontend-app             | main                    | chore: add url of the data server              | 30/09/2025   |
+| PieroHugo/Frontend-app             | main                    | chore: update toolbar                          | 30/09/2025   |
+| PieroHugo/Frontend-app             | feature/structure-frontend   | feat: add clients operators management         | 04/10/2025   |
+| PengwinKingdom/Frontend-app        | feature/structure-frontend   | demo                                           | 06/10/2025   |
+| PengwinKingdom/Frontend-app        | feature/structure-frontend   | Update en.json                                 | 06/10/2025   |
+| PengwinKingdom/Frontend-app        | feature/structure-frontend   | Update es.json                                 | 06/10/2025   |
+| PengwinKingdom/Frontend-app        | feature/structure-frontend   | Update app.routes.ts                           | 06/10/2025   |
+| PieroHugo/Frontend-app             | feature/structure-frontend   | fix: update analytics section                  | 08/10/2025   |
+| PieroHugo/Frontend-app             | feature/structure-frontend   | feat: add clients operators management         | 04/10/2025   |
+| marquinho04/Frontend-app           | feature/structure-frontend   | feat: enhance dashboard with Google Maps integration and autocomplete search    | 08/10/2025   |
+| marquinho04/Frontend-app           | feature/structure-frontend   | fix: little fixes on dashboard                 | 08/10/2025   |
+| PieroHugo/Frontend-app             | feature/structure-frontend   | feat: add report section                       | 08/10/2025   |
+| PieroHugo/Frontend-app             | feature/structure-frontend   | docs: Delete unnesesary files                  | 08/10/2025   |
+| PieroHugo/Frontend-app             | feature/structure-frontend   | feat: add data base                            | 08/10/2025   |
+
+
+
+
