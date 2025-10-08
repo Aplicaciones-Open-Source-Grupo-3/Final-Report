@@ -677,7 +677,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
   <td>Tabla “Customer & Subscription History”</td>
   <td>Componer datos con <code>forkJoin</code> (subs+plans+profile) y mapear a filas</td>
   <td>5</td>
-  <td>Piero Elescano</td>
+  <td>Moisés Chávez</td>
   <td>Done</td>
 </tr>
 <tr>
