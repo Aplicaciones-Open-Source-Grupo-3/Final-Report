@@ -699,29 +699,29 @@ Para el Sprint 2, se presenta la evidencia de desarrollo del Front End de EasyPa
 El equipo de desarrolladores logró concluir con el sprint 2. A continuación se presentan las evidencias.
 
 #### Front End
-<img src="../assets/images/chapter-V/Dashboard-1.png" alt="Dashboard 1" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-V/Dashboard-1.png" alt="Dashboard 1" style="width: 900px; margin-right: 900px;"/>
 
-<img src="../assets/images/chapter-V/Dashboard-2.png" alt="Dashboard 2" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-V/Dashboard-2.png" alt="Dashboard 2" style="width: 900px; margin-right: 900px;"/>
 
-<img src="../assets/images/chapter-V/Parking-1.png" alt="Parking 1" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-V/Parking-1.png" alt="Parking 1" style="width: 900px; margin-right: 900px;"/>
 
-<img src="../assets/images/chapter-V/Parking-2.png" alt="Parking 2" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-V/Parking-2.png" alt="Parking 2" style="width: 900px; margin-right: 900px;"/>
 
-<img src="../assets/images/chapter-V/Settings-1.png" alt="Settings 1" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-V/Settings-1.png" alt="Settings 1" style="width: 900px; margin-right: 900px;"/>
 
-<img src="../assets/images/chapter-V/Settings-2.png" alt="Settings 2" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-V/Settings-2.png" alt="Settings 2" style="width: 900px; margin-right: 900px;"/>
 
-<img src="../assets/images/chapter-V/Accounting-1.png" alt="Accounting 1" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-V/Accounting-1.png" alt="Accounting 1" style="width: 900px; margin-right: 900px;"/>
 
-<img src="../assets/images/chapter-V/Accounting-2.png" alt="Accounting 2" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-V/Accounting-2.png" alt="Accounting 2" style="width: 900px; margin-right: 900px;"/>
 
-<img src="../assets/images/chapter-V/Clients.png" alt="Clients" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-V/Clients.png" alt="Clients" style="width: 900px; margin-right: 900px;"/>
 
-<img src="../assets/images/chapter-V/Reports-1.png" alt="Reports 1" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-V/Reports-1.png" alt="Reports 1" style="width: 900px; margin-right: 900px;"/>
 
-<img src="../assets/images/chapter-V/Reports-2.png" alt="Reports 2" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-V/Reports-2.png" alt="Reports 2" style="width: 900px; margin-right: 900px;"/>
 
-<img src="../assets/images/chapter-V/Reports-3.png" alt="Reports 3" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-V/Reports-3.png" alt="Reports 3" style="width: 900px; margin-right: 900px;"/>
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
