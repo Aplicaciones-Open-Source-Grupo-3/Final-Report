@@ -186,6 +186,9 @@ Aquí se especifican los objetivos, historias de usuario priorizadas y entregabl
 	</tbody>
 </table>
 
+*Tabla 5.2.1.1. Sprint Planning 1.*
+
+
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 En esta sección se presenta la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual se presenta al líder y los colaboradores de este Sprint 1.
 
@@ -197,6 +200,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 | Nakasone Gomes, Marco Antonio  | marquinho04 | C | 
 | Paredes Davila, Jose Adrian  | joseadro09 | C | 
 
+*Tabla 5.2.1.2. Aspect Leaders and Collaborators.*
 
 #### 5.2.1.3. Sprint Backlog 1
 El principal objetivo del primer sprint es desarrollar las funciones esenciales que permitan a los usuarios interesados en EasyPark informarse sobre su propósito, conocer sus características destacadas y entender las acciones que podrán realizar dentro de la aplicacion web.
@@ -394,6 +398,9 @@ El principal objetivo del primer sprint es desarrollar las funciones esenciales 
   </tr>
 </table>
 
+*Tabla 5.2.1.3. Sprint Backlog 1.*
+
+
 #### 5.2.1.4. Development Evidence for Sprint Review
 Para el Sprint 1, se presenta la evidencia de desarrollo de la landing page de EasyPark. Los commits registrados en el repositorio corresponden a la implementación de las secciones clave de la página. Esto se realizó siguiendo el diseño previo en Figma.
 
@@ -422,19 +429,28 @@ Para el Sprint 1, se presenta la evidencia de desarrollo de la landing page de E
 | joseadro09/Landing-Page            | feature/structure-landing | feat: add social media links section           | 14/09/2025   |
 | joseadro09/Landing-Page            | feature/structure-landing | fix: improve testimonials style and markup     | 16/09/2025   |
 
+*Tabla 5.2.1.4. Development Evidence for Sprint Review.*
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
 El equipo de desarrolladores logró concluir con el sprint 1, el cual involucra la implementación y despliegue de la landing page de EasyPark. A continuación se presentan las evidencias.
 #### Landing page desplegada
 ![landing img](../assets/images/chapter-V/EasyPark-landing-deploy-1.png)
+*Figura 5.2.1.5-1. Landing page desplegada 1.*
 
 ![landing img](../assets/images/chapter-V/EasyPark-landing-deploy-2.png)
+*Figura 5.2.1.5-2. Landing page desplegada 2.*
 
 ![landing img](../assets/images/chapter-V/EasyPark-landing-deploy-3.png)
+*Figura 5.2.1.5-3. Landing page desplegada 3.*
 
 ![landing img](../assets/images/chapter-V/EasyPark-landing-deploy-4.png)
+*Figura 5.2.1.5-4. Landing page desplegada 4.*
 
 ![landing img](../assets/images/chapter-V/EasyPark-landing-deploy-5.png)
+*Figura 5.2.1.5-5. Landing page desplegada 5.*
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -444,15 +460,18 @@ En este sprint no se cuenta la documentacion a razón que el primer sprint esta 
 En el desarrollo del Sprint 1 para EasyPark, se utilizó GitHub Pages para el despliegue de la página de aterrizaje. Esta herramienta se integró de manera fluida al flujo de trabajo, permitiendo el despliegue directo desde el repositorio. Además, se llevaron a cabo actividades específicas para preparar el entorno de despliegue.
 #### Despliegue realizado en GitHub pages
 ![landing img](../assets/images/chapter-V/landing-page-deploy-evidence.jpg)
+*Figura 5.2.1.7-1. Despliegue en GitHub pages.*
 
 Enlace de la Landing Page: https://aplicaciones-open-source-grupo-3.github.io/Landing-Page/
 
 ![landing img](../assets/images/chapter-V/EasyPark-landing-deploy-1.png)
+*Figura 5.2.1.7-2. Landing Page en GitHub pages.*
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 En esta seccion se evidencia el trabajo colaborativo del equipo de desarrollo de la primera parte del proyecto.
 
 ![landing img](../assets/images/chapter-I/Contributors.png)
+*Figura 5.2.1.8. Team Collaboration Insights during Sprint.*
 
 
 ### 5.2.2. Sprint 2
@@ -517,6 +536,9 @@ Aquí se especifican los objetivos, historias de usuario priorizadas y entregabl
 	</tbody>
 </table>
 
+*Tabla 5.2.2.1. Sprint Planning 2.*
+
+
 #### 5.2.2.2. Aspect Leaders and Collaborators.
 En esta sección se presenta la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual se presenta al líder y los colaboradores de este Sprint 2.
 
@@ -527,6 +549,8 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 | Florez Shimabukuro, Fátima Belén |PengwinKingdom| C |
 | Nakasone Gomes, Marco Antonio  | marquinho04 | C | 
 | Paredes Davila, Jose Adrian  | joseadro09 | C | 
+
+*Tabla 5.2.2.2. Aspect Leaders and Collaborators.*
 
 
 #### 5.2.2.3. Sprint Backlog 2
@@ -671,6 +695,8 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 </tr>
 </table>
 
+*Tabla 5.2.2.3. Sprint Backlog 2.*
+
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 Para el Sprint 2, se presenta la evidencia de desarrollo del Front End de EasyPark. Los commits registrados en el repositorio corresponden a la implementación de las secciones clave de la página. Esto se realizó siguiendo el diseño previo en Figma.
@@ -694,34 +720,48 @@ Para el Sprint 2, se presenta la evidencia de desarrollo del Front End de EasyPa
 | PieroHugo/Frontend-app             | feature/structure-frontend   | docs: Delete unnesesary files                  | 08/10/2025   |
 | PieroHugo/Frontend-app             | feature/structure-frontend   | feat: add data base                            | 08/10/2025   |
 
+*Tabla 5.2.2.4. Development Evidence for Sprint Review.*
+
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 El equipo de desarrolladores logró concluir con el sprint 2. A continuación se presentan las evidencias del primer despligue del front end, donde se presenta la seccion de monitoreo del negocio con sus principales caracteristicas, el despliegue se realizo en Netlify
 
 #### Front End
 <img src="/assets/images/chapter-V/Dashboard-1.png" alt="Dashboard 1" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-1. Dashboard 1.*
 
 <img src="/assets/images/chapter-V/Dashboard-2.png" alt="Dashboard 2" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-2. Dashboard 2.*
 
 <img src="/assets/images/chapter-V/Parking-1.png" alt="Parking 1" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-3. Parking 1.*
 
 <img src="/assets/images/chapter-V/Parking-2.png" alt="Parking 2" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-4. Parking 2.*
 
 <img src="/assets/images/chapter-V/Settings-1.png" alt="Settings 1" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-5. Settings 1.*
 
 <img src="/assets/images/chapter-V/Settings-2.png" alt="Settings 2" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-6. Settings 2.*
 
 <img src="/assets/images/chapter-V/Accounting-1.png" alt="Accounting 1" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-7. Accounting 1.*
 
 <img src="/assets/images/chapter-V/Accounting-2.png" alt="Accounting 2" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-8. Accounting 2.*
 
 <img src="/assets/images/chapter-V/Clients.png" alt="Clients" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-9. Clients.*
 
 <img src="/assets/images/chapter-V/Reports-1.png" alt="Reports 1" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-10. Reports 1.*
 
 <img src="/assets/images/chapter-V/Reports-2.png" alt="Reports 2" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-11. Reports 2.*
 
 <img src="/assets/images/chapter-V/Reports-3.png" alt="Reports 3" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-12. Reports 3.*
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
@@ -731,14 +771,21 @@ En esta sección se presenta las evidencias de los servicios utilizados para el 
 ### Despliegue del json server en Kobey
 
 <img src="/assets/images/chapter-V/deploy-kobey1.png" alt="Reports 91" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.6-1. Despliegue del json 1.*
+
 
 <img src="/assets/images/chapter-V/deploy-kobey2.png" alt="Reports 92" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.6-2. Despliegue del json 2.*
 
 ### Despliegue del front end en Netlify
 
 <img src="/assets/images/chapter-V/deploy-netlify1.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.6-3. Despliegue del front end 1.*
+
 
 <img src="/assets/images/chapter-V/deploy-netlify2.png" alt="Reports 94" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.6-4. Despliegue del front end 2.*
+
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
@@ -747,12 +794,15 @@ En esta sección se muestra el Deployment de la aplicacion durante este Sprint. 
 Link de la aplicacion desplegada: https://easypark24.netlify.app/
 
 <img src="/assets/images/chapter-V/Dashboard-1.png" alt="Dashboard 1" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.7. Imagen-Dashboard 1.*
+
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 En esta sección, se muestra la evidencia del trabajo colaborativo del equipo de desarrollo de la segunda parte del proyecto.
 
 <img src="../assets/images/chapter-V/Team Collaboration Insights Sprint 2.png" alt="Team Collaboration Insights Sprint 2" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.8. Team Collaboration Insights-Sprint 2.*
 
 
 
