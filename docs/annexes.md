@@ -5,4 +5,8 @@
 
 - Link de la presentacion de la landing page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313354_upc_edu_pe/EVR4XCI-x4hNu2T0Up4daB0Bs_v8NJJBPI1WILVzMrt-xA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MdtzMy
 
+- Link de la presentacion de TP1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313354_upc_edu_pe/EdqsmmkE8DdMoZOoV_ctXSwBONOrQZO82AF5rSfgZLdTRA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=3Qnvdq
 
+- Link de la presentacion de la aplicacion web 1: https://shorturl.at/azCTO
+
+- Link de la presentacion de la aplicacion web 2: https://shorturl.at/UCKvD
