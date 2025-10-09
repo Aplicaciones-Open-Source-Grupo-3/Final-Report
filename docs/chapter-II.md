@@ -420,11 +420,24 @@ Para identificar las necesidades de los administradores y operadores de estacion
 ### 2.3.1. User Personas
 **Administrador de estacionamiento**
 
-<img src="/assets/images/chapter-II/User%20Persona%201.png" alt="Administrador de estacionamiento" style="width: 700px; margin-right: 700px;"/>
+<img src="/assets/images/chapter-II/User%20Persona%201.png" alt="Administrador de estacionamiento" style="width: 900px; margin-right: 900px;"/>
+
+<img src="/assets/images/chapter-II/Curva de emociones-1.png" alt="Curva de emociones 1" style="width: 900px; margin-right: 900px;"/>
+
+
+<br>
 
 **Operador de estacionamientos**
 
-<img src="/assets/images/chapter-II/User%20Persona%202.jpg" alt="Operador de estacionamiento" style="width: 700px; margin-right: 700px;"/>
+<img src="/assets/images/chapter-II/User%20Persona%202.jpg" alt="Operador de estacionamiento" style="width: 900px; margin-right: 900px;"/>
+
+<img src="/assets/images/chapter-II/Curva de emociones-2.png" alt="Curva de emociones 2" style="width: 900px; margin-right: 900px;"/>
+
+<br>
+**Leyenda**
+
+
+<img src="/assets/images/chapter-II/leyenda.png" alt="Leyenda" style="width: 900px; margin-right: 900px;"/>
 
 
 
