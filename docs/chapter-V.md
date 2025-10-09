@@ -512,7 +512,7 @@ Aquí se especifican los objetivos, historias de usuario priorizadas y entregabl
 		</tr>
 		<tr>
 			<td><strong>Sum of Story points</strong></td>
-			<td>22</td>
+			<td>19</td>
 		</tr>
 	</tbody>
 </table>
