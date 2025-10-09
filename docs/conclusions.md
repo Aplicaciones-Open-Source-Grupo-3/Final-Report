@@ -1,6 +1,6 @@
 ## Conclusiones 
 
-A continuación, se detallan las principales conclusiones extraídas de este primer ciclo de trabajo:
+A continuación, se detallan las principales conclusiones extraídas del trabajo:
 
 1. **Definición y ejecución exitosa del alcance**  
    El equipo logró cumplir con todos los objetivos planteados en el Sprint Planning, entregando la landing page completamente funcional y con todas las secciones esenciales implementadas: información general, características, planes y precios y enlaces a redes sociales. Todas las historias de usuario priorizadas fueron completadas, lo que refleja una adecuada planificación y gestión del backlog.
