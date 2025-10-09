@@ -59,19 +59,19 @@ En esta sección el equipo redacta la definición y la elaboración de los User 
 ## 3.2. Impact Mapping
 ### Goal 1
 
-<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Cap-III-v.2/assets/images/chapter-III/Impact%20Mapping.png" alt="Impact Mapping 1" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-III/Impact%20Mapping.png" alt="Impact Mapping 1" style="width: 900px; margin-right: 900px;"/>
 
 ### Goal 2
 
-<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Cap-III-v.2/assets/images/chapter-III/Impact%20Mapping%202.png" alt="Impact Mapping 2" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-III/Impact%20Mapping%202.png" alt="Impact Mapping 2" style="width: 900px; margin-right: 900px;"/>
 
 ### Goal 3
 
-<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Cap-III-v.2/assets/images/chapter-III/Impact%20Mapping%203.png" alt="Impact Mapping 3" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-III/Impact%20Mapping%203.png" alt="Impact Mapping 3" style="width: 900px; margin-right: 900px;"/>
 
 ### Goal 4
 
-<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Cap-III-v.2/assets/images/chapter-III/Impact%20Mapping%204.png" alt="Impact Mapping 4" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-III/Impact%20Mapping%204.png" alt="Impact Mapping 4" style="width: 900px; margin-right: 900px;"/>
 
 ## 3.3. Product Backlog
 

@@ -22,10 +22,10 @@ El objetivo de esta sección es comparar a EasyPark con las principales alternat
                   </tr>
                 <tr>
                       <th colspan="2">(Logo)</th>
-                      <th><img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/EasyPark%20Logo.png" alt="EasyPark Logo" style="width: 100px; margin-right: 100px;"/></th>
-                      <th><img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Apparka%20Logo.png" alt="Apparka Logo" style="width: 100px; margin-right: 100px;"/></th>
-                      <th><img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Parkopedia%20Logo.jpg" alt="Parkopedia Logo" style="width: 100px; margin-right: 100px;"/></th>
-                      <th><img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/WeSmartPark%20Logo.png" alt="WeSmartPark Logo" style="width: 100px; margin-right: 100px;"/></th>
+                      <th><img src="/assets/images/chapter-II/EasyPark%20Logo.png" alt="EasyPark Logo" style="width: 100px; margin-right: 100px;"/></th>
+                      <th><img src="/assets/images/chapter-II/Apparka%20Logo.png" alt="Apparka Logo" style="width: 100px; margin-right: 100px;"/></th>
+                      <th><img src="/assets/images/chapter-II/Parkopedia%20Logo.jpg" alt="Parkopedia Logo" style="width: 100px; margin-right: 100px;"/></th>
+                      <th><img src="/assets/images/chapter-II/WeSmartPark%20Logo.png" alt="WeSmartPark Logo" style="width: 100px; margin-right: 100px;"/></th>
                   </tr>
               </thead>
               <tbody>
@@ -420,11 +420,11 @@ Para identificar las necesidades de los administradores y operadores de estacion
 ### 2.3.1. User Personas
 **Administrador de estacionamiento**
 
-<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/User%20Persona%201.png" alt="Administrador de estacionamiento" style="width: 700px; margin-right: 700px;"/>
+<img src="/assets/images/chapter-II/User%20Persona%201.png" alt="Administrador de estacionamiento" style="width: 700px; margin-right: 700px;"/>
 
 **Operador de estacionamientos**
 
-<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/feature/chapter-II-requirements-elicitation-%26-analysis/assets/images/chapter-II/User%20Persona%202.jpg" alt="Operador de estacionamiento" style="width: 700px; margin-right: 700px;"/>
+<img src="/assets/images/chapter-II/User%20Persona%202.jpg" alt="Operador de estacionamiento" style="width: 700px; margin-right: 700px;"/>
 
 
 
@@ -442,6 +442,9 @@ Para identificar las necesidades de los administradores y operadores de estacion
 | Mantener registros manuales en cuadernos o en Excel | Frequently  | High     |
 | Buscar herramientas digitales para optimizar procesos | Rarely     | Medium     |
 
+<img src="/assets/images/chapter-II/UserJourneyMapping-Carlos Rodríguez.png" alt="User Task Matrix 1" style="width: 900px; margin-right: 900px;"/>
+<br>
+
 
 **Operador de estacionamientos: Juan Rojas**
 
@@ -454,6 +457,8 @@ Para identificar las necesidades de los administradores y operadores de estacion
 | Reportar incidencias o problemas en el estacionamiento | Occasionally | Medium   |
 | Mantener registros manuales en cuadernos          | Frequently  | High     |
 | Usar aplicaciones móviles para coordinar o enviar reportes | Occasionally | Medium |
+
+<img src="/assets/images/chapter-II/UserJourneyMapping-Juan Rojas.png" alt="User Task Matrix 2" style="width: 900px; margin-right: 900px;"/>
 
 
 ### 2.3.3. User Journey Mapping
@@ -481,20 +486,23 @@ Para identificar las necesidades de los administradores y operadores de estacion
 ### 2.3.4. Empathy Mapping
 
 **Administrador de Estacionamiento: Carlos Rodríguez**
-<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Empathy%20Mapping%201.png" alt="Empathy Mapping 1" style="width: 700px; margin-right: 700px;"/>
+<img src="/assets/images/chapter-II/Empathy%20Mapping%201.png" alt="Empathy Mapping 1" style="width: 700px; margin-right: 700px;"/>
 
+<br>
 
 **Operador de estacionamientos: Juan Rojas**
-<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Empathy%20Mapping%202.png" alt="Empathy Mapping 1" style="width: 700px; margin-right: 700px;"/>
+
+<img src="/assets/images/chapter-II/Empathy%20Mapping%202.png" alt="Empathy Mapping 1" style="width: 700px; margin-right: 700px;"/>
 
 ## 2.4. Big Picture Event Storming
 **Operación diaria**
-<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Big%20Picture%20Event%20Storming.png" alt="Big Picture Event Storming" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-II/Big%20Picture%20Event%20Storming.png" alt="Big Picture Event Storming" style="width: 900px; margin-right: 900px;"/>
 
 En la imagen se presenta el Big Picture Event Storming del procedimiento de administración de un estacionamiento, que abarca desde el ingreso del vehículo hasta la elaboración de los reportes diarios. 
 
+
 **Gestión y control**
-<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Big%20Picture%20Event%20Storming%202.png" alt="Big Picture Event Storming 2" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-II/Big%20Picture%20Event%20Storming%202.png" alt="Big Picture Event Storming 2" style="width: 900px; margin-right: 900px;"/>
 
 En la imagen se presenta el Big Picture Event Storming de las tareas principales del Administrador de Estacionamiento, que abarcan desde la revisión de reportes e historial de transacciones hasta la generación de informes diarios. Se destacan las validaciones críticas y la automatización de reportes.
 
