@@ -442,6 +442,8 @@ Para identificar las necesidades de los administradores y operadores de estacion
 | Mantener registros manuales en cuadernos o en Excel | Frequently  | High     |
 | Buscar herramientas digitales para optimizar procesos | Rarely     | Medium     |
 
+<img src="/assets/images/chapter-II/UserJourneyMapping-Carlos Rodríguez.png" alt="User Task Matrix 1" style="width: 900px; margin-right: 900px;"/>
+
 
 **Operador de estacionamientos: Juan Rojas**
 
@@ -454,6 +456,8 @@ Para identificar las necesidades de los administradores y operadores de estacion
 | Reportar incidencias o problemas en el estacionamiento | Occasionally | Medium   |
 | Mantener registros manuales en cuadernos          | Frequently  | High     |
 | Usar aplicaciones móviles para coordinar o enviar reportes | Occasionally | Medium |
+
+<img src="/assets/images/chapter-II/UserJourneyMapping-Juan Rojas.png" alt="User Task Matrix 2" style="width: 900px; margin-right: 900px;"/>
 
 
 ### 2.3.3. User Journey Mapping
