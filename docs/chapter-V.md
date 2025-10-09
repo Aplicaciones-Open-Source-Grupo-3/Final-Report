@@ -696,7 +696,7 @@ Para el Sprint 2, se presenta la evidencia de desarrollo del Front End de EasyPa
 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
-El equipo de desarrolladores logró concluir con el sprint 2. A continuación se presentan las evidencias.
+El equipo de desarrolladores logró concluir con el sprint 2. A continuación se presentan las evidencias del primer despligue del front end, donde se presenta la seccion de monitoreo del negocio con sus principales caracteristicas, el despliegue se realizo en Netlify
 
 #### Front End
 <img src="/assets/images/chapter-V/Dashboard-1.png" alt="Dashboard 1" style="width: 900px; margin-right: 900px;"/>
@@ -725,7 +725,21 @@ El equipo de desarrolladores logró concluir con el sprint 2. A continuación se
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+En esta sección se presenta las evidencias de los servicios utilizados para el despliegue de la aplicacion web
+
+# Despliegue del json server en Kobey
+
+# Despliegue del front end en Netlify
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+En esta sección se muestra el Deployment de la aplicacion durante este Sprint. A continuacíon se presenta la aplicación desplegada
+
+Link de la aplicacion desplegada: https://easypark24.netlify.app/
+
+<img src="/assets/images/chapter-V/Dashboard-1.png" alt="Dashboard 1" style="width: 900px; margin-right: 900px;"/>
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 En esta sección, se muestra la evidencia del trabajo colaborativo del equipo de desarrollo de la segunda parte del proyecto.
