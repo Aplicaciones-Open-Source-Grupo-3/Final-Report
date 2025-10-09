@@ -56,22 +56,32 @@ En esta sección el equipo redacta la definición y la elaboración de los User 
 | TS04 | Seguridad y revisión de vulnerabilidades | **Como** responsable técnico **quiero** analizar el código en busca de vulnerabilidades **para** proteger los datos y usuarios. | Escenario 1: Análisis exitoso Dado que se ejecuta el análisis de seguridad, Cuando no existen vulnerabilidades, Entonces el sistema reporta código seguro. <br>---<br> Escenario 2: Vulnerabilidades detectadas Dado que se detectan fallos de seguridad, Cuando se ejecuta el análisis, Entonces se reportan y bloquea el despliegue hasta corregir. | - |
 | TS05 | Documentación técnica automatizada | **Como** desarrollador **quiero** generar y mantener documentación técnica de APIs y arquitectura **para** facilitar el mantenimiento. | Escenario 1: Documentación generada Dado que se actualiza el código, Cuando se ejecuta la herramienta de documentación, Entonces se actualizan los archivos y quedan accesibles. <br>---<br> Escenario 2: Error en documentación Dado que existen errores en los comentarios o formato, Cuando se ejecuta la herramienta, Entonces el sistema reporta los errores y solicita corrección. | - |
 
+*Tabla 3.1. User Stories.*
+
 ## 3.2. Impact Mapping
 ### Goal 1
 
 <img src="/assets/images/chapter-III/Impact%20Mapping.png" alt="Impact Mapping 1" style="width: 900px; margin-right: 900px;"/>
 
+*Figura 3.2-1. Impact Mapping-Goal 1.*
+
 ### Goal 2
 
 <img src="/assets/images/chapter-III/Impact%20Mapping%202.png" alt="Impact Mapping 2" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 3.2-2. Impact Mapping-Goal 2.*
 
 ### Goal 3
 
 <img src="/assets/images/chapter-III/Impact%20Mapping%203.png" alt="Impact Mapping 3" style="width: 900px; margin-right: 900px;"/>
 
+*Figura 3.2-3. Impact Mapping-Goal 3.*
+
 ### Goal 4
 
 <img src="/assets/images/chapter-III/Impact%20Mapping%204.png" alt="Impact Mapping 4" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 3.2-4. Impact Mapping-Goal 4.*
 
 ## 3.3. Product Backlog
 
@@ -401,3 +411,5 @@ A continuación se detalla el Product Backlog del proyecto EasyPark. El Product 
     <td>1</td>
   </tr>
 </table>
+
+*Tabla 3.3. Product Backlog.*
