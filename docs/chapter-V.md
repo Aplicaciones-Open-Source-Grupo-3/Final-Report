@@ -728,9 +728,17 @@ El equipo de desarrolladores logró concluir con el sprint 2. A continuación se
 
 En esta sección se presenta las evidencias de los servicios utilizados para el despliegue de la aplicacion web
 
-# Despliegue del json server en Kobey
+### Despliegue del json server en Kobey
 
-# Despliegue del front end en Netlify
+<img src="/assets/images/chapter-V/deploy-kobey1.png" alt="Reports 91" style="width: 900px; margin-right: 900px;"/>
+
+<img src="/assets/images/chapter-V/deploy-kobey2.png" alt="Reports 92" style="width: 900px; margin-right: 900px;"/>
+
+### Despliegue del front end en Netlify
+
+<img src="/assets/images/chapter-V/deploy-netlify1.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
+
+<img src="/assets/images/chapter-V/deploy-netlify2.png" alt="Reports 94" style="width: 900px; margin-right: 900px;"/>
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
