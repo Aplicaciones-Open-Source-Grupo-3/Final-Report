@@ -422,22 +422,10 @@ Para identificar las necesidades de los administradores y operadores de estacion
 
 <img src="/assets/images/chapter-II/User%20Persona%201.png" alt="Administrador de estacionamiento" style="width: 900px; margin-right: 900px;"/>
 
-<img src="/assets/images/chapter-II/Curva de emociones-1.png" alt="Curva de emociones 1" style="width: 900px; margin-right: 900px;"/>
-
-
-<br>
 
 **Operador de estacionamientos**
 
 <img src="/assets/images/chapter-II/User%20Persona%202.jpg" alt="Operador de estacionamiento" style="width: 900px; margin-right: 900px;"/>
-
-<img src="/assets/images/chapter-II/Curva de emociones-2.png" alt="Curva de emociones 2" style="width: 900px; margin-right: 900px;"/>
-
-<br>
-**Leyenda**
-
-
-<img src="/assets/images/chapter-II/leyenda.png" alt="Leyenda" style="width: 900px; margin-right: 900px;"/>
 
 
 
@@ -455,7 +443,7 @@ Para identificar las necesidades de los administradores y operadores de estacion
 | Mantener registros manuales en cuadernos o en Excel | Frequently  | High     |
 | Buscar herramientas digitales para optimizar procesos | Rarely     | Medium     |
 
-<img src="/assets/images/chapter-II/UserJourneyMapping-Carlos Rodríguez.png" alt="User Task Matrix 1" style="width: 900px; margin-right: 900px;"/>
+
 <br>
 
 
@@ -471,7 +459,6 @@ Para identificar las necesidades de los administradores y operadores de estacion
 | Mantener registros manuales en cuadernos          | Frequently  | High     |
 | Usar aplicaciones móviles para coordinar o enviar reportes | Occasionally | Medium |
 
-<img src="/assets/images/chapter-II/UserJourneyMapping-Juan Rojas.png" alt="User Task Matrix 2" style="width: 900px; margin-right: 900px;"/>
 
 
 ### 2.3.3. User Journey Mapping
@@ -486,6 +473,12 @@ Para identificar las necesidades de los administradores y operadores de estacion
 | **Interacción continua** | Pasa varias horas revisando manualmente los registros, resolviendo reclamos de clientes y corrigiendo errores |
 | **Resolución del problema** | Logra mantener el estacionamiento operativo, pero con pérdidas de tiempo, poca transparencia y conflictos frecuentes |
 
+<img src="/assets/images/chapter-II/UserJourneyMapping-Carlos Rodríguez.png" alt="User Task Matrix 1" style="width: 900px; margin-right: 900px;"/>
+
+<img src="/assets/images/chapter-II/Curva de emociones-1.png" alt="Curva de emociones 1" style="width: 900px; margin-right: 900px;"/>
+
+
+<br>
 
 **Operador de estacionamientos: Juan Rojas**
 | Etapa                | Experiencia actual |
@@ -495,6 +488,16 @@ Para identificar las necesidades de los administradores y operadores de estacion
 | **Primer uso**        | Atiende a los conductores, asigna espacios y entrega tickets de entrada |
 | **Interacción continua** | Cobra con POS (Yape,Plin,EasyPay) o en efectivo, anota montos en cuaderno y responde reclamos de clientes|
 | **Resolución del problema** | Se encarga de registrar ingresos y cobros, pero el proceso es repetitivo, genera errores y le produce estrés |
+
+<img src="/assets/images/chapter-II/UserJourneyMapping-Juan Rojas.png" alt="User Task Matrix 2" style="width: 900px; margin-right: 900px;"/>
+
+<img src="/assets/images/chapter-II/Curva de emociones-2.png" alt="Curva de emociones 2" style="width: 900px; margin-right: 900px;"/>
+
+<br>
+
+**Leyenda**
+
+<img src="/assets/images/chapter-II/leyenda.png" alt="Leyenda" style="width: 200px; margin-right: 200px;"/>
 
 ### 2.3.4. Empathy Mapping
 
