@@ -42,6 +42,13 @@
 | 2.1     | 16/09/2025  | Espinoza Chávez, Moisés Filemón      | Corrección en los impact mapping y user journey.                       |
 | 2.2     | 17/09/2025  | Florez Shimabukuro, Fátima Belén     | Documentación de evidencias de desarrollo de la landing page.          |
 | 2.3     | 18/09/2025  | Elescano Leon, Piero Hugo            | Ajustes finales en conclusiones y organización de entregables.         |
+| 2.4     | 20/09/2025  | Elescano Leon, Piero Hugo; Florez Shimabukuro, Fátima Belén | Inicio de Sprint 2: Configuración y primeros avances para el despliegue del frontend en Netlify. |
+| 2.5     | 23/09/2025  | Elescano Leon, Piero Hugo                                   | Implementación de la estructura principal del frontend, integración con DB JSON en Kobey.        |
+| 2.6     | 26/09/2025  | Florez Shimabukuro, Fátima Belén                            | Desarrollo de vistas principales y revisión de estilos visuales para la web app.                 |
+| 2.7     | 29/09/2025  | Elescano Leon, Piero Hugo; Espinoza Chávez, Moisés Filemón  | Ajustes en la integración del frontend con la base de datos y solución de bugs iniciales.        |
+| 2.8     | 02/10/2025  | Espinoza Chávez, Moisés Filemón                             | Validación de funcionalidades y revisión colaborativa de la experiencia de usuario.              |
+| 2.9     | 05/10/2025  | Florez Shimabukuro, Fátima Belén                            | Documentación de evidencias del despliegue en Netlify y mejoras en la interacción.               |
+| 3.0     | 08/10/2025  | Elescano Leon, Piero Hugo            | Cierre de Sprint 2: Despliegue exitoso de la primera versión de la aplicación web frontend.      |
 
 # Project Report Collaboration Insights 
 Se presenta el reporte de colaboracion por miembro del equipo
