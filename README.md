@@ -20,7 +20,7 @@
 | Paredes Davila, Jose Adrian      |   u202216163    |
 | Nakasone Gomes, Marco Antonio    |   u202210790    |
 
-### **Septiembre, 2025**
+### **Octubre, 2025**
 </div>
 
 # **Registro de Versiones Del Informe**
