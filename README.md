@@ -52,6 +52,8 @@ Se presenta el reporte de colaboracion por miembro del equipo
   - **Link del repositorio:** https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report.git
   
   - **Link de Landing Page:** https://aplicaciones-open-source-grupo-3.github.io/Landing-Page/
+
+  - **Link de la aplicacion web:** https://easypark24.netlify.app/
     
 # Student Outcome
 
