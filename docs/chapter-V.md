@@ -426,15 +426,15 @@ Para el Sprint 1, se presenta la evidencia de desarrollo de la landing page de E
 
 El equipo de desarrolladores logró concluir con el sprint 1, el cual involucra la implementación y despliegue de la landing page de EasyPark. A continuación se presentan las evidencias.
 #### Landing page desplegada
-![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-1.png)
+![landing img](../assets/images/chapter-V/EasyPark-landing-deploy-1.png)
 
-![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-2.png)
+![landing img](../assets/images/chapter-V/EasyPark-landing-deploy-2.png)
 
-![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-3.png)
+![landing img](../assets/images/chapter-V/EasyPark-landing-deploy-3.png)
 
-![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-4.png)
+![landing img](../assets/images/chapter-V/EasyPark-landing-deploy-4.png)
 
-![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-5.png)
+![landing img](../assets/images/chapter-V/EasyPark-landing-deploy-5.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -443,16 +443,16 @@ En este sprint no se cuenta la documentacion a razón que el primer sprint esta 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 En el desarrollo del Sprint 1 para EasyPark, se utilizó GitHub Pages para el despliegue de la página de aterrizaje. Esta herramienta se integró de manera fluida al flujo de trabajo, permitiendo el despliegue directo desde el repositorio. Además, se llevaron a cabo actividades específicas para preparar el entorno de despliegue.
 #### Despliegue realizado en GitHub pages
-![landing img](/assets/images/chapter-V/landing-page-deploy-evidence.jpg)
+![landing img](../assets/images/chapter-V/landing-page-deploy-evidence.jpg)
 
 Enlace de la Landing Page: https://aplicaciones-open-source-grupo-3.github.io/Landing-Page/
 
-![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-1.png)
+![landing img](../assets/images/chapter-V/EasyPark-landing-deploy-1.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 En esta seccion se evidencia el trabajo colaborativo del equipo de desarrollo de la primera parte del proyecto.
 
-![landing img](/assets/images/chapter-I/Contributors.png)
+![landing img](../assets/images/chapter-I/Contributors.png)
 
 
 ### 5.2.2. Sprint 2
@@ -699,29 +699,29 @@ Para el Sprint 2, se presenta la evidencia de desarrollo del Front End de EasyPa
 El equipo de desarrolladores logró concluir con el sprint 2. A continuación se presentan las evidencias.
 
 #### Front End
-<img src="/assets/images/chapter-V/Dashboard-1.png" alt="Dashboard 1" style="width: 900px; margin-right: 900px;"/>
+<img src="../assets/images/chapter-V/Dashboard-1.png" alt="Dashboard 1" style="width: 900px; margin-right: 900px;"/>
 
-<img src="/assets/images/chapter-V/Dashboard-2.png" alt="Dashboard 2" style="width: 900px; margin-right: 900px;"/>
+<img src="../assets/images/chapter-V/Dashboard-2.png" alt="Dashboard 2" style="width: 900px; margin-right: 900px;"/>
 
-<img src="/assets/images/chapter-V/Parking-1.png" alt="Parking 1" style="width: 900px; margin-right: 900px;"/>
+<img src="../assets/images/chapter-V/Parking-1.png" alt="Parking 1" style="width: 900px; margin-right: 900px;"/>
 
-<img src="/assets/images/chapter-V/Parking-2.png" alt="Parking 2" style="width: 900px; margin-right: 900px;"/>
+<img src="../assets/images/chapter-V/Parking-2.png" alt="Parking 2" style="width: 900px; margin-right: 900px;"/>
 
-<img src="/assets/images/chapter-V/Settings-1.png" alt="Settings 1" style="width: 900px; margin-right: 900px;"/>
+<img src="../assets/images/chapter-V/Settings-1.png" alt="Settings 1" style="width: 900px; margin-right: 900px;"/>
 
-<img src="/assets/images/chapter-V/Settings-2.png" alt="Settings 2" style="width: 900px; margin-right: 900px;"/>
+<img src="../assets/images/chapter-V/Settings-2.png" alt="Settings 2" style="width: 900px; margin-right: 900px;"/>
 
-<img src="/assets/images/chapter-V/Accounting-1.png" alt="Accounting 1" style="width: 900px; margin-right: 900px;"/>
+<img src="../assets/images/chapter-V/Accounting-1.png" alt="Accounting 1" style="width: 900px; margin-right: 900px;"/>
 
-<img src="/assets/images/chapter-V/Accounting-2.png" alt="Accounting 2" style="width: 900px; margin-right: 900px;"/>
+<img src="../assets/images/chapter-V/Accounting-2.png" alt="Accounting 2" style="width: 900px; margin-right: 900px;"/>
 
-<img src="/assets/images/chapter-V/Clients.png" alt="Clients" style="width: 900px; margin-right: 900px;"/>
+<img src="../assets/images/chapter-V/Clients.png" alt="Clients" style="width: 900px; margin-right: 900px;"/>
 
-<img src="/assets/images/chapter-V/Reports-1.png" alt="Reports 1" style="width: 900px; margin-right: 900px;"/>
+<img src="../assets/images/chapter-V/Reports-1.png" alt="Reports 1" style="width: 900px; margin-right: 900px;"/>
 
-<img src="/assets/images/chapter-V/Reports-2.png" alt="Reports 2" style="width: 900px; margin-right: 900px;"/>
+<img src="../assets/images/chapter-V/Reports-2.png" alt="Reports 2" style="width: 900px; margin-right: 900px;"/>
 
-<img src="/assets/images/chapter-V/Reports-3.png" alt="Reports 3" style="width: 900px; margin-right: 900px;"/>
+<img src="../assets/images/chapter-V/Reports-3.png" alt="Reports 3" style="width: 900px; margin-right: 900px;"/>
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
@@ -730,7 +730,17 @@ El equipo de desarrolladores logró concluir con el sprint 2. A continuación se
 
 En esta sección, se muestra la evidencia del trabajo colaborativo del equipo de desarrollo de la segunda parte del proyecto.
 
-<img src="/assets/images/chapter-V/Team Collaboration Insights Sprint 2.png" alt="Team Collaboration Insights Sprint 2" style="width: 900px; margin-right: 900px;"/>
+<img src="../assets/images/chapter-V/Team Collaboration Insights Sprint 2.png" alt="Team Collaboration Insights Sprint 2" style="width: 900px; margin-right: 900px;"/>
+
+## Conclusiones:
+
+Durante este sprint se logró completar el desarrollo del front end utilizando Angular, consolidando la estructura modular del proyecto y garantizando una navegación fluida y responsiva. Se implementaron componentes reutilizables, servicios para la gestión de datos y un diseño visual coherente con la identidad del producto.
+
+Asimismo, se realizó exitosamente el despliegue en Netlify, lo que permitió contar con una versión funcional y accesible del aplicativo en línea. Este proceso facilitó la validación del rendimiento, la detección de posibles errores en tiempo real y la recolección de retroalimentación por parte del equipo.
+
+El sprint permitió reforzar buenas prácticas en el uso de Angular, como la separación por capas, el manejo de rutas y la optimización de recursos estáticos. Además, se fortalecieron las habilidades del equipo en la configuración de entornos de producción y la automatización del flujo de integración y entrega continua (CI/CD) mediante la plataforma de Netlify.
+
+En conclusión, el sprint cumplió con los objetivos planteados: disponer de una interfaz funcional, desplegada y accesible públicamente, dejando una base sólida para futuras iteraciones centradas en la integración del backend, pruebas de usuario y mejoras de experiencia visual.
 
 
 
