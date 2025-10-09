@@ -8,6 +8,8 @@ EasyPark es una innovadora aplicacion web diseñada para optimizar la gestión d
 |-----------|------------|
 | Ofrecer a los administradores y operadores de estacionamientos una plataforma inteligente que les permita realizar sus labores cotidianas con mayor facilidad, automatizar el cobro y entradas, y proporcionar datos en tiempo real para una administración más eficaz y segura.| Establecernos como la solución digital para la administración de estacionamientos, incorporando tecnologías innovadoras que ofrezcan una experiencia de estacionamiento eficaz y confiable para todos los usuarios. |
 
+*Tabla 1.1.1. Misión y Visión de EasyPark.*
+
 ### Perfiles de integrantes del equipo
 
 |  |   Descripción   |
@@ -17,6 +19,9 @@ EasyPark es una innovadora aplicacion web diseñada para optimizar la gestión d
 |<img src="/assets/images/chapter-I/Jose-foto.jpeg" alt="Jose imagen" style="width: 300px; margin-right: 20px;"/> |Mi nombre es Jose Adrian Paredes Davila. Poseo conocimientos básicos en programación con C++, Python y HTML. Me caracterizo por valorar el trabajo en equipo, manteniendo siempre una actitud colaborativa y comprometida con el logro de los objetivos, aportando de manera responsable para un buen rendimiento grupal. |
 |<img src="/assets/images/chapter-I/Marco-foto.jpeg" alt="Marco imagen" style="width: 300px; margin-right: 20px;"/>  |Mi nombre es Marco Antonio Nakasone Gomes y mi código es u202210790. Estudio la carrera de Ingeniería de Software y actualmente me encuentro cursando el sexto ciclo. Mis principal habilidad es la programacion, destaco en el desarrollo de software, los principales lenguajes que domino son C++, python, java y C#. |
 |<img src="/assets/images/chapter-I/Moises-foto.jpg" alt="Moises imagen" style="width: 300px; margin-right: 20px;"/> |Mi nombre es Moisés Espinoza Chávez y mi código es u202221383. Estudio la carrera de Ingeniería de Software y actualmente me encuentro cursando el sexto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje, tengo conocimientos en C#, Java, C++, HTML, que me ayudarán en el desarrollo eficaz de este proyecto.|
+
+*Tabla 1.1.2. Perfiles de integrantes del equipo.*
+
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
