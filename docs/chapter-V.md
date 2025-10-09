@@ -139,7 +139,7 @@ Aquí se especifican los objetivos, historias de usuario priorizadas y entregabl
 			<td>Sprint 1</td>
 		</tr>
 		<tr>
-			<td colspan="2"><strong>Spring Planing Background</strong></td>
+			<td colspan="2"><strong>Spring Planning Background</strong></td>
 		</tr>
 		<tr>
 			<td><strong>Date</strong></td>
@@ -157,7 +157,7 @@ Aquí se especifican los objetivos, historias de usuario priorizadas y entregabl
 			<td colspan="2"><strong>Prepared by</strong></td>
 		</tr>
 		<tr>
-			<td><strong>Attends (to planinning meeting)</strong></td>
+			<td><strong>Attendees (to planinning meeting)</strong></td>
 			<td>All members of EasyPark</td>
 		</tr>
 		<tr>
@@ -172,7 +172,7 @@ Aquí se especifican los objetivos, historias de usuario priorizadas y entregabl
 			<td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
 		</tr>
 		<tr>
-			<td><strong>Spritn 1 Goal</strong></td>
+			<td><strong>Sprint 1 Goal</strong></td>
 			<td>We are focused on building the EasyPark landing page, as we believe this is critical for the long-term sustainability of the product within the organization. We will confirm its success when we see a significant increase in user engagement.</td>
 		</tr>
 		<tr>
@@ -186,6 +186,9 @@ Aquí se especifican los objetivos, historias de usuario priorizadas y entregabl
 	</tbody>
 </table>
 
+*Tabla 5.2.1.1. Sprint Planning 1.*
+
+
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 En esta sección se presenta la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual se presenta al líder y los colaboradores de este Sprint 1.
 
@@ -197,6 +200,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 | Nakasone Gomes, Marco Antonio  | marquinho04 | C | 
 | Paredes Davila, Jose Adrian  | joseadro09 | C | 
 
+*Tabla 5.2.1.2. Aspect Leaders and Collaborators.*
 
 #### 5.2.1.3. Sprint Backlog 1
 El principal objetivo del primer sprint es desarrollar las funciones esenciales que permitan a los usuarios interesados en EasyPark informarse sobre su propósito, conocer sus características destacadas y entender las acciones que podrán realizar dentro de la aplicacion web.
@@ -394,6 +398,9 @@ El principal objetivo del primer sprint es desarrollar las funciones esenciales 
   </tr>
 </table>
 
+*Tabla 5.2.1.3. Sprint Backlog 1.*
+
+
 #### 5.2.1.4. Development Evidence for Sprint Review
 Para el Sprint 1, se presenta la evidencia de desarrollo de la landing page de EasyPark. Los commits registrados en el repositorio corresponden a la implementación de las secciones clave de la página. Esto se realizó siguiendo el diseño previo en Figma.
 
@@ -422,19 +429,28 @@ Para el Sprint 1, se presenta la evidencia de desarrollo de la landing page de E
 | joseadro09/Landing-Page            | feature/structure-landing | feat: add social media links section           | 14/09/2025   |
 | joseadro09/Landing-Page            | feature/structure-landing | fix: improve testimonials style and markup     | 16/09/2025   |
 
+*Tabla 5.2.1.4. Development Evidence for Sprint Review.*
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
 El equipo de desarrolladores logró concluir con el sprint 1, el cual involucra la implementación y despliegue de la landing page de EasyPark. A continuación se presentan las evidencias.
 #### Landing page desplegada
-![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-1.png)
+![landing img](../assets/images/chapter-V/EasyPark-landing-deploy-1.png)
+*Figura 5.2.1.5-1. Landing page desplegada 1.*
 
-![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-2.png)
+![landing img](../assets/images/chapter-V/EasyPark-landing-deploy-2.png)
+*Figura 5.2.1.5-2. Landing page desplegada 2.*
 
-![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-3.png)
+![landing img](../assets/images/chapter-V/EasyPark-landing-deploy-3.png)
+*Figura 5.2.1.5-3. Landing page desplegada 3.*
 
-![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-4.png)
+![landing img](../assets/images/chapter-V/EasyPark-landing-deploy-4.png)
+*Figura 5.2.1.5-4. Landing page desplegada 4.*
 
-![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-5.png)
+![landing img](../assets/images/chapter-V/EasyPark-landing-deploy-5.png)
+*Figura 5.2.1.5-5. Landing page desplegada 5.*
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -443,13 +459,357 @@ En este sprint no se cuenta la documentacion a razón que el primer sprint esta 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 En el desarrollo del Sprint 1 para EasyPark, se utilizó GitHub Pages para el despliegue de la página de aterrizaje. Esta herramienta se integró de manera fluida al flujo de trabajo, permitiendo el despliegue directo desde el repositorio. Además, se llevaron a cabo actividades específicas para preparar el entorno de despliegue.
 #### Despliegue realizado en GitHub pages
-![landing img](/assets/images/chapter-V/landing-page-deploy-evidence.jpg)
+![landing img](../assets/images/chapter-V/landing-page-deploy-evidence.jpg)
+*Figura 5.2.1.7-1. Despliegue en GitHub pages.*
 
 Enlace de la Landing Page: https://aplicaciones-open-source-grupo-3.github.io/Landing-Page/
 
-![landing img](/assets/images/chapter-V/EasyPark-landing-deploy-1.png)
+![landing img](../assets/images/chapter-V/EasyPark-landing-deploy-1.png)
+*Figura 5.2.1.7-2. Landing Page en GitHub pages.*
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 En esta seccion se evidencia el trabajo colaborativo del equipo de desarrollo de la primera parte del proyecto.
 
-![landing img](/assets/images/chapter-I/Contributors.png)
+![landing img](../assets/images/chapter-I/Contributors.png)
+*Figura 5.2.1.8. Team Collaboration Insights during Sprint.*
+
+
+### 5.2.2. Sprint 2
+Se documenta el trabajo colaborativo y las fases clave del Sprint 2, desde el sprint planning, desarrollo incremental y retrospectiva. El Sprint 2 se enfoca en habilitar el pago end-to-end con pasarela sandbox, persistir transacciones y reflejarlas en un dashboard básico, alineado con la optimización de la gestión de estacionamientos.
+
+#### 5.2.2.1. Sprint Planning 2.
+Aquí se especifican los objetivos, historias de usuario priorizadas y entregables mínimos viables definidos para la segunda iteración de EasyPark.
+
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Sprint #</strong></td>
+			<td>Sprint 2</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>Spring Planning Background</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Date</strong></td>
+			<td>2025-10-1</td>
+		</tr>
+		<tr>
+			<td><strong>Time</strong></td>
+			<td>10:30 AM</td>
+		</tr>
+		<tr>
+			<td><strong>Location</strong></td>
+			<td>Remote mode through the GitHub platform</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>Prepared by</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Attendees (to planinning meeting)</strong></td>
+			<td>All members of EasyPark</td>
+		</tr>
+		<tr>
+			<td><strong>Sprint 1 Review Summary</strong></td>
+			<td>We delivered and deployed the first public version of the EasyPark landing page via GitHub Pages. It included top navigation, hero, benefits, pricing, testimonials, contact form with basic validation, social links, and responsive/accessibility adjustments. </td>
+		</tr>
+		<tr>
+			<td><strong>Sprint 1 Retrospective Summary</strong></td>
+			<td>We worked well by splitting tasks clearly and keeping daily async check-ins.</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Spritn 2 Goal</strong></td>
+			<td>Deliver a navigable Operator Panel MVP using mock data (<code>db.json</code>), 
+        EN/ES i18n, unified styles, and read-only views: Dashboard, Reports,
+        Parking Setup, Spaces, Prices/Subscriptions, and Clients.</td>
+		</tr>
+		<tr>
+			<td><strong>Sprint 2 Velocity</strong></td>
+			<td>10</td>
+		</tr>
+		<tr>
+			<td><strong>Sum of Story points</strong></td>
+			<td>19</td>
+		</tr>
+	</tbody>
+</table>
+
+*Tabla 5.2.2.1. Sprint Planning 2.*
+
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+En esta sección se presenta la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual se presenta al líder y los colaboradores de este Sprint 2.
+
+| Team Member (Last Name, First Name) | GitHub Username | Landing page |
+| ------------------------------------|-----------------|-------------------------------------------|
+| Elescano Leon, Piero Hugo | PieroHugo | L |
+| Espinoza Chavez, Moises Filemon |MoisesECh| C | 
+| Florez Shimabukuro, Fátima Belén |PengwinKingdom| C |
+| Nakasone Gomes, Marco Antonio  | marquinho04 | C | 
+| Paredes Davila, Jose Adrian  | joseadro09 | C | 
+
+*Tabla 5.2.2.2. Aspect Leaders and Collaborators.*
+
+
+#### 5.2.2.3. Sprint Backlog 2
+
+<table> 
+	<tr> 
+		<td><strong>Sprint #</strong></td> 
+		<td colspan="7">Sprint 2</td> 
+	</tr> 
+	<tr> 
+		<td colspan="2"><strong>User Story</strong></td> 
+		<td colspan="6"><strong>Work-item / Task</strong></td> 
+	</tr> 
+	<tr> 
+		<td><strong>Id</strong></td> 
+		<td><strong>Title</strong></td> 
+		<td><strong>Id</strong></td> 
+		<td><strong>Title</strong></td> 
+		<td><strong>Description</strong></td> 
+		<td><strong>Estimation (Hours)</strong></td> 
+		<td><strong>Assigned To</strong></td> 
+		<td><strong>Status (To-do / In-Process / To-review / Done)</strong></td> 
+	</tr> 
+	<tr> 
+		<td rowspan="3">EP01-US14</td> 
+		<td rowspan="3">Visualización de dashboard</td> 
+		<td>T18</td> 
+		<td>Ruta protegida /admin</td> 
+		<td>Configurar navegación protegida y layout del dashboard</td> 
+		<td>3</td> 
+		<td>Marco Nakasone</td> 
+		<td>Done</td> 
+	</tr> 
+	<tr> 
+		<td>T19</td> 
+		<td>Tabla de transacciones</td> 
+		<td>Listar fecha, monto, <code>receiptId</code>, espacio y estado; paginación básica</td> 
+		<td>5</td> 
+		<td>Marco Nakasone</td> 
+		<td>Done</td> 
+	</tr> 
+	<tr> 
+		<td>T20</td> 
+		<td>Endpoint listado pagos</td> 
+		<td>Servicio/endpoint para obtener transacciones con filtros</td> 
+		<td>4</td> 
+		<td>Marco Nakasone</td> 
+		<td>Done</td> 
+	</tr> 
+	<tr> 
+		<td rowspan="2">EP03-US19</td> 
+		<td rowspan="2">Visualización de tarifas</td> 
+		<td>T21</td> 
+		<td>Servicio de tarifas</td> 
+		<td>Fuente de tarifas por horario/espacio; formateo para el frontend</td> 
+		<td>3</td> 
+		<td>Piero Elescano</td> 
+		<td>Done</td> 
+	</tr> 
+	<tr> 
+		<td>T22</td> 
+		<td>Tarifa en UI de pago</td> 
+		<td>Mostrar tarifa vigente y desglose antes de confirmar el pago</td> 
+		<td>3</td> 
+		<td>Piero Elescano</td> 
+		<td>Done</td> 
+	</tr> 
+	<tr> 
+		<td rowspan="2">EP01-US15</td> 
+		<td rowspan="2">Gestión visual de espacios</td> 
+		<td>T23</td> <td>Endpoint cambiar estado</td> 
+		<td>Exponer servicio para marcar espacio como Libre después del pago</td> 
+		<td>3</td> 
+		<td>Jose Paredes</td> 
+		<td>Done</td> 
+	</tr> 
+	<tr> 
+		<td>T24</td> 
+		<td>Refresco de ocupación</td> 
+		<td>Actualizar la vista tras cambiar el estado</td> 
+		<td>2</td> 
+		<td>Piero Elescano</td> 
+		<td>Done</td> 
+	</tr> 
+  <td rowspan="3">EP04-US29</td>
+  <td rowspan="3">API de reportes y analíticas</td>
+
+  <td>T27</td>
+  <td>Mock/endpoint de analíticas</td>
+  <td>Exponer en json-server: <code>/reports</code>, <code>/subscriptions</code>, <code>/plans</code>, <code>/profiles</code> con datos de prueba</td>
+  <td>4</td>
+  <td>Piero Elescano</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>T28</td>
+  <td>Servicio Angular <code>AnalyticsService</code></td>
+  <td>Métodos <code>getReports/getSubscriptions/getPlans</code>, DTOs tipados y mapeos</td>
+  <td>5</td>
+  <td>Fátima Florez
+  Jose Paredes</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>T29</td>
+  <td>Manejo de errores y empty state</td>
+  <td>Intercepciones/estados “sin datos” en UI; mensajes i18n en EN/ES</td>
+  <td>3</td>
+  <td> Piero Elescano
+  Fátima Florez
+  Marco Nakasone
+  Jose Paredes
+  Moisés Chávez</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td rowspan="3">EP04-US16</td>
+  <td rowspan="3">Consulta de historial de ocupación</td>
+
+  <td>T30</td>
+  <td>Vista Reports/Analytics Overview</td>
+  <td>Maquetado: header, tarjetas KPI, placeholder de gráfica y layout responsive</td>
+  <td>6</td>
+  <td>Piero Elescano</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>T31</td>
+  <td>Tabla “Customer & Subscription History”</td>
+  <td>Componer datos con <code>forkJoin</code> (subs+plans+profile) y mapear a filas</td>
+  <td>5</td>
+  <td>Moisés Chávez</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>T32</td>
+  <td>i18n EN/ES para Analytics</td>
+  <td>Claves en <code>en.json</code>/<code>es.json</code> (títulos, columnas, acciones)</td>
+  <td>2</td>
+  <td>Fátima Florez</td>
+  <td>Done</td>
+</tr>
+</table>
+
+*Tabla 5.2.2.3. Sprint Backlog 2.*
+
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+Para el Sprint 2, se presenta la evidencia de desarrollo del Front End de EasyPark. Los commits registrados en el repositorio corresponden a la implementación de las secciones clave de la página. Esto se realizó siguiendo el diseño previo en Figma.
+
+| Repository                        | Branch                  | Commit Message                                 | Commited on  |
+|------------------------------------|-------------------------|------------------------------------------------|--------------|
+| PieroHugo/Frontend-app             | main                    | initial commit                                 | 30/09/2025   |
+| PieroHugo/Frontend-app             | main                    | chore: update json files                       | 30/09/2025   |
+| PieroHugo/Frontend-app             | main                    | chore: add url of the data server              | 30/09/2025   |
+| PieroHugo/Frontend-app             | main                    | chore: update toolbar                          | 30/09/2025   |
+| PieroHugo/Frontend-app             | feature/structure-frontend   | feat: add clients operators management         | 04/10/2025   |
+| PengwinKingdom/Frontend-app        | feature/structure-frontend   | demo                                           | 06/10/2025   |
+| PengwinKingdom/Frontend-app        | feature/structure-frontend   | Update en.json                                 | 06/10/2025   |
+| PengwinKingdom/Frontend-app        | feature/structure-frontend   | Update es.json                                 | 06/10/2025   |
+| PengwinKingdom/Frontend-app        | feature/structure-frontend   | Update app.routes.ts                           | 06/10/2025   |
+| PieroHugo/Frontend-app             | feature/structure-frontend   | fix: update analytics section                  | 08/10/2025   |
+| PieroHugo/Frontend-app             | feature/structure-frontend   | feat: add clients operators management         | 04/10/2025   |
+| marquinho04/Frontend-app           | feature/structure-frontend   | feat: enhance dashboard with Google Maps integration and autocomplete search    | 08/10/2025   |
+| marquinho04/Frontend-app           | feature/structure-frontend   | fix: little fixes on dashboard                 | 08/10/2025   |
+| PieroHugo/Frontend-app             | feature/structure-frontend   | feat: add report section                       | 08/10/2025   |
+| PieroHugo/Frontend-app             | feature/structure-frontend   | docs: Delete unnesesary files                  | 08/10/2025   |
+| PieroHugo/Frontend-app             | feature/structure-frontend   | feat: add data base                            | 08/10/2025   |
+
+*Tabla 5.2.2.4. Development Evidence for Sprint Review.*
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+El equipo de desarrolladores logró concluir con el sprint 2. A continuación se presentan las evidencias del primer despligue del front end, donde se presenta la seccion de monitoreo del negocio con sus principales caracteristicas, el despliegue se realizo en Netlify
+
+#### Front End
+<img src="/assets/images/chapter-V/Dashboard-1.png" alt="Dashboard 1" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-1. Dashboard 1.*
+
+<img src="/assets/images/chapter-V/Dashboard-2.png" alt="Dashboard 2" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-2. Dashboard 2.*
+
+<img src="/assets/images/chapter-V/Parking-1.png" alt="Parking 1" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-3. Parking 1.*
+
+<img src="/assets/images/chapter-V/Parking-2.png" alt="Parking 2" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-4. Parking 2.*
+
+<img src="/assets/images/chapter-V/Settings-1.png" alt="Settings 1" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-5. Settings 1.*
+
+<img src="/assets/images/chapter-V/Settings-2.png" alt="Settings 2" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-6. Settings 2.*
+
+<img src="/assets/images/chapter-V/Accounting-1.png" alt="Accounting 1" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-7. Accounting 1.*
+
+<img src="/assets/images/chapter-V/Accounting-2.png" alt="Accounting 2" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-8. Accounting 2.*
+
+<img src="/assets/images/chapter-V/Clients.png" alt="Clients" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-9. Clients.*
+
+<img src="/assets/images/chapter-V/Reports-1.png" alt="Reports 1" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-10. Reports 1.*
+
+<img src="/assets/images/chapter-V/Reports-2.png" alt="Reports 2" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-11. Reports 2.*
+
+<img src="/assets/images/chapter-V/Reports-3.png" alt="Reports 3" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.5-12. Reports 3.*
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+En esta sección se presenta las evidencias de los servicios utilizados para el despliegue de la aplicacion web
+
+### Despliegue del json server en Kobey
+
+<img src="/assets/images/chapter-V/deploy-kobey1.png" alt="Reports 91" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.6-1. Despliegue del json 1.*
+
+
+<img src="/assets/images/chapter-V/deploy-kobey2.png" alt="Reports 92" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.6-2. Despliegue del json 2.*
+
+### Despliegue del front end en Netlify
+
+<img src="/assets/images/chapter-V/deploy-netlify1.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.6-3. Despliegue del front end 1.*
+
+
+<img src="/assets/images/chapter-V/deploy-netlify2.png" alt="Reports 94" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.6-4. Despliegue del front end 2.*
+
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+En esta sección se muestra el Deployment de la aplicacion durante este Sprint. A continuacíon se presenta la aplicación desplegada
+
+Link de la aplicacion desplegada: https://easypark24.netlify.app/
+
+<img src="/assets/images/chapter-V/Dashboard-1.png" alt="Dashboard 1" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.7. Imagen-Dashboard 1.*
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+En esta sección, se muestra la evidencia del trabajo colaborativo del equipo de desarrollo de la segunda parte del proyecto.
+
+<img src="../assets/images/chapter-V/Team Collaboration Insights Sprint 2.png" alt="Team Collaboration Insights Sprint 2" style="width: 900px; margin-right: 900px;"/>
+*Figura 5.2.2.8. Team Collaboration Insights-Sprint 2.*
+
+
+
+
+
+
+
+
+
+

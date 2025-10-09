@@ -22,10 +22,10 @@ El objetivo de esta sección es comparar a EasyPark con las principales alternat
                   </tr>
                 <tr>
                       <th colspan="2">(Logo)</th>
-                      <th><img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/EasyPark%20Logo.png" alt="EasyPark Logo" style="width: 100px; margin-right: 100px;"/></th>
-                      <th><img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Apparka%20Logo.png" alt="Apparka Logo" style="width: 100px; margin-right: 100px;"/></th>
-                      <th><img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Parkopedia%20Logo.jpg" alt="Parkopedia Logo" style="width: 100px; margin-right: 100px;"/></th>
-                      <th><img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/WeSmartPark%20Logo.png" alt="WeSmartPark Logo" style="width: 100px; margin-right: 100px;"/></th>
+                      <th><img src="/assets/images/chapter-II/EasyPark%20Logo.png" alt="EasyPark Logo" style="width: 100px; margin-right: 100px;"/></th>
+                      <th><img src="/assets/images/chapter-II/Apparka%20Logo.png" alt="Apparka Logo" style="width: 100px; margin-right: 100px;"/></th>
+                      <th><img src="/assets/images/chapter-II/Parkopedia%20Logo.jpg" alt="Parkopedia Logo" style="width: 100px; margin-right: 100px;"/></th>
+                      <th><img src="/assets/images/chapter-II/WeSmartPark%20Logo.png" alt="WeSmartPark Logo" style="width: 100px; margin-right: 100px;"/></th>
                   </tr>
               </thead>
               <tbody>
@@ -258,6 +258,8 @@ El objetivo de esta sección es comparar a EasyPark con las principales alternat
                   </tr>
               </tbody>
       </table>
+
+*Tabla 2.1.1. Análisis de competidores.*
        
 ### 2.1.2. Estrategias y tácticas frente a competidores
 En la siguiente sección se revisarán las estrategias y tácticas que utilizaremos para posicionarnos de maneta efectiva en el mercado y destacarnos frente a nuestros competidores, afrontando sus fortalezas y aprovechando sus debilidades. De la misma forma con sus amenazas y las oportunidades.
@@ -383,6 +385,8 @@ Schneider Ayala Torres trabaja como operador en un estacionamiento de un centro 
 | ¿Estarías dispuesto a pagar una suscripción mensual por una plataforma que te permita centralizar toda la gestión de tu estacionamiento? | Los dos administradores estarían dispuestos, siempre que el costo sea razonable y la plataforma sea capaz de resolver sus problemas |
 | ¿Qué características consideras esenciales para confiar en una solución digital frente a los procesos manuales actuales? | Los administradores valoran que sea fácil de usar, rápida, estable y segura, con datos protegidos y referencias confiables de otros usuarios |
 
+*Tabla 2.2.3-1. Análisis de entrevistas al segmento objetivo 1.*
+
 
 ### Segmento Objetivo: Operadores de estacionamientos formales
 
@@ -400,6 +404,8 @@ Schneider Ayala Torres trabaja como operador en un estacionamiento de un centro 
 | ¿Crees que una plataforma como EasyPark te ayudaría a ahorrar tiempo y reducir errores? ¿Cómo? | Sí, cree que digitalizar el registro y los cobros ayudaría a minimizar errores, agilizar el proceso y mejorar la transparencia con los clientes. |
 | ¿Qué funcionalidades específicas te gustaría que tuviera EasyPark para facilitar tu trabajo? | Le gustaría tener registro automático de entradas/salidas, generación de reportes automáticos, alertas de errores y una interfaz sencilla e intuitiva. |
 | ¿Qué tan dispuesto estarías a aprender y usar un sistema digital si este hace tu trabajo más rápido y sencillo? | Está dispuesto a aprender y adoptar un sistema digital siempre que perciba una mejora real en la eficiencia y facilidad de uso respecto a los métodos manuales. |
+
+*Tabla 2.2.3-2. Análisis de entrevistas al segmento objetivo 2.*
 
 ## 2.3. Needfinding
 Para identificar las necesidades de los administradores y operadores de estacionamientos, utilizamos varias herramientas y métodos.
@@ -420,11 +426,15 @@ Para identificar las necesidades de los administradores y operadores de estacion
 ### 2.3.1. User Personas
 **Administrador de estacionamiento**
 
-<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/User%20Persona%201.png" alt="Administrador de estacionamiento" style="width: 700px; margin-right: 700px;"/>
+<img src="/assets/images/chapter-II/User%20Persona%201.png" alt="Administrador de estacionamiento" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 2.3.1-1. User Persona-Administrador de estacionamiento.*
+
 
 **Operador de estacionamientos**
 
-<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/feature/chapter-II-requirements-elicitation-%26-analysis/assets/images/chapter-II/User%20Persona%202.jpg" alt="Operador de estacionamiento" style="width: 700px; margin-right: 700px;"/>
+<img src="/assets/images/chapter-II/User%20Persona%202.jpg" alt="Operador de estacionamiento" style="width: 900px; margin-right: 900px;"/>
+*Figura 2.3.1-2. User Persona-Operador de estacionamientos.*
 
 
 
@@ -442,6 +452,10 @@ Para identificar las necesidades de los administradores y operadores de estacion
 | Mantener registros manuales en cuadernos o en Excel | Frequently  | High     |
 | Buscar herramientas digitales para optimizar procesos | Rarely     | Medium     |
 
+*Tabla 2.3.2-1. User Task Matrix-Administrador de estacionamiento.*
+
+<br>
+
 
 **Operador de estacionamientos: Juan Rojas**
 
@@ -454,6 +468,8 @@ Para identificar las necesidades de los administradores y operadores de estacion
 | Reportar incidencias o problemas en el estacionamiento | Occasionally | Medium   |
 | Mantener registros manuales en cuadernos          | Frequently  | High     |
 | Usar aplicaciones móviles para coordinar o enviar reportes | Occasionally | Medium |
+
+*Tabla 2.3.2-2. User Task Matrix-Operador de estacionamientos.*
 
 
 ### 2.3.3. User Journey Mapping
@@ -468,6 +484,18 @@ Para identificar las necesidades de los administradores y operadores de estacion
 | **Interacción continua** | Pasa varias horas revisando manualmente los registros, resolviendo reclamos de clientes y corrigiendo errores |
 | **Resolución del problema** | Logra mantener el estacionamiento operativo, pero con pérdidas de tiempo, poca transparencia y conflictos frecuentes |
 
+*Tabla 2.3.3-1. User Journey Mapping-Administrador de Estacionamiento.*
+
+<img src="/assets/images/chapter-II/UserJourneyMapping-Carlos Rodríguez.png" alt="User Task Matrix 1" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 2.3.3-2. User Journey Mapping-Administrador de Estacionamiento.*
+
+<img src="/assets/images/chapter-II/Curva de emociones-1.png" alt="Curva de emociones 1" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 2.3.3-3. Curva de emociones-Administrador de Estacionamiento.*
+
+
+<br>
 
 **Operador de estacionamientos: Juan Rojas**
 | Etapa                | Experiencia actual |
@@ -478,23 +506,55 @@ Para identificar las necesidades de los administradores y operadores de estacion
 | **Interacción continua** | Cobra con POS (Yape,Plin,EasyPay) o en efectivo, anota montos en cuaderno y responde reclamos de clientes|
 | **Resolución del problema** | Se encarga de registrar ingresos y cobros, pero el proceso es repetitivo, genera errores y le produce estrés |
 
+*Tabla 2.3.3-4. User Journey Mapping-Operador de estacionamientos.*
+
+<img src="/assets/images/chapter-II/UserJourneyMapping-Juan Rojas.png" alt="User Task Matrix 2" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 2.3.3-5. User Journey Mapping-Operador de estacionamientos.*
+
+<img src="/assets/images/chapter-II/Curva de emociones-2.png" alt="Curva de emociones 2" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 2.3.3-6. Curva de emociones-Operador de estacionamientos.*
+
+<br>
+
+**Leyenda**
+
+<img src="/assets/images/chapter-II/leyenda.png" alt="Leyenda" style="width: 200px; margin-right: 200px;"/>
+
+*Figura 2.3.3-7. Leyenda.*
+
 ### 2.3.4. Empathy Mapping
 
 **Administrador de Estacionamiento: Carlos Rodríguez**
-<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Empathy%20Mapping%201.png" alt="Empathy Mapping 1" style="width: 700px; margin-right: 700px;"/>
+<img src="/assets/images/chapter-II/Empathy%20Mapping%201.png" alt="Empathy Mapping 1" style="width: 700px; margin-right: 700px;"/>
 
+*Figura 2.3.4-1. Empathy Mapping-Administrador de Estacionamiento.*
+
+<br>
 
 **Operador de estacionamientos: Juan Rojas**
-<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Empathy%20Mapping%202.png" alt="Empathy Mapping 1" style="width: 700px; margin-right: 700px;"/>
+
+<img src="/assets/images/chapter-II/Empathy%20Mapping%202.png" alt="Empathy Mapping 1" style="width: 700px; margin-right: 700px;"/>
+
+*Figura 2.3.4-2. Empathy Mapping-Operador de estacionamientos.*
+
 
 ## 2.4. Big Picture Event Storming
 **Operación diaria**
-<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Big%20Picture%20Event%20Storming.png" alt="Big Picture Event Storming" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-II/Big%20Picture%20Event%20Storming.png" alt="Big Picture Event Storming" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 2.4-1. Big Picture Event Storming-Operación diaria.*
+
 
 En la imagen se presenta el Big Picture Event Storming del procedimiento de administración de un estacionamiento, que abarca desde el ingreso del vehículo hasta la elaboración de los reportes diarios. 
 
+
 **Gestión y control**
-<img src="https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report/blob/Capitulo-II-v.2/assets/images/chapter-II/Big%20Picture%20Event%20Storming%202.png" alt="Big Picture Event Storming 2" style="width: 900px; margin-right: 900px;"/>
+<img src="/assets/images/chapter-II/Big%20Picture%20Event%20Storming%202.png" alt="Big Picture Event Storming 2" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 2.4-2. Big Picture Event Storming-Gestión y control.*
+
 
 En la imagen se presenta el Big Picture Event Storming de las tareas principales del Administrador de Estacionamiento, que abarcan desde la revisión de reportes e historial de transacciones hasta la generación de informes diarios. Se destacan las validaciones críticas y la automatización de reportes.
 

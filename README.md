@@ -20,7 +20,7 @@
 | Paredes Davila, Jose Adrian      |   u202216163    |
 | Nakasone Gomes, Marco Antonio    |   u202210790    |
 
-### **Septiembre, 2025**
+### **Octubre, 2025**
 </div>
 
 # **Registro de Versiones Del Informe**
@@ -42,6 +42,13 @@
 | 2.1     | 16/09/2025  | Espinoza Chávez, Moisés Filemón      | Corrección en los impact mapping y user journey.                       |
 | 2.2     | 17/09/2025  | Florez Shimabukuro, Fátima Belén     | Documentación de evidencias de desarrollo de la landing page.          |
 | 2.3     | 18/09/2025  | Elescano Leon, Piero Hugo            | Ajustes finales en conclusiones y organización de entregables.         |
+| 2.4     | 20/09/2025  | Elescano Leon, Piero Hugo; Florez Shimabukuro, Fátima Belén | Inicio de Sprint 2: Configuración y primeros avances para el despliegue del frontend en Netlify. |
+| 2.5     | 23/09/2025  | Elescano Leon, Piero Hugo                                   | Implementación de la estructura principal del frontend, integración con DB JSON en Kobey.        |
+| 2.6     | 26/09/2025  | Florez Shimabukuro, Fátima Belén                            | Desarrollo de vistas principales y revisión de estilos visuales para la web app.                 |
+| 2.7     | 29/09/2025  | Elescano Leon, Piero Hugo; Espinoza Chávez, Moisés Filemón  | Ajustes en la integración del frontend con la base de datos y solución de bugs iniciales.        |
+| 2.8     | 02/10/2025  | Espinoza Chávez, Moisés Filemón                             | Validación de funcionalidades y revisión colaborativa de la experiencia de usuario.              |
+| 2.9     | 05/10/2025  | Florez Shimabukuro, Fátima Belén                            | Documentación de evidencias del despliegue en Netlify y mejoras en la interacción.               |
+| 3.0     | 08/10/2025  | Elescano Leon, Piero Hugo            | Cierre de Sprint 2: Despliegue exitoso de la primera versión de la aplicación web frontend.      |
 
 # Project Report Collaboration Insights 
 Se presenta el reporte de colaboracion por miembro del equipo
@@ -52,6 +59,8 @@ Se presenta el reporte de colaboracion por miembro del equipo
   - **Link del repositorio:** https://github.com/Aplicaciones-Open-Source-Grupo-3/Final-Report.git
   
   - **Link de Landing Page:** https://aplicaciones-open-source-grupo-3.github.io/Landing-Page/
+
+  - **Link de la aplicacion web:** https://easypark24.netlify.app/
     
 # Student Outcome
 
@@ -68,37 +77,39 @@ En el siguiente cuadro se detallan las acciones realizadas y las conclusiones al
   </tr>
   <tr>
     <td rowspan="5">Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
-    <td>Elescano Leon, Piero Hugo:<br>TB1: Expuso con claridad las ideas y avances sobre la estructuración y diseño de la landing page durante las reuniones de equipo, asegurando la comprensión de todos y promoviendo la toma de decisiones conjunta.</td>
-    <td rowspan="5">La comunicación oral efectiva dentro del equipo facilitó la comprensión de ideas, permitió la resolución rápida de dudas y contribuyó a una mejor coordinación en el desarrollo de la landing page, adaptándose al nivel de conocimiento de cada miembro.</td>
+    <td>Elescano Leon, Piero Hugo:<br>TB1: Expuso con claridad las ideas y avances sobre la estructuración y diseño de la landing page durante las reuniones de equipo, asegurando la comprensión de todos y promoviendo la toma de decisiones conjunta. <br> <br>TP1: Presento ante el equipo la nueva versión del Landing Page, explicando con claridad los cambios aplicados respecto al Sprint anterior, la mejora en la estructura de componentes y la organización del código según los principios de diseño y buenas prácticas. Además, explicó la integración del backend simulado con JSON Server.</td> 
+    <td rowspan="5"> TB1: La comunicación oral efectiva dentro del equipo facilitó la comprensión de ideas, permitió la resolución rápida de dudas y contribuyó a una mejor coordinación en el desarrollo de la landing page, adaptándose al nivel de conocimiento de cada miembro.<br> <br>TP1: El equipo demostró una comunicación oral clara y efectiva al exponer los avances del Sprint 2, explicar decisiones técnicas y presentar el Landing Page y la Web App. Cada integrante mostró dominio del contenido y capacidad para adaptar su discurso según la audiencia, evidenciando trabajo colaborativo y seguridad en sus presentaciones. </td>
+  </tr> 
+  <tr>
+    <td> <br>Florez Shimabukuro, Fátima Belén:<br>TB1: Participó activamente en las presentaciones internas, explicando el enfoque visual y la experiencia de usuario de la landing page de manera accesible para todos los integrantes y ajustando su mensaje según la audiencia. <br> <br>TP1: Expuso las funcionalidades principales de la primera versión del Frontend Web Application, explicando el flujo de navegación, el uso de componentes reutilizables y la interacción del JSON Server. Durante la revisión del sprint, comunicó el enfoque del diseño y la aplicación de los principios de Single Page Application (SPA).</td>
   </tr>
   <tr>
-    <td>Florez Shimabukuro, Fátima Belén:<br>TB1: Participó activamente en las presentaciones internas, explicando el enfoque visual y la experiencia de usuario de la landing page de manera accesible para todos los integrantes y ajustando su mensaje según la audiencia.</td>
+    <td> <br>Espinoza Chávez, Moisés Filemón:<br>TB1: Lideró sesiones de retroalimentación presentando los avances en la integración de contenidos y funcionalidades, utilizando un lenguaje claro y estructurado para asegurar el entendimiento de todo el equipo. <br> <br>TP1: Comunicó los resultados del proceso de validación interna del Frontend y del Landing Page. Explicó los hallazgos encontrados al probar las interfaces y justificó las correcciones aplicadas en base a observaciones del Sprint anterior. Evidenció comprensión del flujo funcional del sistema y la importancia de la mejora continua en el desarrollo web. </td>
   </tr>
   <tr>
-    <td>Espinoza Chávez, Moisés Filemón:<br>TB1: Lideró sesiones de retroalimentación presentando los avances en la integración de contenidos y funcionalidades, utilizando un lenguaje claro y estructurado para asegurar el entendimiento de todo el equipo.</td>
+    <td> <br>Paredes Davila, Jose Adrian:<br>TB1: Realizó presentaciones breves para proponer mejoras en el flujo de navegación y la organización de secciones, adaptando su comunicación a las necesidades del grupo y asegurando la comprensión de las propuestas.<br> <br>TP1: Explicó durante el Sprint Review el flujo de trabajo colaborativo en GitFlow, comunicando cómo se distribuyeron las ramas y cómo se integraron los aportes de cada integrante. Explicó verbalmentelas ventajas del flujo aplicado y cómo se resolvieron conflictos de merge.</td>
   </tr>
   <tr>
-    <td>Paredes Davila, Jose Adrian:<br>TB1: Realizó presentaciones breves para proponer mejoras en el flujo de navegación y la organización de secciones, adaptando su comunicación a las necesidades del grupo y asegurando la comprensión de las propuestas.</td>
-  </tr>
-  <tr>
-    <td>Nakasone Gomes, Marco Antonio:<br>TB1: Moderó discusiones del grupo sobre el diseño y la estructura, comunicando de manera efectiva las conclusiones y próximos pasos, manteniendo un ambiente participativo y claro.</td>
+    <td> <br>Nakasone Gomes, Marco Antonio:<br>TB1: Moderó discusiones del grupo sobre el diseño y la estructura, comunicando de manera efectiva las conclusiones y próximos pasos, manteniendo un ambiente participativo y claro.<br> <br>TP1: Explicó la planificación del sprint, los objetivos del incremento y la distribución de roles en el equipo, mostrando seguridad y claridad. También presentó los principales avances del proyecto en el Stage Review, utilizando un lenguaje adecuado. </td>
   </tr>
   <tr>
     <td rowspan="5">Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
-    <td>Elescano Leon, Piero Hugo:<br>TB1: Redactó reportes de avance sobre el desarrollo de la landing page, utilizando un lenguaje técnico adecuado para el público objetivo, lo cual facilitó el seguimiento del progreso del equipo.</td>
-    <td rowspan="5">La comunicación escrita efectiva permitió documentar adecuadamente el desarrollo de la landing page, compartir información relevante con precisión y mantener informados a todos los interesados, adaptando el contenido y el nivel de detalle según la audiencia.</td>
+    <td><br> Elescano Leon, Piero Hugo:<br>TB1: Redactó reportes de avance sobre el desarrollo de la landing page, utilizando un lenguaje técnico adecuado para el público objetivo, lo cual facilitó el seguimiento del progreso del equipo. <br> <br>TP1: Documentó en el informe final las modificaciones aplicadas al Landing Page, indicando versión, fecha, responsables y justificación de cada cambio en el Registro de Versiones. Detalló las mejoras implementadas, con capturas de pantalla y fragmentos de código, y actualizó la seccón de Servicios y Despliegue, mostrando la URL del sitio publicado. </td>
+    <td rowspan="5">TB1: La comunicación escrita efectiva permitió documentar adecuadamente el desarrollo de la landing page, compartir información relevante con precisión y mantener informados a todos los interesados, adaptando el contenido y el nivel de detalle según la audiencia. <br> <br>TP1: Se evidenció una comunicación escrita técnica y coherente en la documentación. Los integrantes redactaron informes, registros y evidencias con claridad, aplicando buenas prácticas, gramática adecuada y lenguaje profesional. La actualización de artefactos y reportes reflejó mejora continua y compromiso con la calidad del proyecto.</td>
   </tr>
   <tr>
-    <td>Florez Shimabukuro, Fátima Belén:<br>TB1: Elaboró documentos que describían las decisiones de diseño visual y experiencia de usuario, asegurándose de que fueran comprensibles tanto para el equipo como para los asesores externos.</td>
+    <td><br> Florez Shimabukuro, Fátima Belén:<br>TB1: Elaboró documentos que describían las decisiones de diseño visual y experiencia de usuario, asegurándose de que fueran comprensibles tanto para el equipo como para los asesores externos. <br> <br>TP1: Describió la arquitectura del Frontend, detallando la estructura de carpetas, la conexión con el servidor simulado y el uso de Angular. Mantuvo el control de versiones con GitFlow, registrando commits descriptivos y actualizando el Sprint Backlog con evidencia de tareas completadas. Redactó con claridad técnica y siguiendo las convenciones del proyecto.</td>
   </tr>
   <tr>
-    <td>Espinoza Chávez, Moisés Filemón:<br>TB1: Participó en la redacción de la documentación del proyecto, estructurando los contenidos de manera lógica y clara para facilitar su entendimiento por distintas audiencias.</td>
+    <td><br> Espinoza Chávez, Moisés Filemón:<br>TB1: Participó en la redacción de la documentación del proyecto, estructurando los contenidos de manera lógica y clara para facilitar su entendimiento por distintas audiencias. <br> <br>TP1: Actualizó las versiones corregidas de artefactos previos reflejando los cambios aplicados en el Sprint 2. Además, documentó en el Project Collaboration Insights cómo las actividades del equipo fueron implementadas. La redacción mostró orden y precisión.</td>
   </tr>
   <tr>
-    <td>Paredes Davila, Jose Adrian:<br>TB1: Colaboró en la elaboración de manuales de usuario y documentación técnica relacionadas a la landing page, utilizando un lenguaje accesible y adaptado al nivel de conocimiento de los diferentes lectores.</td>
+    <td><br> Paredes Davila, Jose Adrian:<br>TB1: Colaboró en la elaboración de manuales de usuario y documentación técnica relacionadas a la landing page, utilizando un lenguaje accesible y adaptado al nivel de conocimiento de los diferentes lectores. <br> <br>TP1: Redactó una descripción detallada del proceso de colaboración y control de versiones durante el Sprint 2. Incluyó un análisis reflexivo sobre cómo mejoró la eficiencia del equipo. Además, cuidó la gramática, la coherencia y la presentación del texto. La documentación evidenció orientación a la mejora continua y un dominio de las herramientas de colaboración.</td>
   </tr>
   <tr>
-    <td>Nakasone Gomes, Marco Antonio:<br>TB1: Coordinó la recopilación de reportes escritos y la organización de los entregables finales, asegurando la coherencia y claridad en los documentos generados por el equipo.</td>
+    <td><br> Nakasone Gomes, Marco Antonio:<br>TB1: Coordinó la recopilación de reportes escritos y la organización de los entregables finales, asegurando la coherencia y claridad en los documentos generados por el equipo. <br> <br>TP1: Elaboró y redactó las secciones de Sprint Planning 2, Aspects Leaders and Collaborators y Sprint Backlog 2 en el informe final. La escritura fue organizada, aplicando correctamente la estructura del documento académico y cuidando la gramática. Además, integró la conclusión general del TP1, resumiendo el progreso del proyecto y las perspectivas para el siguiente sprint.
+
+</td>
   </tr>
 </table>
 
@@ -183,6 +194,16 @@ En el siguiente cuadro se detallan las acciones realizadas y las conclusiones al
 ##### [5.2.1.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5216-services-documentation-evidence-for-sprint-review)
 ##### [5.2.1.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#[5217-software-deployment-evidence-for-sprint-review)
 ##### [5.2.1.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5218-team-collaboration-insights-during-sprint)
+
+#### [5.2.2. Sprint 2](/docs/chapter-V.md/#522-sprint-2)
+##### [5.2.2.1. Sprint Planning 2](/docs/chapter-V.md/#5221-sprint-planning-2)
+##### [5.2.2.2. Aspect Leaders and Collaborators](/docs/chapter-V.md/#5222-aspect-leaders-and-collaborators)
+##### [5.2.2.3. Sprint Backlog 2](/docs/chapter-V.md/#5223-sprint-backlog-2)
+##### [5.2.2.4. Development Evidence for Sprint Review](/docs/chapter-V.md/#5224-development-evidence-for-sprint-review)
+##### [5.2.2.5. Execution Evidence for Sprint Review](/docs/chapter-V.md/#5225-execution-evidence-for-sprint-review)
+##### [5.2.2.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5226-services-documentation-evidence-for-sprint-review)
+##### [5.2.2.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#[5227-software-deployment-evidence-for-sprint-review)
+##### [5.2.2.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5228-team-collaboration-insights-during-sprint)
 
 
 
