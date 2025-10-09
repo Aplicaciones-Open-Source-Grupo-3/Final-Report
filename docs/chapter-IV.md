@@ -45,6 +45,8 @@ EasyPark comunica eficiencia, modernidad y confianza. Su tono es profesional, di
 | Verde           | #0AD95C    | Estados disponibles, éxito en operaciones |
 | Naranja         | #FA6138    | Alertas y notificaciones                  |
 
+*Tabla 4.1.1. Paleta de Colores.*
+
 **Spacing y Layout:**<br>
 - **Espaciado amplio:** se prioriza la lectura y el orden visual.
 - **Margen mínimo:** 16px en mobile, 24px en desktop.
@@ -195,21 +197,31 @@ Para la elaboración de los wireframes de la landing page, hemos utilizado la he
 
 ![main img](/assets/images/chapter-IV/LandingPage-wireframe-Main.png)
 
+*Figura 4.3.1-1. Landing Page Wireframe-Main section.*
+
 **About section**: Es la seccion donde se presenta el producto
 
 ![about img](/assets/images/chapter-IV/LandingPage-wireframe-About.png)
+
+*Figura 4.3.1-2. Landing Page Wireframe-About section.*
 
 **How it works section**: Es la seccion donde se presentan las caracteristicas del producto
 
 ![about img](/assets/images/chapter-IV/LandingPage-wireframe-Howitworks.png)
 
+*Figura 4.3.1-3. Landing Page Wireframe-How it works section.*
+
 **Pricing section**: Es la seccion donde se muestra los planes de suscripcion a los usuarios
 
 ![about img](/assets/images/chapter-IV/LandingPage-wireframe-Pricing.png)
 
+*Figura 4.3.1-4. Landing Page Wireframe-Pricing section.*
+
 **Contact section**: Es la seccion donde es usuario puede contactarse con el equipo
 
 ![about img](/assets/images/chapter-IV/LandingPage-wireframe-Contact.png)
+
+*Figura 4.3.1-5. Landing Page Wireframe-Contact section.*
 
 ### 4.3.2. Landing Page Mock-up
 Para la elaboración de los mock-ups de la landing page, hemos utilizado la herramienta de Figma para el proceso de diseño.
@@ -218,21 +230,31 @@ Para la elaboración de los mock-ups de la landing page, hemos utilizado la herr
 
 ![main img](/assets/images/chapter-IV/LandingPage-mockup-Main.png)
 
+*Figura 4.3.2-1. Landing Page Mock-up-Contact section.*
+
 **About section**: Es la seccion donde se presenta el producto
 
 ![about img](/assets/images/chapter-IV/LandingPage-mockup-About.png)
+
+*Figura 4.3.2-2. Landing Page Mock-up-About section.*
 
 **How it works section**: Es la seccion donde se presentan las caracteristicas del producto
 
 ![about img](/assets/images/chapter-IV/LandingPage-mockup-Howitworks.png)
 
+*Figura 4.3.2-3. Landing Page Mock-up-How it works section.*
+
 **Pricing section**: Es la seccion donde se muestra los planes de suscripcion a los usuarios
 
 ![about img](/assets/images/chapter-IV/LandingPage-mockup-Pricing.png)
 
+*Figura 4.3.2-4. Landing Page Mock-up-Pricing section.*
+
 **Contact section**: Es la seccion donde es usuario puede contactarse con el equipo
 
 ![about img](/assets/images/chapter-IV/LandingPage-mockup-Contact.png)
+
+*Figura 4.3.2-5. Landing Page Mock-up-Contact section.*
 
 ## 4.4. Web Applications UX/UI Design
 En esta sección se incluyen secciones internas en el cual se presentará y explicará la propuesta visual y de interacción para las aplicaciones que conforman la interacción del usuario con los productos digitales.
@@ -242,21 +264,31 @@ Link Figma: https://www.figma.com/design/bDlnXtQ9d5jXaDOGJ1Kx2G/EasyPark?node-id
 ### 4.4.1. Web Applications Wireframes
 ![wireframes_web](/assets/images/chapter-IV/wireframes_web.png)
 
+*Figura 4.4.1. Web Applications Wireframes.*
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 ![wireframes_web](/assets/images/chapter-IV/WireFlowDiagrams.png)
+
+*Figura 4.4.2. Web Applications Wireflow Diagrams.*
 
 ### 4.4.3. Web Applications Mock-ups
 
 ![mockups_web](/assets/images/chapter-IV/mockups_web.png)
 
+*Figura 4.4.3. Web Applications Mock-ups.*
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ![user_flow_diagram](/assets/images/chapter-IV/user_flow_diagram.png)
 
+*Figura 4.4.4. Web Applications User Flow Diagrams.*
+
 ## 4.5. Web Applications Prototyping
 
 ![user_flow_diagram](/assets/images/chapter-IV/user_flow_diagram.png)
+
+*Figura 4.5. Web Applications Prototyping.*
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -266,13 +298,19 @@ El modelo C4 permite visualizar un sistema de software en distintos niveles de d
 En este diagrama muestra a EasyPark como un sistema en su ecosistema. Representa a los usuarios principales (administrador y operador) y a los sistemas externos (pasarelas de pago, notificaciones, mapas, etc.) con los que la plataforma se integra. Su objetivo es dar una visión clara de quién usa EasyPark y qué servicios externos lo rodean.
 ![c4](/assets/images/chapter-IV/structurizr-Context.png)
 
+*Figura 4.6.1. Software Architecture Context Diagram.*
+
 ### 4.6.2. Software Architecture Container Diagrams
 En este diagrama se abren los detalles de EasyPark y se representan sus contenedores principales: la WebApp, el Backend API, los servicios de dominio (espacios, reservas, pagos, reportes, incidencias, usuarios), la base de datos, el cache Redis y el worker de notificaciones. Este diagrama permite entender cómo se organizan las piezas internas del sistema y cómo se comunican entre sí y con los servicios externos.
 ![c4](/assets/images/chapter-IV/structurizr-Container.png)
 
+*Figura 4.6.2. Software Architecture Container Diagrams.*
+
 ### 4.6.3. Software Architecture Components Diagrams
 En este diagrama se descompone el contenedor Backend API en sus componentes internos (controladores de autenticación, espacios, reservas, pagos, reportes, incidencias, validaciones y adaptadores de integración). El objetivo de este nivel es mostrar la distribución de responsabilidades dentro del backend, destacando qué hace cada componente y cómo se relaciona con los servicios de dominio, la base de datos y los sistemas externos.
 ![c4](/assets/images/chapter-IV/structurizr-Component.png)
+
+*Figura 4.6.3. Software Architecture Components Diagrams.*
 
 
 ## 4.7. Software Object-Oriented Design
@@ -282,6 +320,8 @@ En la sección de Software Object-Oriented Design se presentarán del diagrama d
 
 ![diagram](/assets/images/chapter-IV/class-diagram.png)
 
+*Figura 4.7.1. Class Diagrams.*
+
 
 ## 4.8. Database Design
 En la parte dedicada al Diseño de la Base de Datos, se mostrará un diagrama que ilustra cómo están organizadas las entidades y sus vínculos, facilitando un manejo eficiente de los datos tanto para almacenarlos como para consultarlos.
@@ -290,3 +330,5 @@ En la parte dedicada al Diseño de la Base de Datos, se mostrará un diagrama qu
 Los diagramas de base de datos muestran la organización interna y las conexiones entre las entidades, facilitando la comprensión de cómo se guardan y vinculan los datos dentro del sistema de forma óptima.
 
 ![diagram](/assets/images/chapter-IV/data-base-diagram.png)
+
+*Figura 4.8.1. Database Diagram.*
