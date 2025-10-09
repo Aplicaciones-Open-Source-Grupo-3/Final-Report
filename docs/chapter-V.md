@@ -732,15 +732,7 @@ En esta sección, se muestra la evidencia del trabajo colaborativo del equipo de
 
 <img src="../assets/images/chapter-V/Team Collaboration Insights Sprint 2.png" alt="Team Collaboration Insights Sprint 2" style="width: 900px; margin-right: 900px;"/>
 
-## Conclusiones:
 
-Durante este sprint se logró completar el desarrollo del front end utilizando Angular, consolidando la estructura modular del proyecto y garantizando una navegación fluida y responsiva. Se implementaron componentes reutilizables, servicios para la gestión de datos y un diseño visual coherente con la identidad del producto.
-
-Asimismo, se realizó exitosamente el despliegue en Netlify, lo que permitió contar con una versión funcional y accesible del aplicativo en línea. Este proceso facilitó la validación del rendimiento, la detección de posibles errores en tiempo real y la recolección de retroalimentación por parte del equipo.
-
-El sprint permitió reforzar buenas prácticas en el uso de Angular, como la separación por capas, el manejo de rutas y la optimización de recursos estáticos. Además, se fortalecieron las habilidades del equipo en la configuración de entornos de producción y la automatización del flujo de integración y entrega continua (CI/CD) mediante la plataforma de Netlify.
-
-En conclusión, el sprint cumplió con los objetivos planteados: disponer de una interfaz funcional, desplegada y accesible públicamente, dejando una base sólida para futuras iteraciones centradas en la integración del backend, pruebas de usuario y mejoras de experiencia visual.
 
 
 
