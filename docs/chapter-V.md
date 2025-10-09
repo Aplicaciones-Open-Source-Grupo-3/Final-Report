@@ -611,25 +611,6 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td>Piero Elescano</td> 
 		<td>Done</td> 
 	</tr> 
-	<tr> 
-		<td rowspan="2">EP02-US12</td> 
-		<td rowspan="2">Inicio de sesión</td> 
-		<td>T25</td> 
-		<td>Login básico y sesión</td> 
-		<td>Formulario de login y manejo simple de sesión </td> 
-		<td>4</td> 
-		<td>Piero Elescano</td> 
-		<td>Done</td> 
-	</tr> 
-	<tr> 
-		<td>T26</td> 
-		<td>Guard para dashboard</td> 
-		<td>Bloquear acceso a rutas privadas si no hay sesión válida</td> 
-		<td>2</td> 
-		<td>Piero Elescano</td> 
-		<td>Done</td> 
-	</tr> 
-	<tr>
   <td rowspan="3">EP04-US29</td>
   <td rowspan="3">API de reportes y analíticas</td>
 
