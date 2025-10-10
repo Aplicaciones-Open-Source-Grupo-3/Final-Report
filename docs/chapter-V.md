@@ -605,7 +605,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 		<td rowspan="2">Visualización de tarifas</td> 
 		<td>T21</td> 
 		<td>Servicio de tarifas</td> 
-		<td>Fuente de tarifas por horario/espacio; formateo para el frontend</td> 
+		<td>Fuente de tarifas por placa de carro; formateo para el frontend</td> 
 		<td>3</td> 
 		<td>Piero Elescano</td> 
 		<td>Done</td> 
