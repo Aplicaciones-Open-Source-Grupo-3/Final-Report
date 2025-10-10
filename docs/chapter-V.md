@@ -587,7 +587,7 @@ En esta sección se presenta la elaboración de el artefacto Leadership-andColla
 	<tr> 
 		<td>T19</td> 
 		<td>Tabla de transacciones</td> 
-		<td>Listar fecha, monto, <code>receiptId</code>, espacio y estado; paginación básica</td> 
+		<td>Listar fecha, ubicación y placa del carro; paginación básica</td> 
 		<td>5</td> 
 		<td>Marco Nakasone</td> 
 		<td>Done</td> 
