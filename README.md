@@ -1,9 +1,13 @@
 <div align="center">
   
-# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-# Carrera de Ingeniería de Software - 2520
-## Desarrollo de Aplicaciones Open Source - 1ASI0729
+
 ![UPC_logo_transparente](/assets/images/chapter-I/upc_logo.png)
+
+# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+# Carrera de Ingeniería de Software
+# Periodo 2520
+## 1ASI0729 Desarrollo de Aplicaciones Open Source
+# NRC 7351
 
 # Informe de Trabajo Final
 ### Profesor: Rafael Oswaldo Castro Veramendi
