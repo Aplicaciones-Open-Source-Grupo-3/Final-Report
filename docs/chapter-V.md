@@ -804,12 +804,109 @@ En esta sección, se muestra la evidencia del trabajo colaborativo del equipo de
 <img src="../assets/images/chapter-V/Team Collaboration Insights Sprint 2.png" alt="Team Collaboration Insights Sprint 2" style="width: 900px; margin-right: 900px;"/>
 *Figura 5.2.2.8. Team Collaboration Insights-Sprint 2.*
 
+### 5.2.3. Sprint 3
+En esta sección, se documenta el desarrollo del Sprint 3 en términos de desarrollo del producto y el trabajo colaborativo del equipo. Por lo que se mostrara el Sprint Planning, Sprint Backlog y Development Evidence for Sprint Review.
+
+#### 5.2.3.1. Sprint Planning 3
+A continuación se presenta el cuadro correspondiente al Sprint Planning.
+
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+En esta sección se presenta la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual se muestra al líder y a los colaboradores para el presente Sprint.
+
+
+#### 5.2.3.3. Sprint Backlog 3
+El objetivo principal sprint 3 es realizar la segunda version de la aplicacion web y actualizar el Landing Page, implementando las vistas principales que contiene diferentes componentes para el análisis y las operaciones de nuestros clientes además de migrar a un fakeAPI a un api rest ful. 
+
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+#### 5.2.3.5. Execution evidence for Sprint Review
+En este Sprint 3 se realizo el despliegue de la segunda versión de la aplicación web y la primera versión del backend
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+En esta sección se incluye la relación de los endpoints documentados.
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint.
 
 
 
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+En este sección se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes al desarrollo del proyecto.
 
 
+## 5.3. Validation Interviews
+
+En esta sección se documentan y explican las entrevistas de validación realizadas con los segmentos objetivo de EasyPark. El objetivo es obtener evidencia sobre utilidad, usabilidad, adopción y valor percibido de la solución, validando o refutando las hipótesis de negocio y de usuario definidas en el Lean UX.
+
+### 5.3.1. Design Interviews
+
+#### Preguntas generales
+
+- ¿Cuál es su nombre completo?
+
+- ¿Qué edad tiene?
+
+- ¿A qué se dedica actualmente?
+
+- ¿En qué distrito o ciudad reside?
+
+<br>
+
+#### Preguntas específicas
+
+#### Segmento objetivo 1: Administradores de estacionamientos formales
+
+- ¿Qué le pareció nuestra landing page y nuestra aplicación web?
+
+- ¿Cuál considera que es la función más atractiva o útil? ¿Por qué?
+
+- Si tuviera la posibilidad de cambiar o añadir algo en la landing page o en la aplicación web, ¿qué modificaría o incorporaría?
+
+- ¿Cree que la solución presentada facilita la gestión de estacionamientos y aumenta la transparencia en los cobros? ¿Por qué?
+
+- En cuanto a la landing page, ¿considera que logra persuadir a los administradores a registrarse o solicitar una demo?
+
+- Respecto a la aplicación web, ¿considera que es intuitiva y fácil de usar? ¿Por qué?
+
+- ¿Qué funcionalidades le resultan más útiles dentro de la aplicación?
+
+- ¿Estaría dispuesto a pagar una suscripción mensual por acceder a esta plataforma? ¿Qué rango considera razonable?
+
+- ¿Recomendaría EasyPark a otros administradores de estacionamientos? ¿Por qué?
 
 
+<br>
 
+#### Segmento objetivo 2: Operadores de estacionamientos formales
+
+- ¿Qué le pareció nuestra landing page y nuestra aplicación web?
+
+- ¿Cuál considera que es la función más atractiva o útil? ¿Por qué?
+
+- Si tuviera la posibilidad de cambiar o añadir algo en la landing page o en la aplicación web, ¿qué modificaría o incorporaría?
+
+- ¿Cree que la solución presentada facilitará su trabajo diario en el control de entradas, salidas y cobros? ¿Por qué?
+
+- En cuanto a la landing page, ¿considera que logra persuadir a otros operadores a utilizar la herramienta durante su jornada laboral?
+
+- Respecto a la aplicación web, ¿considera que es intuitiva y rápida al registrar vehículos o generar comprobantes? ¿Por qué?
+
+- ¿Qué funciones adicionales le gustaría que la aplicación incluya para facilitar su trabajo?
+
+- ¿Recomendaría EasyPark a otros operadores o administradores? ¿Por qué?
+
+### 5.3.2. Interview Record
+
+
+### 5.3.3. Evaluation based on heuristics
+Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando heurísticas de usabilidad, arquitectura de información e inclusive design de la experiencia propuesta.
+
+### UX Heuristics & Principles Evaluation
+
+
+## 5.4. Video About the Product
+En esta sección se presenta el video About-theProduct, el cual tiene como público objetivo los usuarios de la aplicacion web que desean conocer sobre el modelo de negocio y las características principales del software.
 
