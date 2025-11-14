@@ -1227,10 +1227,123 @@ En esta sección se documentan y explican las entrevistas de validación realiza
 ### 5.3.2. Interview Record
 
 
-### 5.3.3. Evaluation based on heuristics
-Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando heurísticas de usabilidad, arquitectura de información e inclusive design de la experiencia propuesta.
+# 5.3.3. Evaluaciones según heurísticas
 
-### UX Heuristics & Principles Evaluation
+Carrera: Ingeniería de Software  
+Curso: Desarrollo de Aplicaciones Open Source  
+NRC: 7351  
+Profesor: Rafael Oswaldo Castro Veramendi 
+Auditores: Piero Hugo Elescano Leon, Fátima Belén Florez Shimabukuro
+Cliente(s) / Usuarios objetivo: Administradores y Operadores de estacionamientos: Jose Hurtado
+Site o App a evaluar: EasyPark (Landing Page y aplicacion Frontend)
+
+ESCALA DE SEVERIDAD:  
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+Nivel 1 — Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.  
+Nivel 2 — Problema menor: puede ocurrir con más frecuencia o es más difícil de superar. Se le debería asignar prioridad baja para resolverlo en el siguiente release.  
+Nivel 3 — Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante corregirlo y asignarle prioridad alta.  
+Nivel 4 — Problema muy grave: error de gran impacto que impide al usuario continuar con el uso. Debe corregirse antes del lanzamiento.
+
+Tareas evaluadas:
+1. Visualización de tarifas y planes (Landing / UI de pago)  
+2. Gestión visual de espacios (marcar libre/ocupado/reservado)  
+3. Recepción de notificaciones automáticas (notificaciones de pagos/ocupación)  
+4. Realización de pagos (flujo de cobro y comprobante)  
+5. Autenticación / Roles / Accesos (admin / operator)  
+6. Dashboard & Reports (filtrado, KPIs y export)  
+7. Formulario de contacto (landing)  
+8. Accesibilidad y responsive en Landing y Panel  
+9. Integración Frontend <-> Backend (endpoints, CORS, DTOs)  
+10. Registro y visualización de transacciones
+
+TABLA RESUMEN
+
+| # | Problema | Escala de severidad | Heurística / Principio violado |
+|---:|---|---:|---|
+| 1 | Notificaciones no especifican acción sugerida | 2 | Usabilidad: Ayuda al usuario a reconocer, diagnosticar y recuperarse |
+| 2 | Botones/acciones con etiquetas ambiguas o dependientes de color | 2 | Usabilidad: Correspondencia entre sistema y mundo real |
+| 3 | Falta de accesos rápidos / atajos para usuarios expertos (operadores) | 3 | Usabilidad: Flexibilidad y eficiencia de uso |
+| 4 | Flujo de pago no deja claro estado intermedio (pendiente/confirmado) | 3 | Arquitectura de información: Claridad del flujo |
+| 5 | Mensajes y estados en Analytics vacíos sin empty states claros | 2 | Usabilidad: Manejo de errores y empty state |
+| 6 | Falta de filtros en panel de reportes (por placa, periodo, plan) | 2 | Information Architecture: Is it findable? |
+| 7 | Accesibilidad visual/teclado no indicada en landing ni panel | 2 | Inclusive Design: Accesibilidad y compatibilidad |
+| 8 | Formulario de contacto: validación y feedback poco descriptivo | 1 | Usabilidad: Ayuda y documentación |
+
+DESCRIPCIÓN DE PROBLEMAS
+
+PROBLEMA #1: Notificaciones no especifican acción sugerida  
+Severidad: 2  
+Heurística violada: Usabilidad — Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores  
+Problema: Las notificaciones informan eventos (ej. pago recibido, espacio liberado) pero no indican la acción recomendada (p. ej. "Ver recibo", "Marcar como revisado", "Ir al espacio").  
+Evidencia: EP05-US21 y capturas de Sprint 2/3 mencionan notificaciones sin ejemplos de CTA.  
+Recomendación: Añadir botones/acciones contextuales en las notificaciones (ej. "Ver transacción", "Reintentar pago"), y texto que explique qué ocurre y qué puede hacer el usuario.
+
+PROBLEMA #2: Botones/acciones con etiquetas ambiguas o dependientes de color  
+Severidad: 2  
+Heurística violada: Usabilidad — Correspondencia entre sistema y mundo real  
+Problema: Acciones que dependen solo de color o icono (sin texto localizado) dificultan su comprensión para usuarios hispanohablantes y para quienes usan lectores de pantalla.  
+Evidencia: Uso mixto de etiquetas en inglés en commits y UI; ausencia de labels claros en capturas.  
+Recomendación: Localizar todas las etiquetas (ES/EN), añadir textos claros en botones, title/aria-label y evitar comunicar sólo con color.
+
+PROBLEMA #3: Falta de accesos rápidos / atajos para usuarios expertos (operadores)  
+Severidad: 3  
+Heurística violada: Usabilidad — Flexibilidad y eficiencia de uso  
+Problema: El panel carece de atajos, acciones en lote o vistas guardadas que permitan a operadores realizar tareas repetitivas con mayor velocidad.  
+Evidencia: Backlogs muestran necesidades de refresh y tablas, sin features para workflows rápidos.  
+Recomendación: Implementar acciones por lote (multi-select), filtros/presets guardables y atajos de teclado para tareas frecuentes.
+
+PROBLEMA #4: Flujo de pago no deja claro estado intermedio (pendiente/confirmado)  
+Severidad: 3  
+Heurística violada: Arquitectura de información — Claridad del flujo  
+Problema: No siempre queda claro si una transacción está en estado pendiente en la pasarela o confirmada; esto afecta la liberación/ocupación del espacio.  
+Evidencia: Integraciones en sandbox y endpoints de transacciones documentados pero sin UI que muestre estados intermedios.  
+Recomendación: Mostrar el estado de la transacción (Pendiente / Confirmado / Fallido) con CTAs (ej. "Ver comprobante", "Reintentar") y bloquear/permitir acciones en UI según estado.
+
+PROBLEMA #5: Mensajes y estados en Analytics vacíos sin empty states claros  
+Severidad: 2  
+Heurística violada: Usabilidad — Manejo de errores y empty state  
+Problema: Vistas de Reports/Analytics no presentan mensajes explicativos cuando no existen datos para el periodo seleccionado.  
+Evidencia: EP04-US29 y EP04-US16 incluyen placeholders de gráfica, sin mensajes visibles.  
+Recomendación: Implementar empty states con explicación y CTA (ej. "No hay transacciones en este periodo. Pruebe otro rango" o "Generar reporte demo").
+
+PROBLEMA #6: Falta de filtros en panel de reportes (por placa, periodo, plan)  
+Severidad: 2  
+Heurística violada: Information Architecture — Is it findable?  
+Problema: KPIs y tablas no permiten segmentación por criterios clave (placa, fecha, plan, ubicación), limitando análisis operativo.  
+Evidencia: Backlogs y endpoints de reports existen; falta UI avanzada de filtrado.  
+Recomendación: Añadir filtros por fecha, placa, plan y zonas; permitir guardado de consultas y export (CSV/PDF).
+
+PROBLEMA #7: Accesibilidad visual/teclado no indicada en landing ni panel  
+Severidad: 2  
+Heurística violada: Inclusive Design — Accesibilidad y compatibilidad  
+Problema: No hay evidencia de soporte para navegación por teclado, alto contraste o roles ARIA en la implementación actual.  
+Evidencia: Sprint 1 menciona pruebas básicas, pero no implementaciones concretas en las capturas.  
+Recomendación: Ejecutar auditoría WCAG 2.1 AA, añadir focus states visibles, roles ARIA, etiquetas en formularios y opciones de alto contraste.
+
+PROBLEMA #8: Formulario de contacto: validación y feedback poco descriptivo  
+Severidad: 1  
+Heurística violada: Usabilidad — Ayuda y documentación  
+Problema: El formulario de contacto valida pero muestra mensajes poco descriptivos (ej. "Error") o feedback mínimo tras envío.  
+Evidencia: Sprint 1 incluye formulario con validación básica; faltan mensajes detallados en capturas.  
+Recomendación: Mejorar mensajes (ej. "Correo inválido", "Mensaje enviado — le responderemos en 48h"), conservar datos en caso de error y ofrecer instrucciones claras.
+
+RESUMEN Y PRIORIDADES (sugeridas)
+- Prioridad Alta (corregir antes del próximo release):  
+  - Problema #3: Falta de accesos rápidos / atajos para operadores (impacto en eficiencia).  
+  - Problema #4: Flujo de pago — estados intermedios (impacto en operativa y cobros).  
+
+- Prioridad Media:  
+  - Problema #1: Notificaciones con acciones sugeridas.  
+  - Problema #2: Etiquetas y localización de botones.  
+  - Problema #5: Empty states en Analytics.  
+  - Problema #6: Filtros y export en reports.  
+  - Problema #7: Accesibilidad visual/teclado.
+
+- Prioridad Baja:  
+  - Problema #8: Mejora de validación y feedback en formulario de contacto.
+
+Notas finales: Las recomendaciones priorizan claridad en estados y comunicación, robustez del flujo de pagos e incremento de eficiencia para operadores. Corregir estas áreas aumentará la confianza operativa y la adopción por parte de administradores y operadores.
 
 
 ## 5.4. Video About the Product
