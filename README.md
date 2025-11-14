@@ -8,13 +8,13 @@
 # Periodo 2520
 ## 1ASI0729 Desarrollo de Aplicaciones Open Source
 # NRC 7351
+### Profesor: Rafael Oswaldo Castro Veramendi
 
 # Informe de Trabajo Final
-### Profesor: Rafael Oswaldo Castro Veramendi
 ### Startup: QuickPark
 ### Producto: EasyPark
+### Relación de integrantes:
 
-### Sección: 7351
 
 |           Estudiante             |     Código      |
 |----------------------------------|-----------------|
@@ -24,7 +24,7 @@
 | Paredes Davila, Jose Adrian      |   u202216163    |
 | Nakasone Gomes, Marco Antonio    |   u202210790    |
 
-### **Octubre, 2025**
+### **Noviembre, 2025**
 </div>
 
 # **Registro de Versiones Del Informe**
