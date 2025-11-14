@@ -1224,7 +1224,109 @@ En esta sección se documentan y explican las entrevistas de validación realiza
 
 - ¿Recomendaría EasyPark a otros operadores o administradores? ¿Por qué?
 
-### 5.3.2. Interview Record
+### 5.3.2. Registro de Entrevistas
+
+#### Segmento objetivo 1
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Martín </td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Valencia</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>48 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Lima</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/assets/images/chapter-V/Entrevista Valencia.png" alt="Entrevista Valencia"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1zJTT5kyMeCwEDMOKtx9UdpXRcdtpkav4" title="Title">Video</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td> 23:55 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>.
+</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Juan</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Silva</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>35 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Lima</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/assets/images/chapter-V/Entrevista Silva.png" alt="Entrevista Silva"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1WPyO_ixq1PctpIsgpixXIn7zYHYTA6jD" title="Title">Video</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td> 10:30 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>.
+</td>
+  </tr>
+</tbody>
+</table>
 
 
 # 5.3.3. Evaluaciones según heurísticas
