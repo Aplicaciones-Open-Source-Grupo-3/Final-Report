@@ -7,6 +7,8 @@
 
 - Link de la presentacion de TP1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313354_upc_edu_pe/EdqsmmkE8DdMoZOoV_ctXSwBONOrQZO82AF5rSfgZLdTRA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=3Qnvdq
 
+- Link de la presentacion de TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313354_upc_edu_pe/IQAU6TUwZaCeSIPZbYaUVE4PAco5nI6X3y2v5g6vS7zk2U8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ROf8f9
+
 - Link de la presentacion de la aplicacion web 1: https://shorturl.at/azCTO
 
 - Link de la presentacion de la aplicacion web 2: https://shorturl.at/UCKvD
