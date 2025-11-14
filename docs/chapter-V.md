@@ -1132,15 +1132,39 @@ En este Sprint 3 se realizo el despliegue de la segunda versión de la aplicaci�
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 En esta sección se incluye la relación de los endpoints documentados.
 
+<img src="/assets/images/chapter-V/backend_1.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 5.2.3.6-1. Endpoints del Backend.*
+
+<img src="/assets/images/chapter-V/backend_2.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 5.2.3.6-2. Endpoints del Backend.*
+
+<img src="/assets/images/chapter-V/backend_3.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 5.2.3.6-3. Endpoints del Backend.*
+
+<img src="/assets/images/chapter-V/backend_4.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 5.2.3.6-4. Endpoints del Backend.*
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
-En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint.
+En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint. En este caso se utilizo el servicio de Render para el despliegue del backend.
 
+<img src="/assets/images/chapter-V/render_1.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
 
+*Figura 5.2.3.7-1. Despliegue en Render*
+
+<img src="/assets/images/chapter-V/render_2.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 5.2.3.7-2. Despliegue en Render*
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 En este sección se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes al desarrollo del proyecto.
 
+<img src="../assets/images/chapter-V/Team Collaboration Insights Sprint 2.png" alt="Team Collaboration Insights Sprint 2" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 5.2.3.8. Team Collaboration Insights-Sprint 3.*
 
 ## 5.3. Validation Interviews
 
@@ -1149,7 +1173,6 @@ En esta sección se documentan y explican las entrevistas de validación realiza
 ### 5.3.1. Design Interviews
 
 #### Preguntas generales
-
 - ¿Cuál es su nombre completo?
 
 - ¿Qué edad tiene?
@@ -1157,7 +1180,6 @@ En esta sección se documentan y explican las entrevistas de validación realiza
 - ¿A qué se dedica actualmente?
 
 - ¿En qué distrito o ciudad reside?
-
 <br>
 
 #### Preguntas específicas
@@ -1181,7 +1203,6 @@ En esta sección se documentan y explican las entrevistas de validación realiza
 - ¿Estaría dispuesto a pagar una suscripción mensual por acceder a esta plataforma? ¿Qué rango considera razonable?
 
 - ¿Recomendaría EasyPark a otros administradores de estacionamientos? ¿Por qué?
-
 
 <br>
 
