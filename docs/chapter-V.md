@@ -810,16 +810,321 @@ En esta sección, se documenta el desarrollo del Sprint 3 en términos de desarr
 #### 5.2.3.1. Sprint Planning 3
 A continuación se presenta el cuadro correspondiente al Sprint Planning.
 
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Sprint #</strong></td>
+			<td>Sprint 3</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>Sprint Planning Background</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Date</strong></td>
+			<td>2025-11-05</td>
+		</tr>
+		<tr>
+			<td><strong>Time</strong></td>
+			<td>10:30 AM</td>
+		</tr>
+		<tr>
+			<td><strong>Location</strong></td>
+			<td>Remote mode through the GitHub platform</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>Prepared by</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Attendees (to planning meeting)</strong></td>
+			<td>All members of EasyPark</td>
+		</tr>
+		<tr>
+			<td><strong>Sprint 2 Review Summary</strong></td>
+			<td>Se entregó la versión inicial del Front End con panel de operador, vistas de Reports, gestión de espacios y despliegues en Netlify / Kobey (json-server). La UI consume datos mock (db.json) y cuenta con i18n EN/ES.</td>
+		</tr>
+		<tr>
+			<td><strong>Sprint 2 Retrospective Summary</strong></td>
+			<td>Buena división de tareas y despliegues rápidos; se identificó la necesidad de contratos API estables, pruebas de integración y automatización de despliegue del backend. Mejorar manejo de errores y documentación de endpoints.</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Sprint 3 Goal</strong></td>
+			<td>Migrar el proyecto desde la Fake API (<code>json-server / db.json</code>) a una API RESTful propia (primera versión del backend), incluyendo persistencia real (MySQL), contenedorización (Docker), endpoints principales, documentación y despliegue. Actualizar el Front End para consumir la nueva API, manejar CORS, variables de entorno y pruebas de integración básicas.</td>
+		</tr>
+		<tr>
+			<td><strong>Sprint 3 Velocity</strong></td>
+			<td>10</td>
+		</tr>
+		<tr>
+			<td><strong>Sum of Story points</strong></td>
+			<td>20</td>
+		</tr>
+	</tbody>
+</table>
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
 En esta sección se presenta la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual se muestra al líder y a los colaboradores para el presente Sprint.
 
+| Team Member (Last Name, First Name) | GitHub Username | Landing page |
+| ------------------------------------|-----------------|-------------------------------------------|
+| Elescano Leon, Piero Hugo | PieroHugo | L |
+| Espinoza Chavez, Moises Filemon |MoisesECh| C | 
+| Florez Shimabukuro, Fátima Belén |PengwinKingdom| C |
+| Nakasone Gomes, Marco Antonio  | marquinho04 | C | 
+| Paredes Davila, Jose Adrian  | joseadro09 | C | 
+
+*Tabla 5.2.3.2. Aspect Leaders and Collaborators*
 
 #### 5.2.3.3. Sprint Backlog 3
-El objetivo principal sprint 3 es realizar la segunda version de la aplicacion web y actualizar el Landing Page, implementando las vistas principales que contiene diferentes componentes para el análisis y las operaciones de nuestros clientes además de migrar a un fakeAPI a un api rest ful. 
+El objetivo principal del Sprint 3 es migrar la API falsa (json-server / db.json) a una API RESTful propia (primera versión del backend) usando MySQL para persistencia, y actualizar el Front End para consumirla; a continuación se detalla el backlog adaptado a esos objetivos.
+
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Sprint #</strong></td>
+			<td colspan="7">Sprint 3</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>User Story</strong></td>
+			<td colspan="6"><strong>Work-item / Task</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Id</strong></td>
+			<td><strong>Title</strong></td>
+			<td><strong>Id</strong></td>
+			<td><strong>Title</strong></td>
+			<td><strong>Description</strong></td>
+			<td><strong>Estimation (Hours)</strong></td>
+			<td><strong>Assisgned To</strong></td>
+			<td><strong>Status (To-do / In- Porcess / To-review / Done)</strong></td>
+		</tr>
+		<tr>
+			<td rowspan="2">EP06-US30</td>
+			<td rowspan="2">Scaffold y configuración del backend</td>
+			<td>T40</td>
+			<td>Inicializar repositorio Backend</td>
+			<td>Crear repositorio esqueleto (README, .gitignore, estructura de carpetas, CI básico)</td>
+			<td>2</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T41</td>
+			<td>Configuración base (framework, Dockerfile, .env.example)</td>
+			<td>Seleccionar framework (Express/Nest/otro), configurar proyecto base, Dockerfile y .env.example</td>
+			<td>6</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">EP06-US31</td>
+			<td rowspan="2">Persistencia de datos (MySQL)</td>
+			<td>T42</td>
+			<td>Modelo y migraciones MySQL</td>
+			<td>Definir modelos (users, parks, spaces, transactions, plans, subscriptions) y crear migraciones para MySQL</td>
+			<td>6</td>
+			<td>Marco Nakasone</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T43</td>
+			<td>Script de carga inicial desde db.json</td>
+			<td>Script para transformar y cargar datos de db.json a la base MySQL (seed)</td>
+			<td>4</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">EP06-US32</td>
+			<td rowspan="2">Autenticación y autorización</td>
+			<td>T44</td>
+			<td>Endpoints Auth (login/register, refresh token)</td>
+			<td>Implementar JWT, hash de contraseñas, validaciones y respuestas estándar</td>
+			<td>6</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T45</td>
+			<td>Guards / middlewares de autorización</td>
+			<td>Middlewares para proteger rutas (role based) y tests básicos</td>
+			<td>3</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">EP06-US33</td>
+			<td rowspan="3">Gestión de espacios</td>
+			<td>T46</td>
+			<td>CRUD espacios (libre/ocupado/reservado)</td>
+			<td>Endpoints para listar, crear, actualizar y eliminar espacios; esquema y validaciones</td>
+			<td>5</td>
+			<td>Marco Nakasone</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T47</td>
+			<td>Endpoint para marcar espacio libre tras pago</td>
+			<td>Endpoint que actualiza el estado del espacio después de confirmar transacción</td>
+			<td>3</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T48</td>
+			<td>Evento para refresco de ocupación (opcional mínimo)</td>
+			<td>Implementar mecanismo simple (WebSocket o SSE) para notificar cambios de ocupación al frontend</td>
+			<td>4</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">EP06-US34</td>
+			<td rowspan="3">Transacciones y pagos</td>
+			<td>T49</td>
+			<td>Endpoints transacciones (crear/listar/filtrar)</td>
+			<td>Registrar pagos, asociar a espacio/cliente y devolver recibo; filtros por fecha/placa</td>
+			<td>6</td>
+			<td>Marco Nakasone</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T50</td>
+			<td>Integración básica con pasarela (modo sandbox) / simulador</td>
+			<td>Integración en modo sandbox o simulador para pruebas end-to-end de pago</td>
+			<td>6</td>
+			<td>Moisés Chávez</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T51</td>
+			<td>Manejo de errores y rollbacks</td>
+			<td>Transacciones DB, manejo de errores y rollback en casos de fallo parcial</td>
+			<td>3</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">EP06-US35</td>
+			<td rowspan="2">Servicio de tarifas</td>
+			<td>T52</td>
+			<td>Endpoints tarifas y cálculo por placa</td>
+			<td>Exponer tarifas vigentes y endpoint para cálculo de tarifa por período/placa</td>
+			<td>4</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T53</td>
+			<td>Migración/transformación de las tarifas desde json-server</td>
+			<td>Transformar reglas y datos de tarifas del json-server a la nueva estructura MySQL</td>
+			<td>2</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">EP06-US36</td>
+			<td rowspan="3">API de reportes y analíticas</td>
+			<td>T54</td>
+			<td>Endpoints /reports, /subscriptions, /plans</td>
+			<td>Exponer datos agregados (KPIs) para panel administrativo</td>
+			<td>5</td>
+			<td>Fátima Florez</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T55</td>
+			<td>DTOs y mapeos para frontend</td>
+			<td>Diseñar DTOs, mapeos y respuestas optimizadas para consumo por el frontend</td>
+			<td>3</td>
+			<td>Fátima Florez / Jose Paredes</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T56</td>
+			<td>Manejo de empty states y errores (mensajes i18n)</td>
+			<td>Mensajes y estados coherentes (EN/ES) para respuestas vacías o errores</td>
+			<td>3</td>
+			<td>Equipo (en general)</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">EP06-US37</td>
+			<td rowspan="3">Calidad: documentación, tests y despliegue</td>
+			<td>T57</td>
+			<td>OpenAPI/Swagger y documentación de endpoints</td>
+			<td>Generar especificación OpenAPI mínima, ejemplos y README de uso</td>
+			<td>4</td>
+			<td>Fátima Florez</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T58</td>
+			<td>Tests de integración básicos (API)</td>
+			<td>Tests para endpoints críticos (auth, transacciones, spaces) en CI</td>
+			<td>6</td>
+			<td>Moisés Chávez / Fátima Florez</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T59</td>
+			<td>Workflow CI (build, lint, run tests) y Docker Compose</td>
+			<td>Pipeline CI y docker-compose para entorno de desarrollo (app + MySQL)</td>
+			<td>5</td>
+			<td>Moisés Chávez</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">EP06-US38</td>
+			<td rowspan="3">Actualizar Front End para nueva API</td>
+			<td>T60</td>
+			<td>Actualizar servicios para consumir nuevos endpoints</td>
+			<td>Refactor de servicios (DataService/AnalyticsService), ajustar DTOs y rutas del frontend</td>
+			<td>6</td>
+			<td>Piero Elescano / Fátima Florez</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T61</td>
+			<td>Manejo de CORS, variables de entorno y configuración de despliegue</td>
+			<td>Configurar CORS en backend, variables en Netlify/Kobey y archivos .env</td>
+			<td>3</td>
+			<td>Piero Elescano / Moisés Chávez</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T62</td>
+			<td>Pruebas de integración Frontend &lt;-&gt; Backend en staging</td>
+			<td>Validación end-to-end en staging (Kobey/Netlify) y ajuste de errores</td>
+			<td>6</td>
+			<td>Equipo (todos)</td>
+			<td>Done</td>
+		</tr>
+	</tbody>
+</table>
+
+*Tabla 5.2.3.3. Sprint Backlog 3.*
 
 
 #### 5.2.3.4. Development Evidence for Sprint Review
+
+| Repository                        | Branch                  | Commit Message                                                         | Commited on  |
+|-----------------------------------|-------------------------|------------------------------------------------------------------------|--------------|
+| PieroHugo/easypark-platform       | main                    | initial commit: backend scaffold (project structure, README)           | 2025-11-05   |
+| MoisesECh/easypark-platform       | feature/IAM            | feat(iam): add JWT authentication, login and register endpoints       | 2025-11-07   |
+| marquinho04/easypark-platform     | feature/mysql-migrations| feat(db): add MySQL models, schema and migrations                      | 2025-11-08   |
+| PieroHugo/easypark-platform       | feature/seeds           | feat(seeds): script to import/transform db.json and seed MySQL         | 2025-11-09   |
+| MoisesECh/easypark-platform       | feature/payments        | feat(payments): add transactions endpoints and sandbox gateway adapter | 2025-11-10   |
+| PengwinKingdom/easypark-platform  | feature/reports         | feat(reports): add /reports, /subscriptions and /plans endpoints       | 2025-11-11   |
+| PieroHugo/easypark-platform       | feature/docker          | chore: add Dockerfile, docker-compose and local dev compose file       | 2025-11-11   |
+| PengwinKingdom/easypark-platform  | feature/openapi         | docs: add OpenAPI (Swagger) specification and examples                  | 2025-11-12   |
+| MoisesECh/easypark-platform       | ci/setup-tests          | test(ci): add basic integration tests for auth, transactions, spaces   | 2025-11-13   |
+| PieroHugo/easypark-platform       | deploy/render-config    | chore: add Render deployment config, healthcheck and environment docs  | 2025-11-13   |
+| marquinho04/easypark-platform     | fix/cors             | fix(cors): allow frontend origin and add CORS middleware               | 2025-11-14   |
+
+*Tabla 5.2.3.4. Development Evidence for Sprint Review.*
 
 #### 5.2.3.5. Execution evidence for Sprint Review
 En este Sprint 3 se realizo el despliegue de la segunda versión de la aplicación web y la primera versión del backend
