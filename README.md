@@ -1,16 +1,19 @@
 <div align="center">
   
-# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-# Carrera de Ingeniería de Software - 2520
-## Desarrollo de Aplicaciones Open Source - 1ASI0729
 ![UPC_logo_transparente](/assets/images/chapter-I/upc_logo.png)
 
-# Informe de Trabajo Final
+# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+# Carrera de Ingeniería de Software
+# Periodo 2520
+## 1ASI0729 Desarrollo de Aplicaciones Open Source
+# NRC 7351
 ### Profesor: Rafael Oswaldo Castro Veramendi
+
+# Informe de Trabajo Final
 ### Startup: QuickPark
 ### Producto: EasyPark
+### Relación de integrantes:
 
-### Sección: 7351
 
 |           Estudiante             |     Código      |
 |----------------------------------|-----------------|
@@ -20,7 +23,7 @@
 | Paredes Davila, Jose Adrian      |   u202216163    |
 | Nakasone Gomes, Marco Antonio    |   u202210790    |
 
-### **Octubre, 2025**
+### **Noviembre, 2025**
 </div>
 
 # **Registro de Versiones Del Informe**
