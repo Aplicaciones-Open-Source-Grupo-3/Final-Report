@@ -67,6 +67,8 @@ Se presenta el reporte de colaboracion por miembro del equipo
   - **Link de Landing Page:** https://aplicaciones-open-source-grupo-3.github.io/Landing-Page/
 
   - **Link de la aplicacion web:** https://easypark24.netlify.app/
+
+  - **Link del backend:** https://easypark-platform.onrender.com/swagger-ui/index.html
     
 # Student Outcome
 
