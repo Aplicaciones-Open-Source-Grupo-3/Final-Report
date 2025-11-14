@@ -1226,7 +1226,7 @@ En esta sección se documentan y explican las entrevistas de validación realiza
 
 ### 5.3.2. Registro de Entrevistas
 
-#### Segmento objetivo 1
+### Segmento Objetivo: Administradores de estacionamientos formales
 
 <table>
 <colgroup>
@@ -1271,7 +1271,7 @@ En esta sección se documentan y explican las entrevistas de validación realiza
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>.
+    <td> En la entrevista con el administrador Martín Valencia, comentó que la landing page y la aplicación web le parecieron profesionales, aunque sugirió utilizar colores más vivos, ya que el diseño actual es oscuro. Destacó como funciones útiles el dashboard, el registro de placas y la opción de marcar la salida de vehículos. Además, mencionó que le gustaría que exista un apartado para que los propios clientes del estacionamiento puedan ver sus horas acumuladas y el monto por pagar. Como mejoras, propuso habilitar correctamente la conversión de moneda y facilitar la descarga de reportes en Excel o PDF. Señaló que estaría dispuesto a pagar por probar la plataforma durante un mes para evaluar su funcionamiento real. Finalmente, afirmó que sí recomendaría la solución, pues considera que facilita el control del estacionamiento y profesionaliza la gestión diaria.
 </td>
   </tr>
 </tbody>
@@ -1322,7 +1322,7 @@ En esta sección se documentan y explican las entrevistas de validación realiza
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>.
+    <td> En la entrevista con Juan Silva señaló que la landing page y aplicación web le parecieron profesionales, claras y bien organizadas, generándole una buena impresión inicial. Destacó especialmente el dashboard en tiempo real y la contabilidad automática, funciones que considera muy útiles para la gestión diaria de un estacionamiento. Como sugerencias, recomendó añadir comparaciones de ingresos y un video demostrativo en la landing page. Confirmó que la solución facilita la transparencia y reduce errores en los cobros. Además, indicó que la plataforma es intuitiva y fácil de usar, y que estaría dispuesto a pagar entre S/ 70 y S/ 120 mensuales. Finalmente, afirmó que sí recomendaría EasyPark a otros administradores debido a su utilidad y profesionalismo.
 </td>
   </tr>
 </tbody>
