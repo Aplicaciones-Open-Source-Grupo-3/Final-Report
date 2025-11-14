@@ -14,7 +14,6 @@
 ### Startup: QuickPark
 ### Producto: EasyPark
 
-### Sección: 7351
 
 |           Estudiante             |     Código      |
 |----------------------------------|-----------------|
