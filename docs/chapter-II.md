@@ -331,44 +331,156 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
 ### 2.2.2. Registro de entrevistas
 
 ### Segmento Objetivo: Administradores de estacionamientos formales
-**Entrevista N°1**
 
- - Entrevistado(a): Juan Silva
- - Entrevistador(a): Fátima Florez
- - Sexo: Masculino
- - Edad: 20
- - Residencia: Lima
- - Enlace de entrevista: https://drive.google.com/file/d/17NHnsQ4T1Du7G9GpeS7d45qLDx6n4Xr-
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Juan</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Silva</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>35 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Lima</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/assets/images/chapter-II/Entrevista-Silva.png" alt="Entrevista-Silva"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://drive.google.com/file/d/17NHnsQ4T1Du7G9GpeS7d45qLDx6n4Xr-" title="Title">Video</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td> 2:29 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Juan utiliza tickets, cuadernos y ocasionalmente Excel, lo que dificulta obtener reportes claros. Ha tenido reclamos frecuentes por cobros, por lo que considera clave la transparencia y reportes confiables. Valora mucho los dashboards en tiempo real y estaría dispuesto a pagar una suscripción si la herramienta es segura, fácil de usar y estable.
+</td>
+  </tr>
+</tbody>
+</table>
 
-**_Informe de resumen:_**  
-Juan utiliza tickets, cuadernos y ocasionalmente Excel, lo que dificulta obtener reportes claros. Ha tenido reclamos frecuentes por cobros, por lo que considera clave la transparencia y reportes confiables. Valora mucho los dashboards en tiempo real y estaría dispuesto a pagar una suscripción si la herramienta es segura, fácil de usar y estable.
 
 
-**Entrevista N°2**
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Martín</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Valencia</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>48 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Lima</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/assets/images/chapter-II/Entrevista-Valencia.png" alt="Entrevista-Valencia"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://drive.google.com/file/d/13RPVBQpBmqsQWVZD0t3meHPWkvA-OQ7y" title="Title">Video</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td> 10:31 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Martín gestiona actualmente los cobros mediante POS y registra los pagos en cuadernos, sin contar con un sistema digital centralizado. Reconoce la utilidad de incorporar reportes automatizados en Excel y dashboards en tiempo real para el propietario. No ha tenido pérdidas ni conflictos recurrentes, pero valora la seguridad, la facilidad de uso y la confiabilidad de una plataforma. Está dispuesto a pagar una suscripción siempre que el precio sea razonable.
+</td>
+  </tr>
+</tbody>
+</table>
 
- - Entrevistado(a): Martín Valencia
- - Entrevistador(a): Fátima Florez
- - Sexo: Masculino
- - Edad: 48
- - Residencia: Lima
- - Enlace de entrevista: https://drive.google.com/file/d/13RPVBQpBmqsQWVZD0t3meHPWkvA-OQ7y
 
-**_Informe de resumen:_**  
-Martín gestiona actualmente los cobros mediante POS y registra los pagos en cuadernos, sin contar con un sistema digital centralizado. Reconoce la utilidad de incorporar reportes automatizados en Excel y dashboards en tiempo real para el propietario. No ha tenido pérdidas ni conflictos recurrentes, pero valora la seguridad, la facilidad de uso y la confiabilidad de una plataforma. Está dispuesto a pagar una suscripción siempre que el precio sea razonable.
 
 ### Segmento Objetivo: Operadores de estacionamientos formales
-**Entrevista N°3**
 
- - Entrevistado(a): Schneider Ayala Torres
- - Entrevistador(a): Moisés Espinoza
- - Sexo: Masculino
- - Edad: 25 años
- - Residencia: Lima
- - Enlace de entrevista:
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221383_upc_edu_pe/EfUVABti3VRNgAXI-H_mzv4Bfo61kDKIRKFperED0RLE_Q?e=ZOqKgZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Schneider</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Ayala Torres</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>25 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Lima</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221383_upc_edu_pe/EfUVABti3VRNgAXI-H_mzv4Bfo61kDKIRKFperED0RLE_Q?e=ZOqKgZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Video</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td> 3 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Schneider Ayala Torres trabaja como operador en un estacionamiento de un centro comercial, donde su principal tarea es el control y registro del ingeso y salida de los vehiculos que usan el estacionamiento. Ademas, cree que una aplicacion como EasyPark seria de gran ayuda para que pueda realizar mejor sus labores, donde podria gestionar mejor el control vehicular con un significativo ahorro de tiempo.
+</td>
+  </tr>
+</tbody>
+</table>
 
-**_Informe de resumen:_**  
-Schneider Ayala Torres trabaja como operador en un estacionamiento de un centro comercial, donde su principal tarea es el control y registro del ingeso y salida de los vehiculos que usan el estacionamiento. Ademas, cree que una aplicacion como EasyPark seria de gran ayuda para que pueda realizar mejor sus labores, donde podria gestionar mejor el control vehicular con un significativo ahorro de tiempo.
 
 ### 2.2.3. Análisis de entrevistas
 
