@@ -1454,3 +1454,5 @@ En esta sección se presenta el video About-theProduct, el cual tiene como públ
 Link del video: https://shorturl.at/JDrJQ
 
 <img src="/assets/images/chapter-V/about.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 5.4. Video Abput the Product*
