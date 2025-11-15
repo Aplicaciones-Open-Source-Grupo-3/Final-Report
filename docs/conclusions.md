@@ -22,7 +22,6 @@ A continuación, se detallan las principales conclusiones extraídas del trabajo
 
 7. **Identificación de oportunidades de mejora**  
    Aunque se cumplieron los objetivos, el equipo reconoció la importancia de seguir mejorando los flujos de comunicación, la estimación de tiempos y la documentación técnica de los servicios. Esto permitirá enfrentar con mayor eficacia los retos de los siguientes sprints, donde la complejidad técnica aumentará al abordar el backend y los servicios centrales del sistema.
-   
 
 8. **Implementación del front end con Angular**
 Durante este sprint se desarrolló exitosamente la interfaz principal del sistema utilizando Angular, consolidando la arquitectura modular y escalable del proyecto. Se implementaron componentes reutilizables, enrutamiento dinámico, comunicación entre servicios y manejo de datos reactivos, garantizando una experiencia fluida y consistente para el usuario. Además, se priorizó la aplicación de buenas prácticas de desarrollo y la organización por capas (presentation, domain, application e infrastructure), facilitando la mantenibilidad y evolución del código.
@@ -39,7 +38,7 @@ Durante el proceso, se llevaron a cabo pruebas funcionales que permitieron verif
 12. **Fortalecimiento del trabajo en equipo y gestión técnica**
 La colaboración se mantuvo activa mediante GitHub, donde se gestionaron ramas, pull requests y revisiones de código. Este flujo de trabajo fortaleció la coordinación entre los miembros y fomentó el aprendizaje colectivo en torno al framework Angular y las prácticas de despliegue continuo. La asignación equilibrada de tareas y la comunicación constante permitieron cumplir con los tiempos estimados sin comprometer la calidad del producto.
 
-13. **Perspectivas para próximos sprints**
-Con el front end ya operativo y desplegado, el siguiente reto se centrará en la integración del backend y la conexión con las APIs del sistema. Se proyecta optimizar el rendimiento, añadir funcionalidades dinámicas y fortalecer la seguridad de la aplicación. El aprendizaje obtenido en este sprint servirá como base sólida para enfrentar las siguientes etapas con mayor eficiencia técnica y cohesión de equipo.
+13. **Despliegue exitoso del Backend**
+Con el backend ya operativo y desplegado se logro la integración del backend y la conexión con las APIs del sistema. Se optimizo el rendimiento agregando funcionalidades dinámicas y fortaleciendo la seguridad de la aplicación. El aprendizaje obtenido en este sprint servirá como base sólida para enfrentar las siguientes etapas con mayor eficiencia técnica y cohesión de equipo.
 
 
