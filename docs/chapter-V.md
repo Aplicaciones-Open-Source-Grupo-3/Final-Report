@@ -1450,4 +1450,7 @@ Notas finales: Las recomendaciones priorizan claridad en estados y comunicación
 
 ## 5.4. Video About the Product
 En esta sección se presenta el video About-theProduct, el cual tiene como público objetivo los usuarios de la aplicacion web que desean conocer sobre el modelo de negocio y las características principales del software.
+
+Link del video: https://shorturl.at/JDrJQ
+
 <img src="/assets/images/chapter-V/about.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
