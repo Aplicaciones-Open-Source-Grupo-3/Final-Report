@@ -1240,10 +1240,12 @@ Se documenta el trabajo colaborativo y las fases clave del Sprint 4, abarcando e
     </tr>
     <tr>
       <td><strong>Sum of Story points</strong></td>
-      <td>18</td>
+      <td>19</td>
     </tr>
   </tbody>
 </table>
+
+*Tabla 5.2.4.1. Sprint Planning 4.*
 
 
 #### 5.2.4.2. Aspect Leaders and Collaborators.
@@ -1257,6 +1259,7 @@ En esta sección se presenta la elaboración del artefacto Leadership-and-Collab
 | Nakasone Gomes, Marco Antonio       | marquinho04      | **C** (Collaborator – Security Review & Data Integrity) |
 | Paredes Davila, Jose Adrian         | joseadro09       | **C** (Collaborator – Concurrency Control & Code Review) |
 
+*Tabla 5.2.4.2. Aspect Leaders and Collaborators.*
 
 #### 5.2.4.3. Sprint Backlog 4
 
@@ -1371,7 +1374,7 @@ En esta sección se presenta la elaboración del artefacto Leadership-and-Collab
   </tr> 
 </table>
 
-
+*Tabla 5.2.4.3. Sprint Backlog 4.*
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
