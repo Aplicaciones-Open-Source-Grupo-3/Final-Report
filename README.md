@@ -4,7 +4,8 @@
 ![UPC_logo_transparente](/assets/images/chapter-I/upc_logo.png)
 
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-# Carrera de Ingeniería de Software
+# Facultad:
+# Carrera: Ingeniería de Software
 # Periodo 2520
 ## 1ASI0729 Desarrollo de Aplicaciones Open Source
 # NRC 7351
