@@ -4,20 +4,21 @@
 ![UPC_logo_transparente](/assets/images/chapter-I/upc_logo.png)
 
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-# Facultad:
+# Facultad: Ingeniería
 # Carrera: Ingeniería de Software
 # Periodo 2520
-## 1ASI0729 Desarrollo de Aplicaciones Open Source
-# NRC 7351
-### Profesor: Rafael Oswaldo Castro Veramendi
+# Código del curso: 1ASI0729 
+# Nombre del curso: Desarrollo de Aplicaciones Open Source
+# NRC: 7351
+# Nombre del profesor: Rafael Oswaldo Castro Veramendi
 
 # Informe de Trabajo Final
-### Startup: QuickPark
-### Producto: EasyPark
+### Nombre del startup: QuickPark
+### Nombre del producto: EasyPark
 ### Relación de integrantes:
 
 
-|           Estudiante             |     Código      |
+|       Apellidos y Nombres        |     Código      |
 |----------------------------------|-----------------|
 | Elescano Leon, Piero Hugo        |   u202313354    |
 | Florez Shimabukuro, Fátima Belén |   u202320610    |
@@ -25,7 +26,7 @@
 | Paredes Davila, Jose Adrian      |   u202216163    |
 | Nakasone Gomes, Marco Antonio    |   u202210790    |
 
-### **Noviembre, 2025**
+### **Diciembre, 2025**
 </div>
 
 # **Registro de Versiones Del Informe**
