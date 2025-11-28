@@ -1166,6 +1166,224 @@ En este sección se evidencia como el equipo a trabajado de manera colaborativa 
 
 *Figura 5.2.3.8. Team Collaboration Insights-Sprint 3.*
 
+
+### 5.2.4. Sprint 4
+
+Se documenta el trabajo colaborativo y las fases clave del Sprint 4, abarcando el sprint planning, las mejoras incrementales realizadas y la retrospectiva final. Este sprint se enfoca en fortalecer la calidad, estabilidad y seguridad del sistema EasyPark mediante la implementación de automatización de pruebas, optimización del backend, control de concurrencia, validación de integridad de datos, documentación técnica y la configuración de pipelines CI/CD.
+
+#### 5.2.4.1. Sprint Planning 4
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Sprint #</strong></td>
+      <td>Sprint 4</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Spring Planning Background</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Date</strong></td>
+      <td>2025-12-03</td>
+    </tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td>10:30 AM</td>
+    </tr>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Remote mode through the GitHub platform</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Prepared by</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Attendees (to planinning meeting)</strong></td>
+      <td>All members of EasyPark</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 3 Review Summary</strong></td>
+      <td>
+        The team successfully delivered the first version of the RESTful API,
+        migrated the system from mock data (<code>db.json</code>) to a real backend,
+        configured MySQL persistence, implemented Docker containers, documented
+        the main endpoints, and updated the Frontend to consume the new API with
+        environment variables and CORS handling.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 3 Retrospective Summary</strong></td>
+      <td>
+        The migration to the backend was completed, but the team identified the 
+        need to improve stability, performance, documentation, testing practices,
+        and error handling. It was also noted that CI/CD pipelines and security
+        analysis need to be implemented to reduce deployment issues.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 4 Goal</strong></td>
+      <td>
+        Improve the overall quality and stability of EasyPark by implementing automated 
+        testing, strengthening API versioning and data integrity, improving concurrency 
+        handling, generating technical documentation, reinforcing security, and 
+        optimizing CI/CD pipelines for a more robust production-ready system.
+      </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+      <td><strong>Sprint 4 Velocity</strong></td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><strong>Sum of Story points</strong></td>
+      <td>18</td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+En esta sección se presenta la elaboración del artefacto Leadership-and-Collaboration Matrix (LACX), el cual muestra al líder y los colaboradores asignados para este Sprint 4.
+
+| Team Member (Last Name, First Name) | GitHub Username | Sprint 4 Role |
+|-------------------------------------|------------------|-----------------------------|
+| Elescano Leon, Piero Hugo           | PieroHugo        | **L** (Leader – Backend Optimization & API Versioning) |
+| Espinoza Chavez, Moises Filemon     | MoisesECh        | **C** (Collaborator – CI/CD & Automated Backend Tests) |
+| Florez Shimabukuro, Fátima Belén    | PengwinKingdom   | **C** (Collaborator – Frontend Tests & Documentation) |
+| Nakasone Gomes, Marco Antonio       | marquinho04      | **C** (Collaborator – Security Review & Data Integrity) |
+| Paredes Davila, Jose Adrian         | joseadro09       | **C** (Collaborator – Concurrency Control & Code Review) |
+
+
+#### 5.2.4.3. Sprint Backlog 4
+
+<table> 
+  <tr> 
+    <td><strong>Sprint #</strong></td> 
+    <td colspan="7">Sprint 4</td> 
+  </tr> 
+  <tr> 
+    <td colspan="2"><strong>User Story</strong></td> 
+    <td colspan="6"><strong>Work-item / Task</strong></td> 
+  </tr> 
+  <tr> 
+    <td><strong>Id</strong></td> 
+    <td><strong>Title</strong></td> 
+    <td><strong>Id</strong></td> 
+    <td><strong>Title</strong></td> 
+    <td><strong>Description</strong></td> 
+    <td><strong>Estimation (Hours)</strong></td> 
+    <td><strong>Assigned To</strong></td> 
+    <td><strong>Status (To-do / In-Process / To-review / Done)</strong></td> 
+  </tr> 
+  <tr> 
+    <td rowspan="2">US14</td> 
+    <td rowspan="2">Visualización de dashboard</td> 
+    <td>T60</td> 
+    <td>Vehicle type en Dashboard</td> 
+    <td>Corregir la visualización del tipo de vehículo en el Dashboard para que las motos no aparezcan como “auto-camioneta”.</td> 
+    <td>4</td> 
+    <td>Marco Nakasone</td> 
+    <td>Done</td> 
+  </tr> 
+  <tr> 
+    <td>T61</td> 
+    <td>Símbolo de moneda en KPIs</td> 
+    <td>Ajustar los KPIs de Dashboard (Total Revenue, métricas de ingresos) para que no se muestre siempre “S/” y se use el símbolo según la moneda seleccionada.</td> 
+    <td>5</td> 
+    <td>Piero Elescano</td> 
+    <td>Done</td> 
+  </tr> 
+  <tr> 
+    <td rowspan="2">US15</td> 
+    <td rowspan="2">Gestión visual de espacios</td> 
+    <td>T62</td> 
+    <td>Corrección de tipo de vehículo en Parking</td> 
+    <td>Ajustar la lógica del módulo Parking para que el tipo de vehículo se guarde correctamente (Cars/Trucks vs Motorcycles) al registrar un nuevo ingreso.</td> 
+    <td>4</td> 
+    <td>Jose Paredes</td> 
+    <td>Done</td> 
+  </tr> 
+  <tr> 
+    <td>T63</td> 
+    <td>Sincronización Parking–Dashboard</td> 
+    <td>Alinear los datos de vehicle type entre Parking y Dashboard para que ambos muestren el mismo valor correcto.</td> 
+    <td>3</td> 
+    <td>Jose Paredes</td> 
+    <td>Done</td> 
+  </tr> 
+  <tr> 
+    <td rowspan="2">US19</td> 
+    <td rowspan="2">Visualización de tarifas</td> 
+    <td>T64</td> 
+    <td>Selector de moneda</td> 
+    <td>Implementar o corregir el selector de moneda (soles, dólares, euros) para tarifas y totales visibles en Dashboard, Parking, Accounting, Clients y Reports.</td> 
+    <td>5</td> 
+    <td>Moisés Espinoza</td> 
+    <td>Done</td> 
+  </tr> 
+  <tr> 
+    <td>T65</td> 
+    <td>Símbolo de moneda en vistas</td> 
+    <td>Actualizar la UI de Accounting y Clients para mostrar el símbolo de moneda correcto según la conversión seleccionada y no fijar siempre “S/”.</td> 
+    <td>4</td> 
+    <td>Fátima Florez</td> 
+    <td>Done</td> 
+  </tr> 
+  <tr> 
+    <td rowspan="2">US29</td> 
+    <td rowspan="2">API de reportes y analíticas</td> 
+    <td>T66</td> 
+    <td>Cálculo de Average Stay</td> 
+    <td>Corregir el cálculo y actualización de “Average stay” en Reports para que se refleje correctamente con los datos recientes.</td> 
+    <td>5</td> 
+    <td>Piero Elescano</td> 
+    <td>Done</td> 
+  </tr> 
+  <tr> 
+    <td>T67</td> 
+    <td>Total Revenue multi-moneda</td> 
+    <td>Ajustar el cálculo y la respuesta del endpoint de Total Revenue para soportar múltiples monedas y enviar el símbolo correcto al frontend.</td> 
+    <td>4</td> 
+    <td>Moisés Espinoza</td> 
+    <td>Done</td> 
+  </tr> 
+  <tr> 
+    <td rowspan="2">US31</td> 
+    <td rowspan="2">Validación de integridad de datos</td> 
+    <td>T68</td> 
+    <td>Validación de vehicle type</td> 
+    <td>Implementar validaciones en backend para asegurar que los tipos de vehículo solo puedan ser valores válidos y registrar intentos de datos inconsistentes.</td> 
+    <td>3</td> 
+    <td>Marco Nakasone</td> 
+    <td>Done</td> 
+  </tr> 
+  <tr> 
+    <td>T69</td> 
+    <td>Validación de filtros en Accounting</td> 
+    <td>Corregir y validar el filtro “Cars/Trucks” y “Motorcycles” en Accounting para que filtren correctamente los registros.</td> 
+    <td>4</td> 
+    <td>Fátima Florez</td> 
+    <td>Done</td> 
+  </tr> 
+</table>
+
+
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
 ## 5.3. Validation Interviews
 
 En esta sección se documentan y explican las entrevistas de validación realizadas con los segmentos objetivo de EasyPark. El objetivo es obtener evidencia sobre utilidad, usabilidad, adopción y valor percibido de la solución, validando o refutando las hipótesis de negocio y de usuario definidas en el Lean UX.
