@@ -217,6 +217,16 @@ En el siguiente cuadro se detallan las acciones realizadas y las conclusiones al
 ##### [5.2.3.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#5237-software-deployment-evidence-for-sprint-review)
 ##### [5.2.3.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5238-team-collaboration-insights-during-sprint)
 
+#### [5.2.4. Sprint 4](/docs/chapter-V.md/#523-sprint-4)
+##### [5.2.4.1. Sprint Planning 4](/docs/chapter-V.md/#5231-sprint-planning-4)
+##### [5.2.4.2. Aspect Leaders and Collaborators](/docs/chapter-V.md/#5242-aspect-leaders-and-collaborators)
+##### [5.2.4.3. Sprint Backlog 4](/docs/chapter-V.md/#5233-sprint-backlog-4)
+##### [5.2.4.4. Development Evidence for Sprint Review](/docs/chapter-V.md/#5244-development-evidence-for-sprint-review)
+##### [5.2.4.5. Execution Evidence for Sprint Review](/docs/chapter-V.md/#5245-execution-evidence-for-sprint-review)
+##### [5.2.4.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5246-services-documentation-evidence-for-sprint-review)
+##### [5.2.4.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#5247-software-deployment-evidence-for-sprint-review)
+##### [5.2.4.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5248-team-collaboration-insights-during-sprint)
+
 ### [5.3. Validation Interviews](/docs/chapter-V.md/#53-validation-interviews)
 #### [5.3.1. Design Interviews](/docs/chapter-V.md/#531-design-interviews)
 #### [5.3.2. Interview Record](/docs/chapter-V.md/#532-interview-record)
