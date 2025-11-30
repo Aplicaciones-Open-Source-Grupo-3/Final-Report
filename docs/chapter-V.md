@@ -1399,23 +1399,41 @@ Para el Sprint 4 se presenta la evidencia de desarrollo asociada a las mejoras d
 En este Sprint 4 se realizo el despliegue de la versión final de la aplicación web y la versión final del backend
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
-En esta sección se incluye la relación de los endpoints documentados.
+En esta seccion se presentan las principales vistas del front end
+
+<img src="/assets/images/chapter-V/frontend1.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 5.2.4.6-1. Frontend.*
+
+<img src="/assets/images/chapter-V/frontend2.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 5.2.4.6-2. Frontend.*
+
+<img src="/assets/images/chapter-V/frontend3.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 5.2.4.6-3. Frontend.*
+
+<img src="/assets/images/chapter-V/frontend4.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
+
+*Figura 5.2.4.6-4. Frontend.*
+
+En esta sección se incluye la relación de los endpoints documentados del back end.
 
 <img src="/assets/images/chapter-V/backend_1.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
 
-*Figura 5.2.4.6-1. Endpoints del Backend.*
+*Figura 5.2.4.6-6. Endpoints del Backend.*
 
 <img src="/assets/images/chapter-V/backend_2.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
 
-*Figura 5.2.4.6-2. Endpoints del Backend.*
+*Figura 5.2.4.6-7. Endpoints del Backend.*
 
 <img src="/assets/images/chapter-V/backend_3.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
 
-*Figura 5.2.4.6-3. Endpoints del Backend.*
+*Figura 5.2.4.6-8. Endpoints del Backend.*
 
 <img src="/assets/images/chapter-V/backend_4.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
 
-*Figura 5.2.4.6-4. Endpoints del Backend.*
+*Figura 5.2.4.6-9. Endpoints del Backend.*
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint. 
