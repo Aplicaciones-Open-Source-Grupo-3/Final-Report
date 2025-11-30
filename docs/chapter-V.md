@@ -1380,9 +1380,17 @@ En esta sección se presenta la elaboración del artefacto Leadership-and-Collab
 
 Para el Sprint 4 se presenta la evidencia de desarrollo asociada a las mejoras de calidad, estabilidad y consistencia de datos en EasyPark. Los commits se enfocaron en la corrección de la visualización de tipos de vehículo, la estandarización del manejo de moneda en frontend y backend, la validación de integridad de datos y el ajuste de KPIs en la sección de Reports, asegurando que las métricas se calculen y muestren.
 
-| Repository                        | Branch                  | Commit Message                                                         | Commited on  |
-|-----------------------------------|-------------------------|------------------------------------------------------------------------|--------------|
-| P       | main                    |            | 2025-11-05   |
+| Repository                        | Branch                      | Commit Message                                                             | Commited on  |
+|-----------------------------------|-----------------------------|----------------------------------------------------------------------------|--------------|
+| marquinho04/Frontend-app          | analytics                   | fix(dashboard): correct motorcycle vehicleType label                       | 2025-12-04   |
+| PieroHugo/Frontend-app            | analytics                   | feat(dashboard): dynamic currency symbol for revenue KPIs                  | 2025-12-04   |
+| MoisesECh/Frontend-app            | admin-menu                  | feat(settings): implement global currency selector (PEN/USD/EUR)           | 2025-12-05   |
+| PengwinKingdom/Frontend-app       | reports                     | fix(ui): update currency symbols in Accounting and Clients                 | 2025-12-06   |
+| PieroHugo/easypark-platform       | feature/reports-kpis        | fix(reports): correct Average Stay KPI logic and computation window        | 2025-12-07   |
+| MoisesECh/easypark-platform       | feature/multi-currency      | feat(reports): add multi-currency support to Total Revenue endpoint        | 2025-12-07   |
+| marquinho04/easypark-platform     | fix/vehicle-type-validation | feat(validation): enforce valid vehicleType and register inconsistent data | 2025-12-08   |
+| PengwinKingdom/Frontend-app       | reports                     | fix(filters): correct Cars/Trucks vs Motorcycles filter in Accounting      | 2025-12-08   |
+| PieroHugo/Frontend-app            | develop                     | chore(integration): align frontend KPIs with updated backend schema        | 2025-12-09   |
 
 
 *Tabla 5.2.4.4. Development Evidence for Sprint Review.*
