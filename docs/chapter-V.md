@@ -1378,7 +1378,17 @@ En esta sección se presenta la elaboración del artefacto Leadership-and-Collab
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
+Para el Sprint 4 se presenta la evidencia de desarrollo asociada a las mejoras de calidad, estabilidad y consistencia de datos en EasyPark. Los commits se enfocaron en la corrección de la visualización de tipos de vehículo, la estandarización del manejo de moneda en frontend y backend, la validación de integridad de datos y el ajuste de KPIs en la sección de Reports, asegurando que las métricas se calculen y muestren.
+
+| Repository                        | Branch                  | Commit Message                                                         | Commited on  |
+|-----------------------------------|-------------------------|------------------------------------------------------------------------|--------------|
+| P       | main                    |            | 2025-11-05   |
+
+
+*Tabla 5.2.4.4. Development Evidence for Sprint Review.*
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
+
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
