@@ -1424,6 +1424,8 @@ Para el despligue del backend se utilizo el servicio de Render.
 
 Para el despliegue del frontend se utilizo el servicio de Netlify
 
+<img src="/assets/images/chapter-V/netlify_1.png" alt="Reports 93" style="width: 900px; margin-right: 900px;"/>
+
 *Figura 5.2.4.7-3. Despliegue en Netlify*
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
