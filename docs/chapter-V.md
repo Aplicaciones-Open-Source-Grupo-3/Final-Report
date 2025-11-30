@@ -1541,7 +1541,7 @@ En esta sección se documentan y explican las entrevistas de validación realiza
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1zJTT5kyMeCwEDMOKtx9UdpXRcdtpkav4" title="Title">Video</p></td>
+    <td>https://tinyurl.com/926uurmc</td>
   </tr>
   <tr>
     <td>Duracion<br></td>
@@ -1592,7 +1592,7 @@ En esta sección se documentan y explican las entrevistas de validación realiza
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1WPyO_ixq1PctpIsgpixXIn7zYHYTA6jD" title="Title">Video</p></td>
+    <td>https://tinyurl.com/9hnsw4x8</td>
   </tr>
   <tr>
     <td>Duracion<br></td>
