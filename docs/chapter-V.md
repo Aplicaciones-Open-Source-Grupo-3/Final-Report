@@ -1665,7 +1665,7 @@ En esta sección se documentan y explican las entrevistas de validación realiza
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1JNKrDoH4XPiLXE_5kRCwRf2_qqwSaSvF/view?usp=drive_link" 			title="Title">Video</p></td>
+    <td>https://tinyurl.com/3a7b8hta</td>
   </tr>
   <tr>
     <td>Duracion<br></td>
