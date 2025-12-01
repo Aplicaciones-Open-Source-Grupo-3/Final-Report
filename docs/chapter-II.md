@@ -435,7 +435,7 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
   </tr>
 </tbody>
 </table>
-
+</br>
 
 
 ### Segmento Objetivo: Operadores de estacionamientos formales
@@ -470,12 +470,16 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
     <td>Zoom</td>
   </tr>
   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/assets/images/chapter-II/imagen-entrevista-2.png" alt="imagen-entrevista-2"></div></td>
+  </tr>
+  <tr>
     <td>Link</td>
     <td>https://tinyurl.com/3mwhwdfn</td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td> 3 min </td>
+    <td> 6:55 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -484,6 +488,60 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
   </tr>
 </tbody>
 </table>
+
+
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Juan</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Rojas</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>26 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Lima</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/assets/images/chapter-II/imagen-entrevista.png" alt="imagen-entrevista"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>https://tinyurl.com/44kvuta5</td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td> 9:17 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Juan se desempeña supervisando el flujo de vehículos, asignando los espacios disponibles y realizando los cobros correspondientes
+            por lo que tiene que anotar los detalles del auto en una planilla. Se enfrenta a problemas con el registro manual de vehiculos y con los tickets. Juan mencionó también, que no tiene problema con la tecnología, pero no quiere una herramienta que le complique más el proceso. Debido a esto cree que una aplicacion como EasyPark sería beneficiosa mientras sea una app práctica y le permita registrar un vehículo rápido y sin confusiones, ya que se sentiría bastante cómodo.
+</td>
+  </tr>
+</tbody>
+</table>
+
 
 
 ### 2.2.3. Análisis de entrevistas
