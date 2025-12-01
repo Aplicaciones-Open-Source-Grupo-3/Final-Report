@@ -57,6 +57,9 @@
 | 3.0     | 08/10/2025  | Elescano Leon, Piero Hugo            | Cierre de Sprint 2: Despliegue exitoso de la primera versión de la aplicación web frontend.      |
 | 3.1     | 05/11/2025  | Elescano Leon, Piero Hugo; Nakasone Gomes, Marco Antonio   | Actualización del frontend: refactor de componentes, mejoras de accesibilidad y rendimiento. Migración desde una fake API a una API REST; adaptación de llamadas y documentación técnica. |
 | 3.2     | 14/11/2025  | Elescano Leon, Piero Hugo; Espinoza Chávez, Moisés Filemón; Florez Shimabukuro, Fátima Belén; Nakasone Gomes, Marco Antonio | Despliegue del frontend en Render, ajustes de configuración para producción, actualización de la documentación del despliegue y correcciones menores. Se actualiza la lista de integrantes en el README. |
+| 3.3     | 27/11/2025  | Elescano Leon, Piero Hugo; Florez Shimabukuro, Fátima Belén; Espinoza Chávez, Moisés Filemón; Nakasone Gomes, Marco Antonio | Cierre del Sprint 4: finalización de tareas planificadas, revisión de objetivos, resolución de incidencias, pruebas finales y retrospectiva. |
+| 3.4     | 28/11/2025  | Elescano Leon, Piero Hugo; Florez Shimabukuro, Fátima Belén; Espinoza Chávez, Moisés Filemón; Nakasone Gomes, Marco Antonio | Despliegue final - Frontend: despliegue a producción con configuración de hosting, CI/CD, certificados HTTPS, gestión de variables de entorno y verificación de rutas, assets y rendimiento. |
+| 3.5     | 29/11/2025  | Elescano Leon, Piero Hugo; Florez Shimabukuro, Fátima Belén; Espinoza Chávez, Moisés Filemón; Nakasone Gomes, Marco Antonio | Despliegue final - Backend: despliegue a producción, migraciones y verificación de base de datos, configuración de entornos y secretos, monitoreo inicial, y pruebas de integración end-to-end. |
 
 # Project Report Collaboration Insights 
 Se presenta el reporte de colaboracion por miembro del equipo
