@@ -3,7 +3,7 @@
 A continuación, se detallan las principales conclusiones extraídas del trabajo:
 
 1. **Definición y ejecución exitosa del alcance**  
-   El equipo logró cumplir con todos los objetivos planteados en el Sprint Planning, entregando la landing page completamente funcional y con todas las secciones esenciales implementadas: información general, características, planes y precios y enlaces a redes sociales. Todas las historias de usuario priorizadas fueron completadas, lo que refleja una adecuada planificación y gestión del backlog.
+   El equipo logró cumplir con todos los objetivos planteados en todos los Sprint Planning, entregando la landing page, frontend y backend completamente funcional y con todas las secciones esenciales implementadas. Todas las historias de usuario priorizadas fueron completadas, lo que refleja una adecuada planificación y gestión del backlog.
 
 2. **Trabajo colaborativo y asignación de roles**  
    Se evidenció un alto nivel de colaboración entre los miembros del equipo. Cada integrante asumió tareas específicas según sus habilidades, cumpliendo con los tiempos estimados y manteniendo una comunicación constante a través de la plataforma de GitHub y reuniones virtuales. El uso del artefacto "Leadership-and-Collaboration Matrix" permitió una clara visibilidad de responsables y colaboradores, fortaleciendo el sentido de pertenencia y compromiso.
