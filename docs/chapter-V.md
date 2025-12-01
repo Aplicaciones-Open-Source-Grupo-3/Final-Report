@@ -1635,7 +1635,7 @@ En esta sección se documentan y explican las entrevistas de validación realiza
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #1<br></th>
+    <th colspan="2">Entrevista #3<br></th>
   </tr>
 </thead>
 <tbody>
