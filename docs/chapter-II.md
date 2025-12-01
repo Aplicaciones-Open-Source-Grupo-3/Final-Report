@@ -418,7 +418,11 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
   </tr>
   <tr>
     <td>Link</td>
+
+    <td>https://tinyurl.com/bdhpkjdp</td>
+
    <td>https://tinyurl.com/bdhpkjdp</td>
+
   </tr>
   <tr>
     <td>Duracion<br></td>
