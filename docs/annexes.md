@@ -14,3 +14,7 @@
 - Link de la presentacion de la aplicacion web 2: https://shorturl.at/UCKvD
 
 - Link del video About the product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313354_upc_edu_pe/IQBBGyRRb9zbS5zlo8eFCxEEAQmfmgfipCiRamj0Hgfw92c?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DKSbTH
+
+- Link de la presentacion de TF1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313354_upc_edu_pe/IQArV9iLZ2AaQ4k325ylhIS3AY15Hxrr4ts5z69Vp1qtdlk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=haGalg
+  
+- Link About the team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313354_upc_edu_pe/IQCfoRqVXytVRYrWVqIa2YVRASLs9PFz9t3ixah2FpJ2CU0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DRrJR5

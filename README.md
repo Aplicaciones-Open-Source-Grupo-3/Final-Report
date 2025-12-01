@@ -4,19 +4,21 @@
 ![UPC_logo_transparente](/assets/images/chapter-I/upc_logo.png)
 
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-# Carrera de Ingeniería de Software
+# Facultad: Ingeniería
+# Carrera: Ingeniería de Software
 # Periodo 2520
-## 1ASI0729 Desarrollo de Aplicaciones Open Source
-# NRC 7351
-### Profesor: Rafael Oswaldo Castro Veramendi
+# Código del curso: 1ASI0729 
+# Nombre del curso: Desarrollo de Aplicaciones Open Source
+# NRC: 7351
+# Nombre del profesor: Rafael Oswaldo Castro Veramendi
 
 # Informe de Trabajo Final
-### Startup: QuickPark
-### Producto: EasyPark
+### Nombre del startup: QuickPark
+### Nombre del producto: EasyPark
 ### Relación de integrantes:
 
 
-|           Estudiante             |     Código      |
+|       Apellidos y Nombres        |     Código      |
 |----------------------------------|-----------------|
 | Elescano Leon, Piero Hugo        |   u202313354    |
 | Florez Shimabukuro, Fátima Belén |   u202320610    |
@@ -24,7 +26,7 @@
 | Paredes Davila, Jose Adrian      |   u202216163    |
 | Nakasone Gomes, Marco Antonio    |   u202210790    |
 
-### **Noviembre, 2025**
+### **Diciembre, 2025**
 </div>
 
 # **Registro de Versiones Del Informe**
@@ -55,6 +57,9 @@
 | 3.0     | 08/10/2025  | Elescano Leon, Piero Hugo            | Cierre de Sprint 2: Despliegue exitoso de la primera versión de la aplicación web frontend.      |
 | 3.1     | 05/11/2025  | Elescano Leon, Piero Hugo; Nakasone Gomes, Marco Antonio   | Actualización del frontend: refactor de componentes, mejoras de accesibilidad y rendimiento. Migración desde una fake API a una API REST; adaptación de llamadas y documentación técnica. |
 | 3.2     | 14/11/2025  | Elescano Leon, Piero Hugo; Espinoza Chávez, Moisés Filemón; Florez Shimabukuro, Fátima Belén; Nakasone Gomes, Marco Antonio | Despliegue del frontend en Render, ajustes de configuración para producción, actualización de la documentación del despliegue y correcciones menores. Se actualiza la lista de integrantes en el README. |
+| 3.3     | 27/11/2025  | Elescano Leon, Piero Hugo; Florez Shimabukuro, Fátima Belén; Espinoza Chávez, Moisés Filemón; Nakasone Gomes, Marco Antonio | Cierre del Sprint 4: finalización de tareas planificadas, revisión de objetivos, resolución de incidencias, pruebas finales y retrospectiva. |
+| 3.4     | 28/11/2025  | Elescano Leon, Piero Hugo; Florez Shimabukuro, Fátima Belén; Espinoza Chávez, Moisés Filemón; Nakasone Gomes, Marco Antonio | Despliegue final - Frontend: despliegue a producción con configuración de hosting, CI/CD, certificados HTTPS, gestión de variables de entorno y verificación de rutas, assets y rendimiento. |
+| 3.5     | 29/11/2025  | Elescano Leon, Piero Hugo; Florez Shimabukuro, Fátima Belén; Espinoza Chávez, Moisés Filemón; Nakasone Gomes, Marco Antonio | Despliegue final - Backend: despliegue a producción, migraciones y verificación de base de datos, configuración de entornos y secretos, monitoreo inicial, y pruebas de integración end-to-end. |
 
 # Project Report Collaboration Insights 
 Se presenta el reporte de colaboracion por miembro del equipo
@@ -85,31 +90,84 @@ En el siguiente cuadro se detallan las acciones realizadas y las conclusiones al
   </tr>
   <tr>
     <td rowspan="4">Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
-    <td>Elescano Leon, Piero Hugo:<br>TB1: Expuso con claridad las ideas y avances sobre la estructuración y diseño de la landing page durante las reuniones de equipo, asegurando la comprensión de todos y promoviendo la toma de decisiones conjunta.<br><br>TP1: Presentó ante el equipo la nueva versión del Landing Page, explicando con claridad los cambios aplicados respecto al Sprint anterior, la mejora en la estructura de componentes y la organización del código según los principios de diseño y buenas prácticas. Además, explicó la integración del backend simulado con JSON Server.<br><br>TB2: Expuso el refactor del frontend, demostró la integración con la API REST y realizó la presentación del sitio desplegado en Render, respondiendo preguntas técnicas del equipo y coordinando pruebas en entorno de producción.</td> 
-    <td rowspan="4">TB1: La comunicación oral efectiva dentro del equipo facilitó la comprensión de ideas, permitió la resolución rápida de dudas y contribuyó a una mejor coordinación en el desarrollo de la landing page, adaptándose al nivel de conocimiento de cada miembro.<br><br>TP1: El equipo demostró una comunicación oral clara y efectiva al exponer los avances del Sprint 2, explicar decisiones técnicas y presentar el Landing Page y la Web App. Cada integrante mostró dominio del contenido y capacidad para adaptar su discurso según la audiencia, evidenciando trabajo colaborativo y seguridad en sus presentaciones.<br><br>TB2: Las presentaciones y demos orales sobre la migración a API REST y el despliegue en Render facilitaron la comprensión técnica del proceso, permitieron una coordinación efectiva para la puesta en producción y agilizaron la resolución de incidencias durante y después del despliegue.</td>
-  </tr> 
-  <tr>
-    <td><br>Florez Shimabukuro, Fátima Belén:<br>TB1: Participó activamente en las presentaciones internas, explicando el enfoque visual y la experiencia de usuario de la landing page de manera accesible para todos los integrantes y ajustando su mensaje según la audiencia.<br><br>TP1: Expuso las funcionalidades principales de la primera versión del Frontend Web Application, explicando el flujo de navegación, el uso de componentes reutilizables y la interacción del JSON Server. Durante la revisión del sprint, comunicó el enfoque del diseño y la aplicación de los principios de Single Page Application (SPA).<br><br>TB2: Realizó el walkthrough de los cambios de interfaz, explicó las mejoras de accesibilidad implementadas y justificó decisiones de diseño ante el equipo y stakeholders durante la demo del sitio en Render.</td>
+    <td>
+      Elescano Leon, Piero Hugo:<br>
+      TB1: Expuso con claridad las ideas y avances sobre la estructuración y diseño de la landing page durante las reuniones de equipo, asegurando la comprensión de todos y promoviendo la toma de decisiones conjunta.<br><br>
+      TP1: Presentó ante el equipo la nueva versión del Landing Page, explicando con claridad los cambios aplicados respecto al Sprint anterior, la mejora en la estructura de componentes y la organización del código según los principios de diseño y buenas prácticas. Además, explicó la integración del backend simulado con JSON Server.<br><br>
+      TB2: Expuso el refactor del frontend, demostró la integración con la API REST y realizó la presentación del sitio desplegado en Render, respondiendo preguntas técnicas del equipo y coordinando pruebas en entorno de producción.<br><br>
+      TF1: Presentó la defensa final del proyecto ante evaluadores y stakeholders, realizó la demo integrada frontend-backend, respondió preguntas técnicas y coordinó la demostración en producción, asegurando la comprensión de audiencias técnicas y no técnicas.
+    </td>
+    <td rowspan="4">
+      El equipo demostró habilidades de comunicación oral efectivas para distintos públicos: las exposiciones internas y externas, demos y sesiones de retroalimentación facilitaron la comprensión de decisiones técnicas y de diseño, permitieron la coordinación durante despliegues y pruebas, y apoyaron la resolución rápida de incidencias. Además, la defensa final evidenció capacidad de síntesis, adaptación del discurso según la audiencia y seguridad en la presentación de resultados.
+    </td>
   </tr>
   <tr>
-    <td><br>Espinoza Chávez, Moisés Filemón:<br>TB1: Lideró sesiones de retroalimentación presentando los avances en la integración de contenidos y funcionalidades, utilizando un lenguaje claro y estructurado para asegurar el entendimiento de todo el equipo.<br><br>TP1: Comunicó los resultados del proceso de validación interna del Frontend y del Landing Page. Explicó los hallazgos encontrados al probar las interfaces y justificó las correcciones aplicadas en base a observaciones del Sprint anterior. Evidenció comprensión del flujo funcional del sistema y la importancia de la mejora continua en el desarrollo web.<br><br>TB2: Explicó el contrato de la nueva API REST, mostró ejemplos de llamadas y evidencias de pruebas funcionales durante la sesión de revisión, aclarando el impacto de los cambios en las integraciones del frontend.</td>
+    <td>
+      Florez Shimabukuro, Fátima Belén:<br>
+      TB1: Participó activamente en las presentaciones internas, explicando el enfoque visual y la experiencia de usuario de la landing page de manera accesible para todos los integrantes y ajustando su mensaje según la audiencia.<br><br>
+      TP1: Expuso las funcionalidades principales de la primera versión del Frontend Web Application, explicando el flujo de navegación, el uso de componentes reutilizables y la interacción del JSON Server. Durante la revisión del sprint, comunicó el enfoque del diseño y la aplicación de los principios de Single Page Application (SPA).<br><br>
+      TB2: Realizó el walkthrough de los cambios de interfaz, explicó las mejoras de accesibilidad implementadas y justificó decisiones de diseño ante el equipo y stakeholders durante la demo del sitio en Render.<br><br>
+      TF1: Expuso el diseño final y la justificación de decisiones UX/UI en la presentación del trabajo final, atendió preguntas de evaluadores sobre accesibilidad y usabilidad, y presentó ejemplos comparativos entre versiones.
+    </td>
   </tr>
   <tr>
-    <td><br>Nakasone Gomes, Marco Antonio:<br>TB1: Moderó discusiones del grupo sobre el diseño y la estructura, comunicando de manera efectiva las conclusiones y próximos pasos, manteniendo un ambiente participativo y claro.<br><br>TP1: Explicó la planificación del sprint, los objetivos del incremento y la distribución de roles en el equipo, mostrando seguridad y claridad. También presentó los principales avances del proyecto en el Stage Review, utilizando un lenguaje adecuado.<br><br>TB2: Coordinó y explicó el proceso de despliegue en Render, la configuración de entorno, estrategias de rollback y monitoreo, y lideró la comunicación técnica con el equipo durante la puesta en producción.</td>
+    <td>
+      Espinoza Chávez, Moisés Filemón:<br>
+      TB1: Lideró sesiones de retroalimentación presentando los avances en la integración de contenidos y funcionalidades, utilizando un lenguaje claro y estructurado para asegurar el entendimiento de todo el equipo.<br><br>
+      TP1: Comunicó los resultados del proceso de validación interna del Frontend y del Landing Page. Explicó los hallazgos encontrados al probar las interfaces y justificó las correcciones aplicadas en base a observaciones del Sprint anterior. Evidenció comprensión del flujo funcional del sistema y la importancia de la mejora continua en el desarrollo web.<br><br>
+      TB2: Explicó el contrato de la nueva API REST, mostró ejemplos de llamadas y evidencias de pruebas funcionales durante la sesión de revisión, aclarando el impacto de los cambios en las integraciones del frontend.<br><br>
+      TF1: Presentó los resultados finales de pruebas e integración, detallando evidencias de testeo, cobertura de pruebas y la estabilidad de las integraciones en producción, respondiendo consultas técnicas de evaluadores.
+    </td>
   </tr>
+  <tr>
+    <td>
+      Nakasone Gomes, Marco Antonio:<br>
+      TB1: Moderó discusiones del grupo sobre el diseño y la estructura, comunicando de manera efectiva las conclusiones y próximos pasos, manteniendo un ambiente participativo y claro.<br><br>
+      TP1: Explicó la planificación del sprint, los objetivos del incremento y la distribución de roles en el equipo, mostrando seguridad y claridad. También presentó los principales avances del proyecto en el Stage Review, utilizando un lenguaje adecuado.<br><br>
+      TB2: Coordinó y explicó el proceso de despliegue en Render, la configuración de entorno, estrategias de rollback y monitoreo, y lideró la comunicación técnica con el equipo durante la puesta en producción.<br><br>
+      TF1: Coordinó y presentó la estrategia de despliegue final ante evaluadores, detallando decisiones de infraestructura, monitoreo y planes de contingencia, y respondió preguntas técnicas relacionadas con la operación en producción.
+    </td>
+  </tr>
+
   <tr>
     <td rowspan="4">Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
-    <td><br> Elescano Leon, Piero Hugo:<br>TB1: Redactó reportes de avance sobre el desarrollo de la landing page, utilizando un lenguaje técnico adecuado para el público objetivo, lo cual facilitó el seguimiento del progreso del equipo.<br><br>TP1: Documentó en el informe final las modificaciones aplicadas al Landing Page, indicando versión, fecha, responsables y justificación de cada cambio en el Registro de Versiones. Detalló las mejoras implementadas, con capturas de pantalla y fragmentos de código, y actualizó la sección de Servicios y Despliegue, mostrando la URL del sitio publicado.<br><br>TB2: Documentó las modificaciones del frontend, actualizó la guía de consumo de la API REST (endpoints, ejemplos y notas de integración) y registró los pasos de despliegue y configuración para Render en el repositorio.</td>
-    <td rowspan="4">TB1: La comunicación escrita efectiva permitió documentar adecuadamente el desarrollo de la landing page, compartir información relevante con precisión y mantener informados a todos los interesados, adaptando el contenido y el nivel de detalle según la audiencia.<br><br>TP1: Se evidenció una comunicación escrita técnica y coherente en la documentación. Los integrantes redactaron informes, registros y evidencias con claridad, aplicando buenas prácticas, gramática adecuada y lenguaje profesional. La actualización de artefactos y reportes reflejó mejora continua y compromiso con la calidad del proyecto.<br><br>TB2: La documentación escrita (guías de migración, especificaciones de API y procedimientos de despliegue) permitió transferir conocimiento al equipo, reducir errores en la integración y facilitar la reproducibilidad y mantenimiento del entorno de producción.</td>
+    <td>
+      Elescano Leon, Piero Hugo:<br>
+      TB1: Redactó reportes de avance sobre el desarrollo de la landing page, utilizando un lenguaje técnico adecuado para el público objetivo, lo cual facilitó el seguimiento del progreso del equipo.<br><br>
+      TP1: Documentó en el informe final las modificaciones aplicadas al Landing Page, indicando versión, fecha, responsables y justificación de cada cambio en el Registro de Versiones. Detalló las mejoras implementadas, con capturas de pantalla y fragmentos de código, y actualizó la sección de Servicios y Despliegue, mostrando la URL del sitio publicado.<br><br>
+      TB2: Documentó las modificaciones del frontend, actualizó la guía de consumo de la API REST (endpoints, ejemplos y notas de integración) y registró los pasos de despliegue y configuración para Render en el repositorio.<br><br>
+      TF1: Redactó y consolidó la versión final del informe y anexos, revisó y unificó el Registro de Versiones, añadió evidencias finales (capturas, logs y resultados de pruebas) y verificó la coherencia y formato académico del documento.
+    </td>
+    <td rowspan="4">
+      La comunicación escrita del equipo fue clara, coherente y adecuada para distintos públicos: la documentación técnica, guías de despliegue, especificaciones de API y el informe final permitieron la transferencia de conocimiento, facilitaron la integración y garantizaron la reproducibilidad de despliegues y pruebas. La consolidación final de los documentos aporta un recurso completo y organizado para evaluación y mantenimiento futuro.
+    </td>
   </tr>
   <tr>
-    <td><br> Florez Shimabukuro, Fátima Belén:<br>TB1: Elaboró documentos que describían las decisiones de diseño visual y experiencia de usuario, asegurándose de que fueran comprensibles tanto para el equipo como para los asesores externos.<br><br>TP1: Describió la arquitectura del Frontend, detallando la estructura de carpetas, la conexión con el servidor simulado y el uso de Angular. Mantuvo el control de versiones con GitFlow, registrando commits descriptivos y actualizando el Sprint Backlog con evidencia de tareas completadas. Redactó con claridad técnica y siguiendo las convenciones del proyecto.<br><br>TB2: Redactó las decisiones de diseño y los cambios en accesibilidad tras la migración, incluyendo ejemplos visuales y comparativos frente a la versión anterior para facilitar la comprensión y revisión.</td>
+    <td>
+      Florez Shimabukuro, Fátima Belén:<br>
+      TB1: Elaboró documentos que describían las decisiones de diseño visual y experiencia de usuario, asegurándose de que fueran comprensibles tanto para el equipo como para los asesores externos.<br><br>
+      TP1: Describió la arquitectura del Frontend, detallando la estructura de carpetas, la conexión con el servidor simulado y el uso de Angular. Mantuvo el control de versiones con GitFlow, registrando commits descriptivos y actualizando el Sprint Backlog con evidencia de tareas completadas. Redactó con claridad técnica y siguiendo las convenciones del proyecto.<br><br>
+      TB2: Redactó las decisiones de diseño y los cambios en accesibilidad tras la migración, incluyendo ejemplos visuales y comparativos frente a la versión anterior para facilitar la comprensión y revisión.<br><br>
+      TF1: Elaboró y entregó la documentación final de diseño (guías visuales, especificaciones de accesibilidad y assets finales), y aseguró que los recursos gráficos y documentos estuvieran listos y correctamente referenciados en el informe final.
+    </td>
   </tr>
   <tr>
-    <td><br> Espinoza Chávez, Moisés Filemón:<br>TB1: Participó en la redacción de la documentación del proyecto, estructurando los contenidos de manera lógica y clara para facilitar su entendimiento por distintas audiencias.<br><br>TP1: Actualizó las versiones corregidas de artefactos previos reflejando los cambios aplicados en el Sprint 2. Además, documentó en el Project Collaboration Insights cómo las actividades del equipo fueron implementadas. La redacción mostró orden y precisión.<br><br>TB2: Elaboró la especificación de la API REST (endpoints, parámetros, ejemplos de request/response) y preparó el registro de la migración desde la fake API, incluyendo pruebas y logs relevantes.</td>
+    <td>
+      Espinoza Chávez, Moisés Filemón:<br>
+      TB1: Participó en la redacción de la documentación del proyecto, estructurando los contenidos de manera lógica y clara para facilitar su entendimiento por distintas audiencias.<br><br>
+      TP1: Actualizó las versiones corregidas de artefactos previos reflejando los cambios aplicados en el Sprint 2. Además, documentó en el Project Collaboration Insights cómo las actividades del equipo fueron implementadas. La redacción mostró orden y precisión.<br><br>
+      TB2: Elaboró la especificación de la API REST (endpoints, parámetros, ejemplos de request/response) y preparó el registro de la migración desde la fake API, incluyendo pruebas y logs relevantes.<br><br>
+      TF1: Documentó de forma exhaustiva las pruebas finales, los scripts de validación, los resultados de integración y los logs relevantes; además incluyó ejemplos y procedimientos reproducibles para futuras verificaciones.
+    </td>
   </tr>
   <tr>
-    <td><br> Nakasone Gomes, Marco Antonio:<br>TB1: Coordinó la recopilación de reportes escritos y la organización de los entregables finales, asegurando la coherencia y claridad en los documentos generados por el equipo.<br><br>TP1: Elaboró y redactó las secciones de Sprint Planning 2, Aspect Leaders and Collaborators y Sprint Backlog 2 en el informe final. La escritura fue organizada, aplicando correctamente la estructura del documento académico y cuidando la gramática. Además, integró la conclusión general del TP1, resumiendo el progreso del proyecto y las perspectivas para el siguiente sprint.<br><br>TB2: Preparó la guía técnica de despliegue en Render, detallando variables de entorno, comandos de build, pasos para restaurar versiones anteriores y recomendaciones de monitoreo post-despliegue.</td>
+    <td>
+      Nakasone Gomes, Marco Antonio:<br>
+      TB1: Coordinó la recopilación de reportes escritos y la organización de los entregables finales, asegurando la coherencia y claridad en los documentos generados por el equipo.<br><br>
+      TP1: Elaboró y redactó las secciones de Sprint Planning 2, Aspect Leaders and Collaborators y Sprint Backlog 2 en el informe final. La escritura fue organizada, aplicando correctamente la estructura del documento académico y cuidando la gramática. Además, integró la conclusión general del TP1, resumiendo el progreso del proyecto y las perspectivas para el siguiente sprint.<br><br>
+      TB2: Preparó la guía técnica de despliegue en Render, detallando variables de entorno, comandos de build, pasos para restaurar versiones anteriores y recomendaciones de monitoreo post-despliegue.<br><br>
+      TF1: Preparó y validó la guía de despliegue final, incluyendo scripts, comandos, variables de entorno y procedimientos de rollback; además documentó recomendaciones de monitoreo y mantenimiento post-despliegue en el informe final.
+    </td>
   </tr>
 </table>
 
@@ -214,6 +272,16 @@ En el siguiente cuadro se detallan las acciones realizadas y las conclusiones al
 ##### [5.2.3.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5236-services-documentation-evidence-for-sprint-review)
 ##### [5.2.3.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#5237-software-deployment-evidence-for-sprint-review)
 ##### [5.2.3.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5238-team-collaboration-insights-during-sprint)
+
+#### [5.2.4. Sprint 4](/docs/chapter-V.md/#524-sprint-4)
+##### [5.2.4.1. Sprint Planning 4](/docs/chapter-V.md/#5241-sprint-planning-4)
+##### [5.2.4.2. Aspect Leaders and Collaborators](/docs/chapter-V.md/#5242-aspect-leaders-and-collaborators)
+##### [5.2.4.3. Sprint Backlog 4](/docs/chapter-V.md/#5243-sprint-backlog-4)
+##### [5.2.4.4. Development Evidence for Sprint Review](/docs/chapter-V.md/#5244-development-evidence-for-sprint-review)
+##### [5.2.4.5. Execution Evidence for Sprint Review](/docs/chapter-V.md/#5245-execution-evidence-for-sprint-review)
+##### [5.2.4.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5246-services-documentation-evidence-for-sprint-review)
+##### [5.2.4.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#5247-software-deployment-evidence-for-sprint-review)
+##### [5.2.4.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5248-team-collaboration-insights-during-sprint)
 
 ### [5.3. Validation Interviews](/docs/chapter-V.md/#53-validation-interviews)
 #### [5.3.1. Design Interviews](/docs/chapter-V.md/#531-design-interviews)

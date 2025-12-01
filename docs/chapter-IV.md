@@ -259,7 +259,7 @@ Para la elaboración de los mock-ups de la landing page, hemos utilizado la herr
 ## 4.4. Web Applications UX/UI Design
 En esta sección se incluyen secciones internas en el cual se presentará y explicará la propuesta visual y de interacción para las aplicaciones que conforman la interacción del usuario con los productos digitales.
 
-Link Figma: https://www.figma.com/design/bDlnXtQ9d5jXaDOGJ1Kx2G/EasyPark?node-id=0-1&t=NMCq1DH0PWQvcfuv-1
+Link Figma: https://tinyurl.com/y75cwvba
 
 ### 4.4.1. Web Applications Wireframes
 ![wireframes_web](/assets/images/chapter-IV/wireframes_web.png)
