@@ -475,11 +475,11 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
   </tr>
   <tr>
     <td>Link</td>
-    <td>https://tinyurl.com/3mwhwdfn</td>
+    <td>https://tinyurl.com/4xftvkbh</td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td> 6:55 min </td>
+    <td> 6:56 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
