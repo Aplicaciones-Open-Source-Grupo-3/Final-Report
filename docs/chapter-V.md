@@ -1327,6 +1327,62 @@ En esta sección se documentan y explican las entrevistas de validación realiza
   </tr>
 </tbody>
 </table>
+</br>
+
+
+
+
+### Segmento Objetivo 2: Operadores de estacionamientos formales
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Juan </td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Rojas</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>26 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Lima</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/assets/images/chapter-V/imagen-validacion-entrevista.png" alt="Entrevista Rojas"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1JNKrDoH4XPiLXE_5kRCwRf2_qqwSaSvF/view?usp=drive_link" 			title="Title">Video</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td> 15:38 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> En la entrevista, el operador Juan Rojas, destacó que tanto la landing page como la aplicación web le parecieron ordenadas y
+	profesionales. Afirmó que las funcionalidades del registro de entrada y salida le ayudarían mucho ya que hay momentos caóticos en el dia a dia cuando hay muchos autos. Además, mencionó que la aplicacion web le favorecería a organizar, calcular y llevar un control de todo, lo que le deba más tiempo para concentrarse en atender bien al cliente. Como mejoras o funciones adicionales que le gustaría introducir, expresó que serían las alertas automáticas para los carros que llevan mucho tiempo o sobrepasan el tiempo límite. Finalmente, expresó que recomendaría la aplicación web, porque simplifica muchas tareas que se hacen a mano, y le permitiría trabajar con más profesionalismo.
+</td>
+  </tr>
+</tbody>
+</table>
 
 
 # 5.3.3. Evaluaciones según heurísticas
