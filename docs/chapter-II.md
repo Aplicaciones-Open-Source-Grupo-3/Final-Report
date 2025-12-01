@@ -367,7 +367,7 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://drive.google.com/file/d/17NHnsQ4T1Du7G9GpeS7d45qLDx6n4Xr-" title="Title">Video</p></td>
+    <td>https://tinyurl.com/3uv9njnf</td>
   </tr>
   <tr>
     <td>Duracion<br></td>
@@ -418,7 +418,7 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://drive.google.com/file/d/13RPVBQpBmqsQWVZD0t3meHPWkvA-OQ7y" title="Title">Video</p></td>
+   <td>https://tinyurl.com/bdhpkjdp</td>
   </tr>
   <tr>
     <td>Duracion<br></td>
@@ -467,7 +467,7 @@ Buenos días/tardes, mi nombre es [Tu nombre] y soy estudiante de [Tu carrera] e
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221383_upc_edu_pe/EfUVABti3VRNgAXI-H_mzv4Bfo61kDKIRKFperED0RLE_Q?e=ZOqKgZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Video</p></td>
+    <td>https://tinyurl.com/3mwhwdfn</td>
   </tr>
   <tr>
     <td>Duracion<br></td>
